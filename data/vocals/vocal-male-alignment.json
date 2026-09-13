@@ -1,0 +1,530 @@
+[
+  {
+    "word": "still",
+    "start": 0.0,
+    "duration": 0.4017,
+    "voiced_fraction": 0.9,
+    "source_start": 0.235,
+    "source_end": 0.54
+  },
+  {
+    "word": "got",
+    "start": 0.4167,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 0.575,
+    "source_end": 0.839
+  },
+  {
+    "word": "me",
+    "start": 0.625,
+    "duration": 0.8183,
+    "voiced_fraction": 0.994,
+    "source_start": 0.839,
+    "source_end": 1.079
+  },
+  {
+    "word": "still",
+    "start": 1.6667,
+    "duration": 0.4017,
+    "voiced_fraction": 0.838,
+    "source_start": 1.554,
+    "source_end": 1.8895
+  },
+  {
+    "word": "got",
+    "start": 2.0833,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 1.8895,
+    "source_end": 2.1495
+  },
+  {
+    "word": "me",
+    "start": 2.2917,
+    "duration": 0.61,
+    "voiced_fraction": 0.992,
+    "source_start": 2.1495,
+    "source_end": 2.359
+  },
+  {
+    "word": "new",
+    "start": 3.3333,
+    "duration": 0.4017,
+    "voiced_fraction": 0.875,
+    "source_start": 2.874,
+    "source_end": 3.079
+  },
+  {
+    "word": "scars",
+    "start": 3.75,
+    "duration": 0.4017,
+    "voiced_fraction": 0.95,
+    "source_start": 3.094,
+    "source_end": 3.679
+  },
+  {
+    "word": "same",
+    "start": 4.1667,
+    "duration": 0.4017,
+    "voiced_fraction": 0.938,
+    "source_start": 4.034,
+    "source_end": 4.3695
+  },
+  {
+    "word": "heart",
+    "start": 4.5833,
+    "duration": 0.61,
+    "voiced_fraction": 1.0,
+    "source_start": 4.3695,
+    "source_end": 4.619
+  },
+  {
+    "word": "underneath",
+    "start": 5.2083,
+    "duration": 1.235,
+    "voiced_fraction": 0.964,
+    "source_start": 4.619,
+    "source_end": 5.219
+  },
+  {
+    "word": "whole",
+    "start": 6.6667,
+    "duration": 0.1933,
+    "voiced_fraction": 0.846,
+    "source_start": 5.634,
+    "source_end": 5.899
+  },
+  {
+    "word": "world",
+    "start": 6.875,
+    "duration": 0.4017,
+    "voiced_fraction": 1.0,
+    "source_start": 5.935,
+    "source_end": 6.279
+  },
+  {
+    "word": "wants",
+    "start": 7.2917,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 6.279,
+    "source_end": 6.559
+  },
+  {
+    "word": "a",
+    "start": 7.5,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 6.559,
+    "source_end": 6.679
+  },
+  {
+    "word": "piece",
+    "start": 7.7083,
+    "duration": 0.61,
+    "voiced_fraction": 0.893,
+    "source_start": 6.679,
+    "source_end": 7.059
+  },
+  {
+    "word": "wants",
+    "start": 8.3333,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 7.514,
+    "source_end": 7.779
+  },
+  {
+    "word": "a",
+    "start": 8.5417,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 7.779,
+    "source_end": 7.889
+  },
+  {
+    "word": "piece",
+    "start": 8.75,
+    "duration": 0.4017,
+    "voiced_fraction": 0.988,
+    "source_start": 7.889,
+    "source_end": 8.169
+  },
+  {
+    "word": "of",
+    "start": 9.1667,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 8.169,
+    "source_end": 8.34
+  },
+  {
+    "word": "me",
+    "start": 9.375,
+    "duration": 0.5058,
+    "voiced_fraction": 1.0,
+    "source_start": 8.34,
+    "source_end": 8.579
+  },
+  {
+    "word": "they",
+    "start": 10.0,
+    "duration": 0.1933,
+    "voiced_fraction": 0.846,
+    "source_start": 8.955,
+    "source_end": 9.099
+  },
+  {
+    "word": "don't",
+    "start": 10.2083,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 9.099,
+    "source_end": 9.26
+  },
+  {
+    "word": "get",
+    "start": 10.4167,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 9.295,
+    "source_end": 9.4695
+  },
+  {
+    "word": "it",
+    "start": 10.625,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 9.4695,
+    "source_end": 9.619
+  },
+  {
+    "word": "all",
+    "start": 10.8333,
+    "duration": 0.61,
+    "voiced_fraction": 1.0,
+    "source_start": 9.634,
+    "source_end": 9.939
+  },
+  {
+    "word": "i",
+    "start": 11.4583,
+    "duration": 0.1933,
+    "voiced_fraction": 0.923,
+    "source_start": 10.375,
+    "source_end": 10.549
+  },
+  {
+    "word": "still",
+    "start": 11.6667,
+    "duration": 0.4017,
+    "voiced_fraction": 1.0,
+    "source_start": 10.549,
+    "source_end": 10.8095
+  },
+  {
+    "word": "got",
+    "start": 12.0833,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 10.8095,
+    "source_end": 11.079
+  },
+  {
+    "word": "me",
+    "start": 12.2917,
+    "duration": 0.7142,
+    "voiced_fraction": 0.993,
+    "source_start": 11.079,
+    "source_end": 11.299
+  },
+  {
+    "word": "still",
+    "start": 13.3333,
+    "duration": 0.4017,
+    "voiced_fraction": 0.975,
+    "source_start": 11.734,
+    "source_end": 12.019
+  },
+  {
+    "word": "got",
+    "start": 13.75,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 12.054,
+    "source_end": 12.32
+  },
+  {
+    "word": "me",
+    "start": 13.9583,
+    "duration": 0.8183,
+    "voiced_fraction": 1.0,
+    "source_start": 12.32,
+    "source_end": 12.559
+  },
+  {
+    "word": "still",
+    "start": 15.0,
+    "duration": 0.4017,
+    "voiced_fraction": 0.912,
+    "source_start": 12.955,
+    "source_end": 13.289
+  },
+  {
+    "word": "got",
+    "start": 15.4167,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 13.289,
+    "source_end": 13.549
+  },
+  {
+    "word": "me",
+    "start": 15.625,
+    "duration": 0.61,
+    "voiced_fraction": 0.926,
+    "source_start": 13.549,
+    "source_end": 13.799
+  },
+  {
+    "word": "got",
+    "start": 16.875,
+    "duration": 0.1933,
+    "voiced_fraction": 0.667,
+    "source_start": 14.174,
+    "source_end": 14.4295
+  },
+  {
+    "word": "my",
+    "start": 17.0833,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 14.4295,
+    "source_end": 14.599
+  },
+  {
+    "word": "eyes",
+    "start": 17.2917,
+    "duration": 0.4017,
+    "voiced_fraction": 1.0,
+    "source_start": 14.614,
+    "source_end": 14.9095
+  },
+  {
+    "word": "up",
+    "start": 17.7083,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 14.9095,
+    "source_end": 15.099
+  },
+  {
+    "word": "high",
+    "start": 17.9167,
+    "duration": 0.4017,
+    "voiced_fraction": 0.825,
+    "source_start": 15.099,
+    "source_end": 15.46
+  },
+  {
+    "word": "got",
+    "start": 18.3333,
+    "duration": 0.1933,
+    "voiced_fraction": 0.821,
+    "source_start": 15.734,
+    "source_end": 15.9695
+  },
+  {
+    "word": "my",
+    "start": 18.5417,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 15.9695,
+    "source_end": 16.14
+  },
+  {
+    "word": "roots",
+    "start": 18.75,
+    "duration": 0.1933,
+    "voiced_fraction": 0.897,
+    "source_start": 16.194,
+    "source_end": 16.549
+  },
+  {
+    "word": "down",
+    "start": 18.9583,
+    "duration": 0.1933,
+    "voiced_fraction": 0.744,
+    "source_start": 16.549,
+    "source_end": 16.819
+  },
+  {
+    "word": "deep",
+    "start": 19.1667,
+    "duration": 0.7142,
+    "voiced_fraction": 1.0,
+    "source_start": 16.875,
+    "source_end": 17.219
+  },
+  {
+    "word": "if",
+    "start": 20.0,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 17.514,
+    "source_end": 17.679
+  },
+  {
+    "word": "it",
+    "start": 20.2083,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 17.679,
+    "source_end": 17.819
+  },
+  {
+    "word": "all",
+    "start": 20.4167,
+    "duration": 0.4017,
+    "voiced_fraction": 1.0,
+    "source_start": 17.819,
+    "source_end": 18.089
+  },
+  {
+    "word": "falls",
+    "start": 20.8333,
+    "duration": 0.4017,
+    "voiced_fraction": 0.938,
+    "source_start": 18.089,
+    "source_end": 18.4495
+  },
+  {
+    "word": "down",
+    "start": 21.25,
+    "duration": 0.4017,
+    "voiced_fraction": 1.0,
+    "source_start": 18.4495,
+    "source_end": 18.819
+  },
+  {
+    "word": "let",
+    "start": 21.6667,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 19.174,
+    "source_end": 19.349
+  },
+  {
+    "word": "it",
+    "start": 21.875,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 19.349,
+    "source_end": 19.579
+  },
+  {
+    "word": "fall",
+    "start": 22.0833,
+    "duration": 0.4017,
+    "voiced_fraction": 1.0,
+    "source_start": 19.579,
+    "source_end": 19.849
+  },
+  {
+    "word": "on",
+    "start": 22.5,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 19.849,
+    "source_end": 20.019
+  },
+  {
+    "word": "beat",
+    "start": 22.7083,
+    "duration": 0.5058,
+    "voiced_fraction": 0.812,
+    "source_start": 20.055,
+    "source_end": 20.439
+  },
+  {
+    "word": "lost",
+    "start": 23.3333,
+    "duration": 0.1933,
+    "voiced_fraction": 0.949,
+    "source_start": 20.814,
+    "source_end": 21.169
+  },
+  {
+    "word": "a",
+    "start": 23.5417,
+    "duration": 0.1933,
+    "voiced_fraction": 0.744,
+    "source_start": 21.169,
+    "source_end": 21.2895
+  },
+  {
+    "word": "lot",
+    "start": 23.75,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 21.2895,
+    "source_end": 21.459
+  },
+  {
+    "word": "of",
+    "start": 23.9583,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 21.459,
+    "source_end": 21.599
+  },
+  {
+    "word": "shit",
+    "start": 24.1667,
+    "duration": 0.61,
+    "voiced_fraction": 0.975,
+    "source_start": 21.635,
+    "source_end": 21.919
+  },
+  {
+    "word": "but",
+    "start": 24.7917,
+    "duration": 0.1933,
+    "voiced_fraction": 0.692,
+    "source_start": 22.215,
+    "source_end": 22.3695
+  },
+  {
+    "word": "i",
+    "start": 25.0,
+    "duration": 0.1933,
+    "voiced_fraction": 1.0,
+    "source_start": 22.3695,
+    "source_end": 22.479
+  },
+  {
+    "word": "still",
+    "start": 25.2083,
+    "duration": 0.4017,
+    "voiced_fraction": 0.963,
+    "source_start": 22.514,
+    "source_end": 22.769
+  },
+  {
+    "word": "got",
+    "start": 25.625,
+    "duration": 0.1933,
+    "voiced_fraction": 0.974,
+    "source_start": 22.769,
+    "source_end": 23.0295
+  },
+  {
+    "word": "me",
+    "start": 25.8333,
+    "duration": 0.7142,
+    "voiced_fraction": 1.0,
+    "source_start": 23.0295,
+    "source_end": 23.259
+  }
+]

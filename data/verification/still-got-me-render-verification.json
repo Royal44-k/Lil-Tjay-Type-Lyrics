@@ -1,0 +1,23 @@
+{
+  "bpm": 144,
+  "half_time_bpm": 72,
+  "bars": 16,
+  "lead_syllables": 68,
+  "audio": [
+    {
+      "file": "still-got-me-hook-demo.wav",
+      "seconds": 28.667,
+      "peak": 0.88,
+      "rms": 0.187
+    },
+    {
+      "file": "still-got-me-hook-backing.wav",
+      "seconds": 28.667,
+      "peak": 0.6752,
+      "rms": 0.1442
+    }
+  ],
+  "midi_tracks": 6,
+  "note_range": "C#4-C#5",
+  "status": "Timing, syllable alignment, finite waveform and PCM range checked; no vocal performance or listening review."
+}

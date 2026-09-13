@@ -1,0 +1,26 @@
+{
+  "female": {
+    "file": "still-got-me-hook-female-synthetic-vocal.wav",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 28.666666666666668,
+    "peak": 0.6256228990093452,
+    "rms": 0.14123752669962927,
+    "words": 66,
+    "words_without_detected_voicing": [],
+    "pitch_octave_offset": 0
+  },
+  "male": {
+    "file": "still-got-me-hook-male-synthetic-vocal.wav",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 28.666666666666668,
+    "peak": 0.8836666474851984,
+    "rms": 0.14449447581612485,
+    "words": 66,
+    "words_without_detected_voicing": [],
+    "pitch_octave_offset": -12
+  },
+  "method": "Public stock TTS + score-aligned WORLD pitch/vowel resynthesis; synthetic prototype, not a natural sung performance.",
+  "common_mix_gain": 0.9248923178736683
+}

@@ -1,0 +1,13 @@
+.venv/
+venv/
+vocal_deps/
+.cache/
+__pycache__/
+*.py[cod]
+*.npz
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db

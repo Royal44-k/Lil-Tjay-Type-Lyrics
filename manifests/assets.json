@@ -1,0 +1,314 @@
+{
+  "project": "STILL GOT ME",
+  "archive_date": "2026-09-13",
+  "asset_count": 31,
+  "asset_bytes": 47588210,
+  "assets": [
+    {
+      "original_name": "STILL-GOT-ME.md",
+      "path": "lyrics/STILL-GOT-ME.md",
+      "bytes": 8704,
+      "sha256": "10642b8efdcdc11ed8fb3ff4b918ba180d8a05d6798401543cd9a47bdf3e2044",
+      "source_sha256": "10642b8efdcdc11ed8fb3ff4b918ba180d8a05d6798401543cd9a47bdf3e2044",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "background-research.md",
+      "path": "research/background-research.md",
+      "bytes": 4190,
+      "sha256": "0506418358a1923773e4b4f1e9639d26725a008e7d34eed20561f3fc3c5611ed",
+      "source_sha256": "36537ca9b02c9043d19c3aa71252937e65b804e08a6f7d5d622d74c66d19cfce",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "removed local-environment and tool-operation preamble; research preserved"
+    },
+    {
+      "original_name": "american-hiphop-culture-research.md",
+      "path": "research/american-hiphop-culture-research.md",
+      "bytes": 5240,
+      "sha256": "a758f109dc0fd2fda3b7db9d9b137e276141af65f7e59f92de1af029b2dd89f9",
+      "source_sha256": "1ca78f3bdc971e0c7b4032a492461ac0237f724799b68267a7d4673f46d63ab0",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "removed local-environment and tool-operation preamble; research preserved"
+    },
+    {
+      "original_name": "melodic-trap-production-research.md",
+      "path": "research/melodic-trap-production-research.md",
+      "bytes": 4140,
+      "sha256": "64b1da437bb7d3cfdd08962703775971e8d345e4ecea451a85ef5769bec82ac4",
+      "source_sha256": "64b1da437bb7d3cfdd08962703775971e8d345e4ecea451a85ef5769bec82ac4",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook-demo.wav",
+      "path": "audio/instrumental/still-got-me-hook-demo.wav",
+      "bytes": 5056844,
+      "sha256": "0aae3e38082e243d9ae0f2073e8dc3dcb5fd790e870cc00fc10ca4132628fd41",
+      "source_sha256": "0aae3e38082e243d9ae0f2073e8dc3dcb5fd790e870cc00fc10ca4132628fd41",
+      "status": "instrumental-composition-sketch",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook-backing.wav",
+      "path": "audio/instrumental/still-got-me-hook-backing.wav",
+      "bytes": 5056844,
+      "sha256": "dff353b45a386f47cc7fc731495006ec6bce9435ec119f00a6d7580a46bcfb55",
+      "source_sha256": "dff353b45a386f47cc7fc731495006ec6bce9435ec119f00a6d7580a46bcfb55",
+      "status": "instrumental-composition-sketch",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook.mid",
+      "path": "midi/still-got-me-hook.mid",
+      "bytes": 3694,
+      "sha256": "5dbe84446f61b9a5ca243024fd947f4e3104d8dac6a5ff2449315ea190493dbd",
+      "source_sha256": "5dbe84446f61b9a5ca243024fd947f4e3104d8dac6a5ff2449315ea190493dbd",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook-notes.csv",
+      "path": "scores/still-got-me-hook-notes.csv",
+      "bytes": 1706,
+      "sha256": "9418570f2111ece4a12837f6168e4c2a46de021e23477bc4f3fa20bd6344eefa",
+      "source_sha256": "9418570f2111ece4a12837f6168e4c2a46de021e23477bc4f3fa20bd6344eefa",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-render-verification.json",
+      "path": "data/verification/still-got-me-render-verification.json",
+      "bytes": 535,
+      "sha256": "cad874ef29c6993c167798f198cc6cce8985fe671e2ad9dbb4eb703cded1ca8c",
+      "source_sha256": "cad874ef29c6993c167798f198cc6cce8985fe671e2ad9dbb4eb703cded1ca8c",
+      "status": "retained-reference-or-editable-asset",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "vocal-mix-verification.json",
+      "path": "data/verification/vocal-mix-verification.json",
+      "bytes": 838,
+      "sha256": "ad869e9129872431a480da7995412211458707ede3bf2bfd12bd94ba162f3081",
+      "source_sha256": "ad869e9129872431a480da7995412211458707ede3bf2bfd12bd94ba162f3081",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "VOCAL-DEMO-NOTES.md",
+      "path": "docs/VOCAL-EXPERIMENT.md",
+      "bytes": 2337,
+      "sha256": "5ba51980c459f4ce24123cf9985cc5e75cb78c636e0446b448d24e3b1f00515b",
+      "source_sha256": "4b1bd416f2c7e48417af89b2d7e0c8d5cdffaae9c47c7bf72173db82cafb1d36",
+      "status": "rejected-vocal-experiment",
+      "transformation": "added subsequent user rejection; corrected historical listening-review status"
+    },
+    {
+      "original_name": "still-got-me-hook-female-synthetic-vocal.mp3",
+      "path": "audio/vocal-experiments/rejected/mixes/still-got-me-hook-female-synthetic-vocal.mp3",
+      "bytes": 919509,
+      "sha256": "9e5bde7b40a9fc43a953a7c6936326eb5a420fc0e08baf39221512b007e61d11",
+      "source_sha256": "9e5bde7b40a9fc43a953a7c6936326eb5a420fc0e08baf39221512b007e61d11",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook-female-synthetic-vocal.wav",
+      "path": "audio/vocal-experiments/rejected/mixes/still-got-me-hook-female-synthetic-vocal.wav",
+      "bytes": 5056844,
+      "sha256": "c8f2fbb83683dad752e2a145d7219226231337cb40faba7d0d65e0a9908eebaf",
+      "source_sha256": "c8f2fbb83683dad752e2a145d7219226231337cb40faba7d0d65e0a9908eebaf",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-female-vocal-dry.wav",
+      "path": "audio/vocal-experiments/rejected/stems/still-got-me-female-vocal-dry.wav",
+      "bytes": 5056844,
+      "sha256": "eebcd356a08a01387f0680ad7ee81f579386a6ada0303ec0dd4b69b230838138",
+      "source_sha256": "eebcd356a08a01387f0680ad7ee81f579386a6ada0303ec0dd4b69b230838138",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-female-vocal-wet.wav",
+      "path": "audio/vocal-experiments/rejected/stems/still-got-me-female-vocal-wet.wav",
+      "bytes": 5056844,
+      "sha256": "d60072a934b37d2aa2a60aa5663b244c65a66c7a0ded1a63174ba56907486963",
+      "source_sha256": "d60072a934b37d2aa2a60aa5663b244c65a66c7a0ded1a63174ba56907486963",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "vocal-female-source.wav",
+      "path": "audio/vocal-experiments/rejected/sources/vocal-female-source.mp3",
+      "bytes": 634462,
+      "sha256": "899eb20619d797dfea3a77ca8292f91ba26fd04545fd0dbbe37161fa98c37ce0",
+      "source_sha256": "899eb20619d797dfea3a77ca8292f91ba26fd04545fd0dbbe37161fa98c37ce0",
+      "status": "rejected-vocal-experiment",
+      "transformation": "extension corrected from .wav to .mp3; bytes unchanged"
+    },
+    {
+      "original_name": "vocal-female-source-pcm.wav",
+      "path": "audio/vocal-experiments/rejected/sources/vocal-female-source-pcm.wav",
+      "bytes": 1748780,
+      "sha256": "0ae074985c228515f36348932197540ebb26c72b7c927c7fedafc8d64fa47997",
+      "source_sha256": "0ae074985c228515f36348932197540ebb26c72b7c927c7fedafc8d64fa47997",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "vocal-female-source.json",
+      "path": "data/vocals/vocal-female-source.json",
+      "bytes": 5966,
+      "sha256": "87df14a6d2bd3bf1922778ef6da4cab0a0b99595f1c3132118bb90263f642b62",
+      "source_sha256": "8cc3490f6a2d845d14525f7405725d9dc34774fe8e23c22675bedb5a585f3007",
+      "status": "rejected-vocal-experiment",
+      "transformation": "removed provider delivery URL and request ID; added local media path"
+    },
+    {
+      "original_name": "vocal-female-alignment.json",
+      "path": "data/vocals/vocal-female-alignment.json",
+      "bytes": 10753,
+      "sha256": "641c59b65839b52dc17285870368856ef51aa2fe20b8d9d29a1674d6a683b762",
+      "source_sha256": "641c59b65839b52dc17285870368856ef51aa2fe20b8d9d29a1674d6a683b762",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook-male-synthetic-vocal.mp3",
+      "path": "audio/vocal-experiments/rejected/mixes/still-got-me-hook-male-synthetic-vocal.mp3",
+      "bytes": 919509,
+      "sha256": "54fed618efb7a6523dba892bf8f776497b7fee64795054fa46d0753ee3e805da",
+      "source_sha256": "54fed618efb7a6523dba892bf8f776497b7fee64795054fa46d0753ee3e805da",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-hook-male-synthetic-vocal.wav",
+      "path": "audio/vocal-experiments/rejected/mixes/still-got-me-hook-male-synthetic-vocal.wav",
+      "bytes": 5056844,
+      "sha256": "4ac4223edcb3c1826e97bfb1d8a780d61c1f5c9e144aa848c39d189ebb6faa56",
+      "source_sha256": "4ac4223edcb3c1826e97bfb1d8a780d61c1f5c9e144aa848c39d189ebb6faa56",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-male-vocal-dry.wav",
+      "path": "audio/vocal-experiments/rejected/stems/still-got-me-male-vocal-dry.wav",
+      "bytes": 5056844,
+      "sha256": "4ae1ce3731ea873db79da7f94ba4c2b58f4356831757c90217bbf5b09b163acb",
+      "source_sha256": "4ae1ce3731ea873db79da7f94ba4c2b58f4356831757c90217bbf5b09b163acb",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "still-got-me-male-vocal-wet.wav",
+      "path": "audio/vocal-experiments/rejected/stems/still-got-me-male-vocal-wet.wav",
+      "bytes": 5056844,
+      "sha256": "ec74de5733e665571b2b1b228caa7005eefc2cf4941771d67cce98bd8449ccbf",
+      "source_sha256": "ec74de5733e665571b2b1b228caa7005eefc2cf4941771d67cce98bd8449ccbf",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "vocal-male-source.wav",
+      "path": "audio/vocal-experiments/rejected/sources/vocal-male-source.mp3",
+      "bytes": 751490,
+      "sha256": "a49a9e449c64dd813588b3859fc5bd5ada74c1afa107f326dd99ab2cd7bec1e9",
+      "source_sha256": "a49a9e449c64dd813588b3859fc5bd5ada74c1afa107f326dd99ab2cd7bec1e9",
+      "status": "rejected-vocal-experiment",
+      "transformation": "extension corrected from .wav to .mp3; bytes unchanged"
+    },
+    {
+      "original_name": "vocal-male-source-pcm.wav",
+      "path": "audio/vocal-experiments/rejected/sources/vocal-male-source-pcm.wav",
+      "bytes": 2071340,
+      "sha256": "60ceb82b61a767f4a8c1bbc1bd3d59a5d68bd6192b1b5c1e9089b7e637989aba",
+      "source_sha256": "60ceb82b61a767f4a8c1bbc1bd3d59a5d68bd6192b1b5c1e9089b7e637989aba",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "vocal-male-source.json",
+      "path": "data/vocals/vocal-male-source.json",
+      "bytes": 5970,
+      "sha256": "1b18b8e846175273a47db6e48d0da203baea8dccd24d831eee85b0d487fb7f0e",
+      "source_sha256": "4d65ea8745f00c904c4af6fd1af51cbe7ea0c161a2fe922451e03ccccfb4d82f",
+      "status": "rejected-vocal-experiment",
+      "transformation": "removed provider delivery URL and request ID; added local media path"
+    },
+    {
+      "original_name": "vocal-male-alignment.json",
+      "path": "data/vocals/vocal-male-alignment.json",
+      "bytes": 10744,
+      "sha256": "7c4a1a1a8bcc81d738a1d15b1c63d359ad7b1cef0b3d08c384a75914ef42e603",
+      "source_sha256": "7c4a1a1a8bcc81d738a1d15b1c63d359ad7b1cef0b3d08c384a75914ef42e603",
+      "status": "rejected-vocal-experiment",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "render_still_got_me.py",
+      "path": "scripts/original/render_still_got_me.py",
+      "bytes": 8993,
+      "sha256": "b23542b8a6fc86f873166513b5ab8b5862d75726eb6d2ab848bddc258a128366",
+      "source_sha256": "b23542b8a6fc86f873166513b5ab8b5862d75726eb6d2ab848bddc258a128366",
+      "status": "historical-production-source",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "render_vocal_hooks.py",
+      "path": "scripts/original/render_vocal_hooks.py",
+      "bytes": 13066,
+      "sha256": "2041623f1983f6dfbfba94717a11dc77c11c351f5660a97ae01d7fcf8ed845e8",
+      "source_sha256": "2041623f1983f6dfbfba94717a11dc77c11c351f5660a97ae01d7fcf8ed845e8",
+      "status": "historical-production-source",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "export_vocal_previews.py",
+      "path": "scripts/original/export_vocal_previews.py",
+      "bytes": 752,
+      "sha256": "b7506fc6d7cd0da9cb92471a79b10039d7ed4cb7172ac88d46cf0351c9699832",
+      "source_sha256": "b7506fc6d7cd0da9cb92471a79b10039d7ed4cb7172ac88d46cf0351c9699832",
+      "status": "historical-production-source",
+      "transformation": "none; copied byte-for-byte"
+    },
+    {
+      "original_name": "download_vocal_sources.py",
+      "path": "scripts/original/download_vocal_sources.py",
+      "bytes": 740,
+      "sha256": "c2da227b071bb4b58d3e5297b77879cd04eb67d8ec2c32209b0218f96fc511c7",
+      "source_sha256": "c2da227b071bb4b58d3e5297b77879cd04eb67d8ec2c32209b0218f96fc511c7",
+      "status": "historical-production-source",
+      "transformation": "none; copied byte-for-byte"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "vocal-female-world.npz",
+      "bytes": 50109049,
+      "reason": "regenerable WORLD analysis cache"
+    },
+    {
+      "name": "vocal-male-world.npz",
+      "bytes": 64332348,
+      "reason": "regenerable WORLD analysis cache"
+    },
+    {
+      "name": "vocal_deps/",
+      "files": 2629,
+      "bytes": 139597752,
+      "reason": "installed third-party runtime; replaced by requirements.txt"
+    }
+  ],
+  "previously_deleted_and_not_restored": [
+    "慢半拍-歌词与制作说明.md",
+    "man-ban-pai-hook-demo.wav",
+    "man-ban-pai-hook-backing.wav",
+    "man-ban-pai-hook.mid",
+    "man-ban-pai-hook-notes.csv",
+    "render_hook.py",
+    "render-verification.json"
+  ]
+}

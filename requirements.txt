@@ -1,0 +1,7 @@
+# Session-compatible audio-rendering dependencies; Python 3.12 was used.
+numpy==2.3.5
+scipy==1.18.1
+soundfile==0.14.0
+cffi==2.1.1
+pycparser==3.0
+pyworld-prebuilt==0.3.6.post1

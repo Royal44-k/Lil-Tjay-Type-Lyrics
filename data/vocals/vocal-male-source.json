@@ -1,0 +1,351 @@
+{
+  "duration": 23.484081632653062,
+  "word_timestamps": [
+    {
+      "word": "<start>",
+      "start": 0,
+      "end": 0
+    },
+    {
+      "word": "Still",
+      "start": 0.28,
+      "end": 0.5
+    },
+    {
+      "word": "got",
+      "start": 0.62,
+      "end": 0.799
+    },
+    {
+      "word": "me,",
+      "start": 0.879,
+      "end": 1.039
+    },
+    {
+      "word": "still",
+      "start": 1.599,
+      "end": 1.86
+    },
+    {
+      "word": "got",
+      "start": 1.919,
+      "end": 2.119
+    },
+    {
+      "word": "me.",
+      "start": 2.18,
+      "end": 2.319
+    },
+    {
+      "word": "New",
+      "start": 2.919,
+      "end": 3.039
+    },
+    {
+      "word": "scars,",
+      "start": 3.139,
+      "end": 3.639
+    },
+    {
+      "word": "same",
+      "start": 4.079,
+      "end": 4.339
+    },
+    {
+      "word": "heart",
+      "start": 4.4,
+      "end": 4.599
+    },
+    {
+      "word": "underneath.",
+      "start": 4.639,
+      "end": 5.179
+    },
+    {
+      "word": "Whole",
+      "start": 5.679,
+      "end": 5.859
+    },
+    {
+      "word": "world",
+      "start": 5.98,
+      "end": 6.239
+    },
+    {
+      "word": "wants",
+      "start": 6.319,
+      "end": 6.539
+    },
+    {
+      "word": "a",
+      "start": 6.579,
+      "end": 6.659
+    },
+    {
+      "word": "piece,",
+      "start": 6.699,
+      "end": 7.019
+    },
+    {
+      "word": "wants",
+      "start": 7.559,
+      "end": 7.759
+    },
+    {
+      "word": "a",
+      "start": 7.799,
+      "end": 7.859
+    },
+    {
+      "word": "piece",
+      "start": 7.919,
+      "end": 8.139
+    },
+    {
+      "word": "of",
+      "start": 8.199,
+      "end": 8.3
+    },
+    {
+      "word": "me.",
+      "start": 8.38,
+      "end": 8.539
+    },
+    {
+      "word": "They",
+      "start": 9,
+      "end": 9.079
+    },
+    {
+      "word": "don't",
+      "start": 9.119,
+      "end": 9.22
+    },
+    {
+      "word": "get",
+      "start": 9.34,
+      "end": 9.46
+    },
+    {
+      "word": "it",
+      "start": 9.479,
+      "end": 9.579
+    },
+    {
+      "word": "all,",
+      "start": 9.679,
+      "end": 9.899
+    },
+    {
+      "word": "I",
+      "start": 10.42,
+      "end": 10.519
+    },
+    {
+      "word": "still",
+      "start": 10.579,
+      "end": 10.779
+    },
+    {
+      "word": "got",
+      "start": 10.84,
+      "end": 11.039
+    },
+    {
+      "word": "me.",
+      "start": 11.119,
+      "end": 11.259
+    },
+    {
+      "word": "Still",
+      "start": 11.779,
+      "end": 11.979
+    },
+    {
+      "word": "got",
+      "start": 12.099,
+      "end": 12.3
+    },
+    {
+      "word": "me,",
+      "start": 12.34,
+      "end": 12.519
+    },
+    {
+      "word": "still",
+      "start": 13,
+      "end": 13.259
+    },
+    {
+      "word": "got",
+      "start": 13.319,
+      "end": 13.519
+    },
+    {
+      "word": "me.",
+      "start": 13.579,
+      "end": 13.759
+    },
+    {
+      "word": "Got",
+      "start": 14.219,
+      "end": 14.399
+    },
+    {
+      "word": "my",
+      "start": 14.46,
+      "end": 14.559
+    },
+    {
+      "word": "eyes",
+      "start": 14.659,
+      "end": 14.88
+    },
+    {
+      "word": "up",
+      "start": 14.939,
+      "end": 15.079
+    },
+    {
+      "word": "high,",
+      "start": 15.119,
+      "end": 15.42
+    },
+    {
+      "word": "got",
+      "start": 15.779,
+      "end": 15.939
+    },
+    {
+      "word": "my",
+      "start": 16,
+      "end": 16.1
+    },
+    {
+      "word": "roots",
+      "start": 16.239,
+      "end": 16.519
+    },
+    {
+      "word": "down",
+      "start": 16.579,
+      "end": 16.779
+    },
+    {
+      "word": "deep.",
+      "start": 16.92,
+      "end": 17.179
+    },
+    {
+      "word": "If",
+      "start": 17.559,
+      "end": 17.659
+    },
+    {
+      "word": "it",
+      "start": 17.699,
+      "end": 17.779
+    },
+    {
+      "word": "all",
+      "start": 17.859,
+      "end": 18.059
+    },
+    {
+      "word": "falls",
+      "start": 18.119,
+      "end": 18.42
+    },
+    {
+      "word": "down,",
+      "start": 18.479,
+      "end": 18.779
+    },
+    {
+      "word": "let",
+      "start": 19.219,
+      "end": 19.319
+    },
+    {
+      "word": "it",
+      "start": 19.379,
+      "end": 19.539
+    },
+    {
+      "word": "fall",
+      "start": 19.619,
+      "end": 19.819
+    },
+    {
+      "word": "on",
+      "start": 19.879,
+      "end": 19.979
+    },
+    {
+      "word": "beat.",
+      "start": 20.1,
+      "end": 20.399
+    },
+    {
+      "word": "Lost",
+      "start": 20.859,
+      "end": 21.139
+    },
+    {
+      "word": "a",
+      "start": 21.199,
+      "end": 21.26
+    },
+    {
+      "word": "lot",
+      "start": 21.319,
+      "end": 21.439
+    },
+    {
+      "word": "of",
+      "start": 21.479,
+      "end": 21.559
+    },
+    {
+      "word": "shit,",
+      "start": 21.68,
+      "end": 21.879
+    },
+    {
+      "word": "but",
+      "start": 22.26,
+      "end": 22.34
+    },
+    {
+      "word": "I",
+      "start": 22.399,
+      "end": 22.439
+    },
+    {
+      "word": "still",
+      "start": 22.559,
+      "end": 22.739
+    },
+    {
+      "word": "got",
+      "start": 22.799,
+      "end": 23
+    },
+    {
+      "word": "me.",
+      "start": 23.059,
+      "end": 23.219
+    },
+    {
+      "word": "<end>",
+      "start": 23.484081632653062,
+      "end": 23.484081632653062
+    }
+  ],
+  "voice_provider": "HeyGen",
+  "voice_name": "Shaun",
+  "voice_type": "public stock voice",
+  "voice_id": "01c42cddcfdc4665a57b8d89cba8ffc1",
+  "local_audio_file": "audio/vocal-experiments/rejected/sources/vocal-male-source.mp3",
+  "archive_note": "Provider delivery URL and request ID omitted. Public stock synthetic speech; not a named artist recording."
+}
