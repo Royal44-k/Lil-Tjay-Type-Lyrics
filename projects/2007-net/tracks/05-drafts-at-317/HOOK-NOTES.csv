@@ -1,0 +1,8 @@
+﻿syllable,pitch,midi_note,start_beat,duration_beats
+Three,G3,55,0,0.5
+se,B3,59,0.5,0.5
+ven,D4,62,1,1
+teen,B3,59,2,2
+Back,A3,57,4,1
+space,G3,55,5,1
+breathe,E3,52,6,1.5

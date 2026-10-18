@@ -1,0 +1,9 @@
+﻿syllable,pitch,midi_note,start_beat,duration_beats
+Say,C#4,61,0,1
+my,E4,64,1,1
+screen,F#4,66,2,1
+name,A4,69,3,3.5
+Say,G#4,68,8,1
+it,F#4,66,9,1
+real,E4,64,10,1
+slow,C#4,61,11,3.5

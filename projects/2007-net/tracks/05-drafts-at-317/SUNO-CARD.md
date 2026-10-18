@@ -1,0 +1,98 @@
+## 05 — DRAFTS AT 3:17
+
+目标：78 BPM，E minor，3:17。
+
+### Title
+
+```text
+DRAFTS AT 3:17
+```
+
+### Style
+
+```text
+English intimate underground hip-hop with psychedelic R&B atmosphere, 78 BPM, E minor. Adult low male voice, measured confessional rap and a restrained low sung hook. Sparse electric-piano intervals, soft kick, brushed rim texture, short bass notes and slight tape movement on the background only. Let sentences stop naturally, with clear breaths and no ad-lib commentary. Seventeen and screen carry long ee vowels. The second verse becomes almost spoken at the direct apology. End with one brief female question and room silence. Warm, unresolved, specific and close.
+```
+
+### Exclude
+
+```text
+triumphant final lift, gospel choir, dramatic sobbing, lush constant pads, busy trap rolls, over-sung apology, long melisma
+```
+
+### Lyrics
+
+```text
+[Intro - male, close]
+Dear Ben.
+No. Just Ben.
+
+[Verse 1 - male, measured rap]
+Three seventeen, and the kettle clicks off.
+I write, "It's been a minute." Like a minute got lost.
+Like a clock made the joke, like the room made me laugh,
+Like I didn't see you pulling both your feet back.
+You lent me bus fare when my card wouldn't read.
+I made your shoes a story everybody could repeat.
+Same thin soles I was trying to hide;
+Found a softer place to put the thing I felt inside.
+That's a reason. Doesn't make it yours to bear.
+I erase the little paragraph explaining why I cared.
+Erase the weather, erase the show,
+Erase the "if" from "if I made you feel low."
+I keep wanting one sentence that'll settle the debt,
+Something you can answer with "It's cool, forget."
+But you walked home quiet. I remember the sound:
+Everybody talking while you stared at the ground.
+
+[Chorus - restrained low melody]
+Three seventeen.
+Backspace, breathe.
+All these words
+And none of me.
+Three seventeen.
+Say what you mean.
+Sorry looks small
+On a crowded screen.
+
+[Verse 2 - male, pauses between thoughts]
+There's a picture on my desk from before that night.
+You were holding up the lamp so the rest of us looked right.
+Never in the middle, always helping something work;
+I confused the way you loved us with permission to be hurt.
+I could send a song. You used to like the chords.
+But a chorus can't do every little errand I avoid.
+So: I was cruel. You had done nothing wrong.
+I let them think I meant it. I let it go on.
+I won't make a doorway out of what I did to you,
+Ask you to congratulate the man I'm turning into.
+If you want the distance, I can let the distance stand.
+If you want the jacket, I can leave it with your dad.
+Cursor by the button. Thumb against a tooth.
+Funny, all this typing, still afraid to tell the truth.
+I save another draft. The morning takes the room.
+For once, I don't mistake the words for following through.
+
+[Bridge - spare spoken melody]
+Three seventeen became four.
+Four became the bus.
+I carried what I'd written.
+I hadn't carried much.
+Your jacket by the doorway,
+My hand upon the sleeve.
+I know what I should do now.
+Knowing isn't doing it.
+
+[Chorus - no ad-libs]
+Three seventeen.
+Backspace, breathe.
+All these words
+And none of me.
+Three seventeen.
+Say what you mean.
+Sorry looks small
+On a crowded screen.
+
+[Outro - sampled female question, then space]
+You there?
+```

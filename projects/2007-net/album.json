@@ -1,0 +1,87 @@
+{
+  "title": "2007.net",
+  "date": "2026-09-29",
+  "version": "composition-v1.0",
+  "language": "English",
+  "status": "PREPRODUCTION_NO_AUDIO",
+  "tracks": [
+    {
+      "number": "01",
+      "title": "SCREEN NAME",
+      "bpm": 142,
+      "key": "F# minor",
+      "genre": "melodic trap / dream R&B",
+      "bars": 132,
+      "planned_seconds": 223.099,
+      "planned_time": "3:43",
+      "folder": "01-screen-name"
+    },
+    {
+      "number": "02",
+      "title": "TOP EIGHT",
+      "bpm": 156,
+      "key": "B minor",
+      "genre": "digicore / rage / melodic rap",
+      "bars": 120,
+      "planned_seconds": 184.615,
+      "planned_time": "3:05",
+      "folder": "02-top-eight"
+    },
+    {
+      "number": "03",
+      "title": "LOW-RES KISS",
+      "bpm": 94,
+      "key": "D major",
+      "genre": "psychedelic R&B / singing rap",
+      "bars": 56,
+      "planned_seconds": 142.979,
+      "planned_time": "2:23",
+      "folder": "03-low-res-kiss"
+    },
+    {
+      "number": "04",
+      "title": "POP-UP HEAVEN",
+      "bpm": 160,
+      "key": "C# minor",
+      "genre": "hyperpop / rage / underground rap",
+      "bars": 104,
+      "planned_seconds": 156.0,
+      "planned_time": "2:36",
+      "folder": "04-pop-up-heaven"
+    },
+    {
+      "number": "05",
+      "title": "DRAFTS AT 3:17",
+      "bpm": 78,
+      "key": "E minor",
+      "genre": "underground hip-hop / psychedelic R&B",
+      "bars": 64,
+      "planned_seconds": 196.923,
+      "planned_time": "3:17",
+      "folder": "05-drafts-at-317"
+    },
+    {
+      "number": "06",
+      "title": "BURN THIS SUMMER",
+      "bpm": 132,
+      "key": "A major",
+      "genre": "two-step / melodic rap / R&B",
+      "bars": 128,
+      "planned_seconds": 232.727,
+      "planned_time": "3:53",
+      "folder": "06-burn-this-summer"
+    },
+    {
+      "number": "07",
+      "title": "2007.NET",
+      "bpm": 86,
+      "key": "F# minor / A major chorus",
+      "genre": "alternative hip-hop / soulful R&B",
+      "bars": 68,
+      "planned_seconds": 189.767,
+      "planned_time": "3:10",
+      "folder": "07-2007-net"
+    }
+  ],
+  "total_planned_seconds": 1326.11
+}

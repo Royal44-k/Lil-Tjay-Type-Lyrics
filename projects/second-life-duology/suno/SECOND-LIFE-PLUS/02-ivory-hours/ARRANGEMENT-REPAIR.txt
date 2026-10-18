@@ -1,0 +1,1 @@
+Expose the original piano phrase first, then reorder shorter slices under the verses. Preserve gaps in the drum pattern and let the second verse stay close. Remove the large string pad and any cinematic build. Let the last piano decay finish naturally.

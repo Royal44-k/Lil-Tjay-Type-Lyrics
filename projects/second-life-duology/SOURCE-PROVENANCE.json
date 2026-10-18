@@ -1,0 +1,547 @@
+[
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\01-NO-RECEIPT\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE\\01-NO-RECEIPT\\LYRICS.txt",
+    "sha256": "f1097698e88fd04fe822f1ff24c54c7589e32880b89ac4fe56285b01c9f06b59"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\01-NO-RECEIPT\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE\\01-NO-RECEIPT\\STYLE.txt",
+    "sha256": "121164c1fd3718966ff0a8620a604f754e8d32d4b76d2d594253c616c8acc41f"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\01-NO-RECEIPT\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE\\01-NO-RECEIPT\\EXCLUDE.txt",
+    "sha256": "b7d12249b0c29caa5c5abf8a7d1691202598479fe3e3950187a2f800e40c8482"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\01-NO-RECEIPT\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE\\01-NO-RECEIPT\\HOOK-GUIDE.mid",
+    "sha256": "caa1033696491d822311fe5250c02f01447413aba580b05b1deafde6f2503465"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\01-NO-RECEIPT\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE\\01-NO-RECEIPT\\HOOK-NOTES.csv",
+    "sha256": "63c151394bcfdc7e8093de49811bb39b973a4dee46b02819a2a4acbf63799792"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\01-NO-RECEIPT\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE\\01-NO-RECEIPT\\ARRANGEMENT.csv",
+    "sha256": "108f887d23f44b76d1c5d921554d90b34c57012988fdd7fbdff9202420171589"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\02-FAST-FORWARD\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE\\02-FAST-FORWARD\\LYRICS.txt",
+    "sha256": "8db137bd7cabdbd013d2e0b6cea3e17fdbbcfcd559ae1fa5cd5b2b927522f0f0"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\02-FAST-FORWARD\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE\\02-FAST-FORWARD\\STYLE.txt",
+    "sha256": "d7656c7a12e51a2551793daa209fec063ca6274e6d6c0888f976714000e75967"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\02-FAST-FORWARD\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE\\02-FAST-FORWARD\\EXCLUDE.txt",
+    "sha256": "8c4beb80f8e763d05c426994812e86c3a2191562fb6d1df2bc0a16b711e36522"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\02-FAST-FORWARD\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE\\02-FAST-FORWARD\\HOOK-GUIDE.mid",
+    "sha256": "70e52f47ea083b30ed102a82d35bb05085eec13b48e2c9fdf8b50a1cd6f702b5"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\02-FAST-FORWARD\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE\\02-FAST-FORWARD\\HOOK-NOTES.csv",
+    "sha256": "783c3c8480199dba84d9ba9238640cf1038751de209cd98829dbe801e80d5d66"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\02-FAST-FORWARD\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE\\02-FAST-FORWARD\\ARRANGEMENT.csv",
+    "sha256": "96eee11aa9864de9398010b5a359c0e8c6333cb19892bf86576e9d2bde2048b0"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\03-ROOM-TONE\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE\\03-ROOM-TONE\\LYRICS.txt",
+    "sha256": "95035309eead224c771a59729f991b52ebbc6fe355a2f01fd45c8f28e794e3c6"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\03-ROOM-TONE\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE\\03-ROOM-TONE\\STYLE.txt",
+    "sha256": "cce9f217b488a93938a4d97c58f594ea16c85e0c9b46d12b7be437cd232d6ab2"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\03-ROOM-TONE\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE\\03-ROOM-TONE\\EXCLUDE.txt",
+    "sha256": "aac344edb52817dbb41b1ce6aaea17c628b4f7e20d050b9b23110a724e4b0044"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\03-ROOM-TONE\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE\\03-ROOM-TONE\\HOOK-GUIDE.mid",
+    "sha256": "7b121515d37bb519aec3370fbaa4655ad4025da4b27db26effc8b59d83093759"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\03-ROOM-TONE\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE\\03-ROOM-TONE\\HOOK-NOTES.csv",
+    "sha256": "601e5b0b1af23d6c016a3c3b578cbdbf2ae22aa46124293d530b71ea8c0d30df"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\03-ROOM-TONE\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE\\03-ROOM-TONE\\ARRANGEMENT.csv",
+    "sha256": "c46aa59b0ee9820edac730fc95106a3beee9f4abedb8761f50a819972a543e19"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE\\04-SECOND-LIFE\\LYRICS.txt",
+    "sha256": "ef4858c311ae3e116ed423dfd2915e50e43497cd2959e687171efb3fe8950c4d"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE\\04-SECOND-LIFE\\STYLE.txt",
+    "sha256": "da35ad82eea732acb2774fe9695860f3e0b7721899fa9269350a63ce1c77af15"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE\\04-SECOND-LIFE\\EXCLUDE.txt",
+    "sha256": "216da162f3c6c4782904bf3d62772a6cbc731019e2950ea0ac28142439f67e4d"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE\\04-SECOND-LIFE\\HOOK-GUIDE.mid",
+    "sha256": "5ebaf2c5b329ac8ea186bef8f4881dc14b3b251cb72b39ba290dd7422c805190"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE\\04-SECOND-LIFE\\HOOK-NOTES.csv",
+    "sha256": "0a2561a9cc6cb68275d5710f4826b39e8bba5a8ef69a3f596b4427a33e25b816"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE\\04-SECOND-LIFE\\ARRANGEMENT.csv",
+    "sha256": "92b85fdd7f277290aafb642365011dc4b9a156a08041ff99fcfb99d0cb563007"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\LYRICS.txt",
+    "sha256": "6f27923956d3566e16c441b06afad4ce1b95f0ed1a3cddb171cb212d5f220bd3"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\STYLE.txt",
+    "sha256": "f49e097413aec201bb4e1ecb699909644885f4575b2d9795c9b00a8dc3d46f2a"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\EXCLUDE.txt",
+    "sha256": "fe9dc8e80ec3d67e063e26d547e1234d2ecc8140dcd86d1e754801df775b7ef9"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\HOOK-GUIDE.mid",
+    "sha256": "17f85b6c5c438a93363c15e09315fce51bab3ef90f429c29667dead320081fdd"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\HOOK-NOTES.csv",
+    "sha256": "84fd812ab3246b06323ae9c3aad1d13983ca1116f27399f9b9ecdbfdb0075ce5"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\ARRANGEMENT.csv",
+    "sha256": "8fe59f8f7affc516a6eb9ad9edfe9497ac1ff3030a4904d3bcef7bf0b61d4181"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\01-no-receipt-remix\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\01-no-receipt-remix\\HOOK-LEAD.musicxml",
+    "sha256": "c7971ae6235cdc1d78fd498643b4a694cdf7f5a882947c74a4f176e4ffa7a51f"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\LYRICS.txt",
+    "sha256": "68685b5029a443c3dba7615b36530866f35b119ad83f63958bc37117e33b1b83"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\STYLE.txt",
+    "sha256": "bd83cb698ee516884827930ea192fac8233c1520a6d6648baf36b359d741bed7"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\EXCLUDE.txt",
+    "sha256": "6108dd477ae231293ef880cc4d605683f0a0d146970bfda13054dc35a77e1927"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\HOOK-GUIDE.mid",
+    "sha256": "f34af3172eb295fe592ab25a023363c838abf7ee785bdf52402cd82a6f16819c"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\HOOK-NOTES.csv",
+    "sha256": "81a4a5ddaabe4867b7fb6ada583c69999e2f8ffc064b2e4938ac123509733cc0"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\ARRANGEMENT.csv",
+    "sha256": "e94a750bf51cdfd54e4e15ad522552672c88d62fbba4720d88488cdadb1f3cf9"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\02-ivory-hours\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\02-ivory-hours\\HOOK-LEAD.musicxml",
+    "sha256": "08e70d20dcf6bb2b418bd5d1bba18be322adaff2b269ce621621198c53f56f93"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\LYRICS.txt",
+    "sha256": "dd6cebd8ad2fc0d1023096fc8f477295a7a80b818e4ea904b5684d2cfc2c16ea"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\STYLE.txt",
+    "sha256": "93220de40cd5f7cf7b449122f57c6b3718fc0c7b40fbe7c1133e96019c8b4cc4"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\EXCLUDE.txt",
+    "sha256": "1ace1cfa6621436f26021aa7e958b1369a077cbda49e4aca8f85e23fb6b6f773"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\HOOK-GUIDE.mid",
+    "sha256": "e6054e4e959b83fb5af870cb0a88dffc9e326416180706062e3591aa1ca0c6e3"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\HOOK-NOTES.csv",
+    "sha256": "620b0c1be51ad485d367908ff4a63571608f0b294451fae92438e5b0afac437a"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\ARRANGEMENT.csv",
+    "sha256": "ced49fa89c08cf7e0fc8af70c814e6db7e71dc8d4f03bddac6e0e416d620b6b7"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\03-fast-forward-remix\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\03-fast-forward-remix\\HOOK-LEAD.musicxml",
+    "sha256": "46c7a044d7c72611b2746994604bc9497187b7ffbba42021229bdbd464abdc4d"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\LYRICS.txt",
+    "sha256": "c387cc99d1ad1f524e1b259c35b6ebf9f14e8cbdc00d7418fbbb87863936921a"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\STYLE.txt",
+    "sha256": "d23a8ca3403b35fc4d31d46dc0decbd3eb669a8320d340635a1841bc31c7a94b"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\EXCLUDE.txt",
+    "sha256": "c6b337796bf67a1344a1679ac0e0af3cb6cdd626be8728fc842031dcbcc203c4"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\HOOK-GUIDE.mid",
+    "sha256": "8e295d271981bb79a279213977215d6d4c10541968ec216d030dd4cdad32e8cb"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\HOOK-NOTES.csv",
+    "sha256": "6b7a7f3728f3c65f3b526dd9dc2d33d9df56c380e712e25624a5e3baea73918d"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\ARRANGEMENT.csv",
+    "sha256": "434950fe0ff74727b759d44f664eefdacb5bdfc08b7a98d7b6d250bbba911364"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\04-counterstep\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\04-counterstep\\HOOK-LEAD.musicxml",
+    "sha256": "e2eda7bf2e073195af175b7f816bf412b2580f52c6c1ba09cbbcb223a86c4a39"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\LYRICS.txt",
+    "sha256": "ae7f452715032b31911104a3b3ba493b8bbc2ae448bbe6dd97d4ccd02bcfe398"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\STYLE.txt",
+    "sha256": "d2f14a2bafa7d87b29765ff67bf60c3770328deb0adf6853f0ffef4f32921f90"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\EXCLUDE.txt",
+    "sha256": "f990fbf74e9c09b527e93fac102ccace1ed63a876a3d1a6f5ff2f36cd43f88c8"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\HOOK-GUIDE.mid",
+    "sha256": "e24f838e9b42fc628fb48071769e3882ebbadbf9376969504b656fd2630ac9c1"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\HOOK-NOTES.csv",
+    "sha256": "d82d28ed2cd97dd28c10e9c406659b522edea5722147fe5805f274bc12a0681e"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\ARRANGEMENT.csv",
+    "sha256": "803210d106ad0835cca6592ad36731327077956b2764c57224a71a0f77834fd5"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\05-room-tone-remix\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\05-room-tone-remix\\HOOK-LEAD.musicxml",
+    "sha256": "9ff06f5e9287585b13c6c8b678f10a64a31668cd5d2754bc809e94e25884afb3"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\LYRICS.txt",
+    "sha256": "a90da819c4eef95b461509e62446faa47844f878e81d3551f32f2b03b93cc736"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\STYLE.txt",
+    "sha256": "acbf3e9120d929a6a99996ad68d0130ae32925c758e04bdcfb86c324080ed756"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\EXCLUDE.txt",
+    "sha256": "0e2cf171e73a9a218069553d4e6636fb2f3569cbae567c6f87fc192e9b74a0f5"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\HOOK-GUIDE.mid",
+    "sha256": "51903b4144425c19e90a160bea8679c939a13a8fa85af5fd4f7c65d6359f42f4"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\HOOK-NOTES.csv",
+    "sha256": "0c7c6b935e0a2dbabd1f3fce9ee2cc4dce0f896f88835fd0020905028307a337"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\ARRANGEMENT.csv",
+    "sha256": "2572e550445cc6d2bd857e3a29bc3fcc10f6c1eb844f422eccd364080c3e9f68"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\06-soft-landing\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\06-soft-landing\\HOOK-LEAD.musicxml",
+    "sha256": "43212a8f60283a6501ec5c4fc98e06ebc6cc06543ebc2185981dcb07c2540bc8"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\LYRICS.txt",
+    "sha256": "a89666eb22ed0017b62c995b1554ef96b0c922bd10caddf28f85c76821c7efa1"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\STYLE.txt",
+    "sha256": "aad2ef6504968ee41067fcb11981b1cd3b6b7a12ddd0730bc6f534872612b3a7"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\EXCLUDE.txt",
+    "sha256": "22baed7e27fda7d999d33fe08decdb6f9b3e3c5c1c85782c4d5325e981f20f45"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\HOOK-GUIDE.mid",
+    "sha256": "6b69ac256984eaf2715bd49f85d33f4c0de3f5331e1f6e1c52ef76b03ad37f43"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\HOOK-NOTES.csv",
+    "sha256": "0dc9fbf91e38be1b0f2729f0f8c0ba299288ef0a75618b8c1ddb4e123e76ceb1"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\ARRANGEMENT.csv",
+    "sha256": "d707697c8cdd78eff36346b840b0ac296217929f6f14b4b449b12951b05bfbcd"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\07-last-train-first-light\\HOOK-LEAD.musicxml",
+    "copy": "suno\\SECOND-LIFE-PLUS\\07-last-train-first-light\\HOOK-LEAD.musicxml",
+    "sha256": "33b2fcf92e14ca76b162ba856297a48a63da67d8fb3ffe038662aa0206d57c8f"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\08-second-life\\LYRICS.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\08-second-life\\LYRICS.txt",
+    "sha256": "ef4858c311ae3e116ed423dfd2915e50e43497cd2959e687171efb3fe8950c4d"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\08-second-life\\STYLE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\08-second-life\\STYLE.txt",
+    "sha256": "da35ad82eea732acb2774fe9695860f3e0b7721899fa9269350a63ce1c77af15"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\08-second-life\\EXCLUDE.txt",
+    "copy": "suno\\SECOND-LIFE-PLUS\\08-second-life\\EXCLUDE.txt",
+    "sha256": "216da162f3c6c4782904bf3d62772a6cbc731019e2950ea0ac28142439f67e4d"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\08-second-life\\HOOK-GUIDE.mid",
+    "copy": "suno\\SECOND-LIFE-PLUS\\08-second-life\\HOOK-GUIDE.mid",
+    "sha256": "5ebaf2c5b329ac8ea186bef8f4881dc14b3b251cb72b39ba290dd7422c805190"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\08-second-life\\HOOK-NOTES.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\08-second-life\\HOOK-NOTES.csv",
+    "sha256": "0a2561a9cc6cb68275d5710f4826b39e8bba5a8ef69a3f596b4427a33e25b816"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\tracks\\08-second-life\\ARRANGEMENT.csv",
+    "copy": "suno\\SECOND-LIFE-PLUS\\08-second-life\\ARRANGEMENT.csv",
+    "sha256": "92b85fdd7f277290aafb642365011dc4b9a156a08041ff99fcfb99d0cb563007"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P01R\\SOURCE-NOTES.csv",
+    "copy": "samples\\P01R\\SOURCE-NOTES.csv",
+    "sha256": "5f4fb1bdfbbadb4e61e20c413f53d5870f889aa5e15334e0038b0f92dd9a71c4"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P01R\\SOURCE-SKETCH.mid",
+    "copy": "samples\\P01R\\SOURCE-SKETCH.mid",
+    "sha256": "59b9309c12df76ffeef6ab25275fd8fe9f8a0e08ab4a709954b4884bc25f6700"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P01R\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\P01R\\SOURCE-SKETCH.musicxml",
+    "sha256": "94970b9f58e677f97b87a8690bc8b989d4061a433f2b6b9751eed0ce3f7a907a"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P02\\SOURCE-NOTES.csv",
+    "copy": "samples\\P02\\SOURCE-NOTES.csv",
+    "sha256": "c0f7a3ddfb3aafb5580911e6a095e7b39fb7a8288c775f614bdbe4eada44e5f7"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P02\\SOURCE-SKETCH.mid",
+    "copy": "samples\\P02\\SOURCE-SKETCH.mid",
+    "sha256": "00ee7f3bcb57bdeda440c23cec715c565789d76653d182a00ec5b043bcdbade9"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P02\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\P02\\SOURCE-SKETCH.musicxml",
+    "sha256": "5468aa263dc1e8bc945ce711eb645eb6e2a1d96e11129603a222d1fbe03d2b82"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P03\\SOURCE-NOTES.csv",
+    "copy": "samples\\P03\\SOURCE-NOTES.csv",
+    "sha256": "09c259e674ae8f201ac9b955703fc5a6d1788ae67c479c15932340c9e50d7d0a"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P03\\SOURCE-SKETCH.mid",
+    "copy": "samples\\P03\\SOURCE-SKETCH.mid",
+    "sha256": "3ea9395c94c3cce8c1bf55d3b59768c02f9396b247ea2fab20f524600afe6ada"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P03\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\P03\\SOURCE-SKETCH.musicxml",
+    "sha256": "c1b278a31c4909d7ceb105cb06db46304de33720f656d8be21601c354a8e8687"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P04\\SOURCE-NOTES.csv",
+    "copy": "samples\\P04\\SOURCE-NOTES.csv",
+    "sha256": "92457060a474fa9552e18f2adb002b8fcc70c5771377fb4e76feed0253632378"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P04\\SOURCE-SKETCH.mid",
+    "copy": "samples\\P04\\SOURCE-SKETCH.mid",
+    "sha256": "3b17de1a07f46b0cd938fb66f9d5f8ebe506e88845e619a24e621a2bae4de0cd"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\P04\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\P04\\SOURCE-SKETCH.musicxml",
+    "sha256": "9a7a045e8faf0a1c253e1eb8ff892dd73730d31febe8499b578b2d50b6d5f506"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\STR01R\\SOURCE-NOTES.csv",
+    "copy": "samples\\STR01R\\SOURCE-NOTES.csv",
+    "sha256": "006a6ef254378e58038e68deeeaf4207652e78cb9b2163b91edb210a90a871d6"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\STR01R\\SOURCE-SKETCH.mid",
+    "copy": "samples\\STR01R\\SOURCE-SKETCH.mid",
+    "sha256": "9802ddaf526057c72494187642fc1d52bd29d9db63a85c4278550ff84838ce98"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\STR01R\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\STR01R\\SOURCE-SKETCH.musicxml",
+    "sha256": "fc2cf7cbdda9eca484c8fd6d7ded4f0173732c48db33249498e9366870281a42"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V01\\HOOK-GUIDE.mid",
+    "copy": "samples\\V01\\HOOK-GUIDE.mid",
+    "sha256": "e177c4909efc21db8bb90a50fab45bb9f033e5aa6794c199dd40a780267e631b"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V01\\HOOK-NOTES.csv",
+    "copy": "samples\\V01\\HOOK-NOTES.csv",
+    "sha256": "c916604fb21bcb1b02a8be82b6dd3a95456c8dcda4feb9d51d536cd5fd6b5fe3"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V02\\SOURCE-NOTES.csv",
+    "copy": "samples\\V02\\SOURCE-NOTES.csv",
+    "sha256": "ade618e1f19cca0556d55f51e26c4fb339c1fa009c063cc7e56d442831cbfae1"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V02\\SOURCE-SKETCH.mid",
+    "copy": "samples\\V02\\SOURCE-SKETCH.mid",
+    "sha256": "48fb24af5bee25f30f57d363cdeec15122a21eba142ec2110c8991c1feb7f296"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V02\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\V02\\SOURCE-SKETCH.musicxml",
+    "sha256": "99825bc7041f74fb58a7504db60ee4bf903842af13a1b4b9718ed37c0a9c4378"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V02\\TARGET-144-4-4.mid",
+    "copy": "samples\\V02\\TARGET-144-4-4.mid",
+    "sha256": "a237096196821d84ebe01f86892023f378a1ae0fa3cd8241d998a890d8b930e8"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V03\\SOURCE-NOTES.csv",
+    "copy": "samples\\V03\\SOURCE-NOTES.csv",
+    "sha256": "41efebcf9a6f9fd287e3acd52897fb43516ac950d8e7b727f658938e5759cb58"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V03\\SOURCE-SKETCH.mid",
+    "copy": "samples\\V03\\SOURCE-SKETCH.mid",
+    "sha256": "b625be4ca542db225cc436a72282fef918c8c7019907019e718bbdeef0c07c36"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V03\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\V03\\SOURCE-SKETCH.musicxml",
+    "sha256": "f26c48d2f44d617c3edbc9497e2ddba2b8265f496d7b3793cdf11e8e46bd3f10"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V04\\SOURCE-NOTES.csv",
+    "copy": "samples\\V04\\SOURCE-NOTES.csv",
+    "sha256": "c717f0c725b7fe3e76c93132a9762b3720cdb2b247de6d23644e636af4ae8b31"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V04\\SOURCE-SKETCH.mid",
+    "copy": "samples\\V04\\SOURCE-SKETCH.mid",
+    "sha256": "d899cb941049b56028efdd6f940d01762d91b57066de48da8745b5a58cc6bf03"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\samples\\V04\\SOURCE-SKETCH.musicxml",
+    "copy": "samples\\V04\\SOURCE-SKETCH.musicxml",
+    "sha256": "92cddff5de18a86a5f5540c7b2d54ed70a1ba19c0f77c48af364ead6ac037964"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\VOCAL-MAP.csv",
+    "copy": "references\\PLUS-VOCAL-MAP.csv",
+    "sha256": "fa167ae4f7496ea8f19a42a401c27da4ac739b2e8204224edfc4cb4e017da898"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\PRONUNCIATION.md",
+    "copy": "references\\PLUS-PRONUNCIATION.md",
+    "sha256": "c039205e5f7d30451372816428cb5db838a849af379559f32b2e1ddeda5a9136"
+  },
+  {
+    "source": "D:\\Codex-chat\\outputs\\second-life-plus-2026-09-18\\SAMPLE-REGISTER.csv",
+    "copy": "references\\PLUS-SAMPLE-REGISTER.csv",
+    "sha256": "7830870722ea1007fabb857e2ea996edce397777ec858bd5b20d7837d527998c"
+  }
+]

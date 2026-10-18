@@ -1,0 +1,96 @@
+{
+  "album": "SECOND LIFE+",
+  "version": "preproduction-v1.0",
+  "language": "en-US",
+  "created": "2026-09-18",
+  "audio_status": "NOT_GENERATED",
+  "artist_credit": null,
+  "tracks": [
+    {
+      "id": "SLP01", "folder": "01-no-receipt-remix", "title": "NO RECEIPT", "version": "Split Sheet Remix", "kind": "remix", "bpm": 140, "key": "F# minor", "key_sf": 3, "key_minor": 1, "energy": 8,
+      "genres": ["drill", "underground hip-hop"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",16],["Verse 2",16],["Chorus",8],["Verse 3",16],["Bridge",8],["Final Chorus",16],["Outro",4]],
+      "verse_line_bars": 2,
+      "chords": ["F#m(add9)","Dmaj7","Bm7","C#7sus4"],
+      "voicings": ["A3 C#4 G#4","A3 C#4 F#4","A3 B3 D4 F#4","B3 C#4 F#4 G#4"], "bass": ["F#1","D2","B1","C#2"],
+      "sample_ids": ["V01","P01R","STR01R"],
+      "style": "Three distinct adult rap voices trading verses: measured male midrange, clipped low male, precise female alto. English drill and underground hip-hop, 140 BPM, F-sharp minor. Preserve the compact title chant; change the perspective to collaborators confronting unequal credit. Dry chopped piano, short pizzicato violin answers, syncopated kick, sparse sliding 808, tight snare. Keep each verse voice separate and intelligible, two fast bars per lyric line. Strip the bridge to piano and voice; final hook becomes a shared answer. Tense, clear and controlled, with real spaces between phrases.",
+      "exclude": "EDM build-ups, continuous orchestral pads, metal screaming, chipmunk vocals"
+    },
+    {
+      "id": "SLP02", "folder": "02-ivory-hours", "title": "IVORY HOURS", "version": "Original", "kind": "new", "bpm": 88, "key": "D minor", "key_sf": -1, "key_minor": 1, "energy": 3,
+      "genres": ["underground hip-hop", "jazz rap"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",12],["Chorus",8],["Verse 2",12],["Bridge",4],["Final Chorus",8],["Outro",4]],
+      "verse_line_bars": 1,
+      "chords": ["Dm9","Bbmaj7","Gm9","A7(b9)"],
+      "voicings": ["F3 A3 C4 E4","A3 Bb3 D4 F4","Bb3 D4 F4 A4","G3 Bb3 C#4 E4"], "bass": ["D2","Bb1","G1","A1"],
+      "sample_ids": ["P02"],
+      "style": "Low male voice, close conversational rap with a small restrained sung refrain. English underground hip-hop and jazz rap, 88 BPM, D minor. An original upright-piano performance resampled into uneven two-beat fragments; audible felt and damper detail, warm bass, dry kick and rimshot, light swing. Reflective family storytelling: grief and affection coexist with anger. Verses use rhythmic speech, one line per bar; chorus uses longer notes and breathing space. Expose the piano in the bridge. Honest and intimate, clear consonants, natural pauses, no grand emotional climax.",
+      "exclude": "power-ballad belting, dense hi-hat rolls, stadium choir, heavy vinyl noise"
+    },
+    {
+      "id": "SLP03", "folder": "03-fast-forward-remix", "title": "FAST FORWARD", "version": "Night Shift Remix", "kind": "remix", "bpm": 138, "key": "D minor", "key_sf": -1, "key_minor": 1, "energy": 6,
+      "genres": ["melodic trap", "R&B"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",16],["Pre-Chorus",4],["Chorus",8],["Verse 2",24],["Bridge",8],["Final Chorus",16],["Outro",4]],
+      "verse_line_bars": 2,
+      "chords": ["Dm9","Fmaj7","Bbmaj7","A7sus4"],
+      "voicings": ["F3 A3 C4 E4","A3 C4 E4 F4","A3 Bb3 D4 F4","G3 A3 D4 E4"], "bass": ["D2","F2","Bb1","A1"],
+      "sample_ids": ["P02","V01"],
+      "style": "Female alto owns the melodic hook; restrained male tenor sings the first verse, female sings the longer reply, then a brief duet. English piano-led melodic trap and R&B, 138 BPM, D minor, half-time pocket. Keep the repeated Fast-forward motif and three descending wait notes. Warm chopped upright piano, rounded 808, soft violin answers, sparse trap drums. Two contrasting lives: a traveling musician and the partner working nights. Replace glitch excitement with sustained emotional tension. Two fast bars per verse line. Final chorus adds reciprocal male harmony; keep the lead dry, close and human.",
+      "exclude": "hyperpop glitches, cartoon vocal pitching, EDM drops, constant ad-libs"
+    },
+    {
+      "id": "SLP04", "folder": "04-counterstep", "title": "COUNTERSTEP", "version": "Original", "kind": "new", "bpm": 144, "key": "G minor", "key_sf": -2, "key_minor": 1, "energy": 9,
+      "genres": ["orchestral drill", "melodic rap"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",24],["Chorus",8],["Verse 2",24],["Bridge",8],["Final Chorus",16],["Outro",4]],
+      "verse_line_bars": 2,
+      "chords": ["Gm","Ebmaj7","Cm9","D7"],
+      "voicings": ["Bb3 D4 G4","Bb3 D4 Eb4 G4","Bb3 D4 Eb4 G4","C4 D4 F#4 A4"], "bass": ["G1","Eb2","C2","D2"],
+      "sample_ids": ["V02"],
+      "style": "Playful male rap, sharp consonants and a compact singable chant. English orchestral drill, 144 BPM, G minor. Build the beat around an original short violin waltz phrase: retain its lilting three-part motion over a firm four-beat drill grid. Dry spiccato bow attacks, a few pizzicato replies, sparse 808 glides and syncopated kick. The hook is Wrong foot, right time; confident and welcoming, not menacing. Verses tell a dance-floor story of turning a stumble into a move. Brief exposed violin bridge, then a punchy final hook. Two fast bars per verse line; leave room around punchlines.",
+      "exclude": "cinematic trailer percussion, long legato string pads, violent sound effects, EDM risers"
+    },
+    {
+      "id": "SLP05", "folder": "05-room-tone-remix", "title": "ROOM TONE", "version": "Open Door Remix", "kind": "remix", "bpm": 124, "key": "A major", "key_sf": 3, "key_minor": 0, "energy": 5,
+      "genres": ["alternative R&B", "UK garage"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",16],["Chorus",8],["Verse 2",16],["Bridge",8],["Final Chorus",16],["Outro",4]],
+      "verse_line_bars": 2,
+      "chords": ["Amaj9","F#m9","Bm9","E13sus4"],
+      "voicings": ["G#3 B3 C#4 E4","A3 C#4 E4 G#4","A3 C#4 D4 F#4","A3 D4 F#4 C#5"], "bass": ["A1","F#1","B1","E2"],
+      "sample_ids": ["V01","P01R"],
+      "style": "Intimate male and female singing-rap duet. Male first verse, female second verse, shared hook, four short alternating bridge lines. English alternative R&B with a light two-step UK garage rhythm, 124 BPM, A major. Keep the original descending quiet, quiet phrase. Chopped electric piano, soft sub, shuffled hats, dry rimshot and small breath chops between phrases. The other partner finally speaks; tender but unresolved, clearer boundaries and mutual listening. Two bars per verse line. Keep the room small and the voices separate, without theatrical belting or a huge final build.",
+      "exclude": "power-ballad climax, stadium choir, aggressive rage synths, heavy vocal effects"
+    },
+    {
+      "id": "SLP06", "folder": "06-soft-landing", "title": "SOFT LANDING", "version": "Original", "kind": "new", "bpm": 76, "key": "Eb major", "key_sf": -3, "key_minor": 0, "energy": 3,
+      "genres": ["R&B", "trap-soul"],
+      "form": [["Intro",2],["Chorus",8],["Verse 1",8],["Pre-Chorus",4],["Chorus",8],["Verse 2",8],["Bridge",4],["Final Chorus",8],["Outro",2]],
+      "verse_line_bars": 1,
+      "chords": ["Ebmaj9","Gm7","Abmaj9","Bb13sus4"],
+      "voicings": ["G3 Bb3 D4 F4","F3 G3 Bb3 D4","G3 Bb3 C4 Eb4","Ab3 C4 Eb4 G4"], "bass": ["Eb2","G1","Ab1","Bb1"],
+      "sample_ids": ["P03","V03"],
+      "style": "Warm low female lead, natural adult voice, intimate singing rap and a memorable six-note refrain. English R&B and trap-soul, 76 BPM, E-flat major. Original felt-piano arpeggios cut into a soft loop, sparse pizzicato violin replies, rounded bass, light rimshot and quiet hats. Affectionate, sensual and playful: laughter, asking clearly, unhurried closeness. Verses stay conversational at one line per bar; the hook opens into longer notes. Small harmonies only on phrase endings. A warm room with clear words and low-volume detail; let the final breath finish naturally.",
+      "exclude": "gospel belting, heavy 808 distortion, long vocal runs, big orchestral swells"
+    },
+    {
+      "id": "SLP07", "folder": "07-last-train-first-light", "title": "LAST TRAIN, FIRST LIGHT", "version": "Original", "kind": "new", "bpm": 156, "key": "E minor", "key_sf": 1, "key_minor": 1, "energy": 7,
+      "genres": ["melodic rap", "piano trap"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",24],["Pre-Chorus",4],["Chorus",8],["Verse 2",24],["Bridge",8],["Final Chorus",16],["Outro",4]],
+      "verse_line_bars": 2,
+      "chords": ["Em9","Cmaj7","Gadd9","Dsus4"],
+      "voicings": ["G3 B3 D4 F#4","G3 B3 C4 E4","G3 A3 B3 D4","G3 A3 D4"], "bass": ["E2","C2","G1","D2"],
+      "sample_ids": ["P04","V04"],
+      "style": "Expressive male tenor, clear melodic rap and an open memorable hook. English piano trap, 156 BPM, E minor with relative-major warmth. An original piano ostinato sampled from a slower performance, lyrical solo violin answering only between vocal phrases, rounded 808, half-time snare and restrained hats. Story: leaving home with affection, arriving somewhere imperfect and beginning a new life. Two fast bars per verse line. Keep family details conversational. Expose piano for the bridge, then widen the final chorus without changing tempo. Bittersweet momentum, breath and forward motion, clean lead above the strings.",
+      "exclude": "cinematic trailer drums, grandiose choir, busy violin under verses, generic motivational speech"
+    },
+    {
+      "id": "SLP08", "folder": "08-second-life", "title": "SECOND LIFE", "version": "Original retained", "kind": "retained", "bpm": 144, "key": "A major", "key_sf": 3, "key_minor": 0, "energy": 7,
+      "genres": ["melodic rap", "soulful trap", "breakbeat"],
+      "form": [["Intro",4],["Chorus",8],["Verse 1",24],["Chorus",8],["Verse 2",24],["Bridge",8],["Final Chorus",16],["Outro",4]],
+      "verse_line_bars": 2,
+      "chords": ["Aadd9","E/G#","F#m7","Dmaj9"],
+      "sample_ids": ["V01","G01","P01","B01"],
+      "source_folder": "../second-life-ep-2026-09-18/04-SECOND-LIFE"
+    }
+  ]
+}

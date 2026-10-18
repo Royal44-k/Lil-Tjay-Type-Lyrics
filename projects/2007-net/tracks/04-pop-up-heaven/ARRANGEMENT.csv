@@ -1,0 +1,9 @@
+﻿section,start_bar,bars,lyric_lines,line_bar_allocation
+Intro - pitched version of the lead voice,1,4,2,2 2
+"Verse 1 - male, clipped rap",5,16,16,1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Chorus - tight melodic chant,21,16,8,2 2 2 2 2 2 2 2
+"Verse 2 - male, accelerating",37,32,16,2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+"Break - instrumental, abrupt silence on the last bar",69,8,0,instrumental
+"Bridge - low, nearly spoken",77,8,8,1 1 1 1 1 1 1 1
+"Final Chorus - first half dry, second half full",85,16,8,2 2 2 2 2 2 2 2
+Outro - unprocessed,101,4,2,2 2

@@ -1,0 +1,9 @@
+﻿section,start_bar,end_bar,bars,start_seconds,end_seconds
+Intro,1,4,4,0.0,6.234
+Hook,5,12,8,6.234,18.701
+Verse 1,13,36,24,18.701,56.104
+Hook,37,44,8,56.104,68.571
+Verse 2,45,68,24,68.571,105.974
+Breakdown,69,76,8,105.974,118.442
+Final Hook,77,92,16,118.442,143.377
+Outro,93,96,4,143.377,149.61

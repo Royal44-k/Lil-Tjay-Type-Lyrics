@@ -1,0 +1,9 @@
+﻿section,start_bar,end_bar,bars,start_seconds,end_seconds
+Intro,1,4,4,0.0,7.742
+Chorus,5,12,8,7.742,23.226
+Verse 1,13,28,16,23.226,54.194
+Chorus,29,36,8,54.194,69.677
+Verse 2,37,52,16,69.677,100.645
+Bridge,53,60,8,100.645,116.129
+Final Chorus,61,76,16,116.129,147.097
+Outro,77,80,4,147.097,154.839

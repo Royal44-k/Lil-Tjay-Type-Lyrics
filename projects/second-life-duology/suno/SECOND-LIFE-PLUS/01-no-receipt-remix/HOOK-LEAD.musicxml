@@ -1,0 +1,502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score-partwise version="4.0">
+  <work>
+    <work-title>NO RECEIPT</work-title>
+  </work>
+  <part-list>
+    <score-part id="P1">
+      <part-name>hook lead; guide only</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>480</divisions>
+        <key>
+          <fifths>3</fifths>
+          <mode>minor</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction>
+        <direction-type>
+          <metronome>
+            <beat-unit>quarter</beat-unit>
+            <per-minute>140</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="140" />
+      </direction>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>No</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>re</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>600</duration>
+        <lyric>
+          <text>ceipt</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>360</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>no</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>re</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+    </measure>
+    <measure number="2">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1200</duration>
+        <lyric>
+          <text>turn</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>720</duration>
+      </note>
+    </measure>
+    <measure number="3">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>Put</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>our</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>360</duration>
+        <lyric>
+          <text>names</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>360</duration>
+        <lyric>
+          <text>be</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>side</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>240</duration>
+        <tie type="start" />
+        <lyric>
+          <text>the</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="4">
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <tie type="stop" />
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>960</duration>
+        <lyric>
+          <text>work</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>720</duration>
+      </note>
+    </measure>
+    <measure number="5">
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>You</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>said</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>360</duration>
+        <lyric>
+          <text>we</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>when</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>the</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>rent</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>240</duration>
+        <tie type="start" />
+        <lyric>
+          <text>came</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="6">
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>120</duration>
+        <tie type="stop" />
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>960</duration>
+        <lyric>
+          <text>due</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>720</duration>
+      </note>
+    </measure>
+    <measure number="7">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>Don't</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>say</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>360</duration>
+        <lyric>
+          <text>I</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>when</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>the</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <lyric>
+          <text>mon</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>240</duration>
+        <tie type="start" />
+        <lyric>
+          <text>ey</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="8">
+      <note>
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>120</duration>
+        <tie type="stop" />
+      </note>
+      <note>
+        <rest />
+        <duration>120</duration>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>960</duration>
+        <lyric>
+          <text>moves</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>720</duration>
+      </note>
+    </measure>
+  </part>
+</score-partwise>

@@ -1,0 +1,480 @@
+{
+  "version": "composition-v1.0",
+  "files": [
+    {
+      "path": "01-SYSTEM-SEOUL-RESEARCH.md",
+      "bytes": 7839,
+      "sha256": "e5479f7955fb2ccd03db7716a84d6b86bee3d5dbd9cb586c39d98f9737cf92f3"
+    },
+    {
+      "path": "02-ALBUM-STORY.md",
+      "bytes": 8812,
+      "sha256": "031b57e5df869c99c82d6d5243d89d108af7dfed5497e6ab00611e6329bdceba"
+    },
+    {
+      "path": "03-SONGBOOK.md",
+      "bytes": 17276,
+      "sha256": "78d18cb0e3a6e11176b2d6d446e738cfff1855398f7433281f1ce97b1b2a6875"
+    },
+    {
+      "path": "04-PRODUCTION-BIBLE.md",
+      "bytes": 15227,
+      "sha256": "1ba318c4f5bbe22b652ae603839feb6c364ebace9ffe944955cd4ff4054606d6"
+    },
+    {
+      "path": "05-SAMPLING-AND-VOICE-REUSE.md",
+      "bytes": 5378,
+      "sha256": "7e60d13022c769e9cbed03acaba6e7a4be7a4a35695d888b88705036de96b147"
+    },
+    {
+      "path": "06-SUNO-IMPORT.md",
+      "bytes": 24058,
+      "sha256": "a4f2685cacae65227548846fc83383668dd2c220ccb0fc36b9a689a68c970357"
+    },
+    {
+      "path": "07-LEARNING-AND-REVIEW.md",
+      "bytes": 5908,
+      "sha256": "dd3050ae0fbde0c4290ec71b735994c3de85e69e12b000d3bd005544120e3f07"
+    },
+    {
+      "path": "08-CAMPAIGN.md",
+      "bytes": 3385,
+      "sha256": "428e52a18bbb3334db6e7254f057c91260bdfd520883807723348544e74a2ac0"
+    },
+    {
+      "path": "album.json",
+      "bytes": 2217,
+      "sha256": "1b1e0e0b2240fd48382e9d8f4fdacac5c9b5fe4f2e7a4444b784f15e6dea6a1d"
+    },
+    {
+      "path": "BUILD-CHECK.json",
+      "bytes": 1320,
+      "sha256": "001cff8b05a773d3cf6f27397ba8a5795f4cc5fe339f03a00789a71cf61f70ec"
+    },
+    {
+      "path": "build_album.py",
+      "bytes": 9635,
+      "sha256": "c51f1edb153dee87f05875682398a8dced6ab47a320d981f6a5297e9a197f43a"
+    },
+    {
+      "path": "FINAL-AUDIT.json",
+      "bytes": 1793,
+      "sha256": "c80fb35c43338bac154a6dbfef471bd37c02f368a69073569a278d130f7f1b99"
+    },
+    {
+      "path": "GENERATION-LOG.csv",
+      "bytes": 92,
+      "sha256": "d4d7559eb884f1130d64b64cc4e6ec48797effa91e8a109333ea65e68b87601d"
+    },
+    {
+      "path": "project_spec.py",
+      "bytes": 17415,
+      "sha256": "c360db82916cd9ad28fc80defd8f39229c5ce5c173949ecfbaf5a46a73b0be1a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3295,
+      "sha256": "cc060e26e56c6aa04abaf9cd2c2bf0e17b16835722e53b0909531c2bd59f1dbc"
+    },
+    {
+      "path": "sources/K01/DIRECTION.txt",
+      "bytes": 277,
+      "sha256": "e3181ff890938684628dfd28f10eb439955776f9e77bcc2863da750653d5d385"
+    },
+    {
+      "path": "sources/K01/SOURCE-MOTIF.mid",
+      "bytes": 200,
+      "sha256": "d0607bca02624dec648c97d8017c6133b204f5cf4b0c2e4d552012714d150f68"
+    },
+    {
+      "path": "sources/K01/SOURCE-NOTES.csv",
+      "bytes": 230,
+      "sha256": "481404ceab8d5b03abca82e72f64ecc61595f8a2bdbf23403dd9918ccee54602"
+    },
+    {
+      "path": "sources/K01/STATUS.md",
+      "bytes": 232,
+      "sha256": "b4c1975cc014f075bfa9dbbcdaebb08d5bfdd697c151ec71d9fd802ee52b5449"
+    },
+    {
+      "path": "sources/S01/DIRECTION.txt",
+      "bytes": 239,
+      "sha256": "3cf0811b3a0c24264ca18a9598c5c95edf5213d942e9d40888a445d41594ed34"
+    },
+    {
+      "path": "sources/S01/SOURCE-MOTIF.mid",
+      "bytes": 108,
+      "sha256": "39554a73b703740a5a93d89f53ad912b67988ce04c82507ea8ad80f32c3af2b2"
+    },
+    {
+      "path": "sources/S01/SOURCE-NOTES.csv",
+      "bytes": 119,
+      "sha256": "87c78ee7e04a0738f1413e51d0167280a3ddd00fb9e59be9b58a49a96c31696e"
+    },
+    {
+      "path": "sources/S01/STATUS.md",
+      "bytes": 209,
+      "sha256": "57389a20b80b67c5de09bf64e37dbd1d14402d02fc21a03798219efc5d2c1b3c"
+    },
+    {
+      "path": "sources/VA01/DIRECTION.txt",
+      "bytes": 216,
+      "sha256": "8df8071f151f5b3b4d90d86e9b73f077649318dea70c53199545384d30fff0cf"
+    },
+    {
+      "path": "sources/VA01/SOURCE-MOTIF.mid",
+      "bytes": 128,
+      "sha256": "1b9264330fb2b92ba060f67ebfd108bfa3f4a418f69e4ac51fb8936007ed0510"
+    },
+    {
+      "path": "sources/VA01/SOURCE-NOTES.csv",
+      "bytes": 87,
+      "sha256": "703bb25b6e48711a1ab1a14f5e9926fe1f3c4792e545f563611243a7354fd051"
+    },
+    {
+      "path": "sources/VA01/STATUS.md",
+      "bytes": 233,
+      "sha256": "415393cb8b977e4862d39af227890b30523e7e074b76760da9b40c0d30ace66b"
+    },
+    {
+      "path": "sources/VQ01/DIRECTION.txt",
+      "bytes": 267,
+      "sha256": "faebbfbf572389ba43743e7459350a30403b84260083a06858de20f8266a1834"
+    },
+    {
+      "path": "sources/VQ01/SOURCE-MOTIF.mid",
+      "bytes": 118,
+      "sha256": "1e6763042804ca390dd3a643873edd0271fb0d6e204f8fbc6514c86624933115"
+    },
+    {
+      "path": "sources/VQ01/SOURCE-NOTES.csv",
+      "bytes": 88,
+      "sha256": "fe66e44ec6627753932956bd1d2692a623e005d3684e3c23c90f98aaa7981e35"
+    },
+    {
+      "path": "sources/VQ01/STATUS.md",
+      "bytes": 222,
+      "sha256": "236fd30ee15c4c87fba4861e1c7aef98048a6a2d041a560f428b8a70b230082d"
+    },
+    {
+      "path": "TRACKLIST.csv",
+      "bytes": 735,
+      "sha256": "3df284b4c40548cf1cde663f0bc2475ff5415e2e458eb2e249b5a941c8db2086"
+    },
+    {
+      "path": "tracks/01-screen-name/ARRANGEMENT.csv",
+      "bytes": 498,
+      "sha256": "261e3f4d39d80b6fa746ca058aa320a5e539749a4b986cdc62187a749ef1bf62"
+    },
+    {
+      "path": "tracks/01-screen-name/EXCLUDE.txt",
+      "bytes": 118,
+      "sha256": "b0a6c9199291124a0b59764990bc5b0c1910f44e9b05f5edfdaf41712bf3e019"
+    },
+    {
+      "path": "tracks/01-screen-name/HOOK-MOTIF.mid",
+      "bytes": 213,
+      "sha256": "4ead0b990c61d96fd6aa66b5f97045d6b71fd2e816a2a88f77737e87eb8dfba1"
+    },
+    {
+      "path": "tracks/01-screen-name/HOOK-NOTES.csv",
+      "bytes": 190,
+      "sha256": "425cf837b1f237b5c79879265c36ad34012c77cca2671273210b4cc2f49c2dbf"
+    },
+    {
+      "path": "tracks/01-screen-name/LYRICS.txt",
+      "bytes": 2502,
+      "sha256": "8abda64f05a3ff8796101405f479c75f84d9fa170afccc1da485e68a46d4b78c"
+    },
+    {
+      "path": "tracks/01-screen-name/SONG-NOTES.md",
+      "bytes": 1953,
+      "sha256": "8f3fecda166943c5a72a2efa1a7b5b20acf35a822d8291909d65b5e484c586af"
+    },
+    {
+      "path": "tracks/01-screen-name/STYLE.txt",
+      "bytes": 614,
+      "sha256": "79e4065906429650f57e72d9499cd43194d938c85ca5311692c39b046e2d278e"
+    },
+    {
+      "path": "tracks/01-screen-name/SUNO-CARD.md",
+      "bytes": 3515,
+      "sha256": "9d95a16ad7cd44e4a427bfaf505a622beb6eda998879a1e94fd461da45f2b5fd"
+    },
+    {
+      "path": "tracks/01-screen-name/TITLE.txt",
+      "bytes": 13,
+      "sha256": "e0dffb2eda3887f8f1d1edf2c08a45ea327ee115b59ac307419a7b626ee04ed9"
+    },
+    {
+      "path": "tracks/02-top-eight/ARRANGEMENT.csv",
+      "bytes": 522,
+      "sha256": "caed8d72fbe463a9de4fac5e6f2a491ae12f5d1f48fcd832ed5031ebccd4635a"
+    },
+    {
+      "path": "tracks/02-top-eight/EXCLUDE.txt",
+      "bytes": 127,
+      "sha256": "be2e616c0cb34bf8f9155c64ec1e6e73f41b522d0489c9c8d273d2021fb47ffe"
+    },
+    {
+      "path": "tracks/02-top-eight/HOOK-MOTIF.mid",
+      "bytes": 177,
+      "sha256": "5c7e7b40b2e551f23f441e902520a993ea9073ee8c6deb975090457fc0832e10"
+    },
+    {
+      "path": "tracks/02-top-eight/HOOK-NOTES.csv",
+      "bytes": 163,
+      "sha256": "588806a9055395bd4c4f3bd0b0eda7f3b7e8cb83557d01f7534b6add567e757e"
+    },
+    {
+      "path": "tracks/02-top-eight/LYRICS.txt",
+      "bytes": 2428,
+      "sha256": "d116bf870f0a80c3b0cb98e61b23ed40afdeae2eff6e61381e1a93eb1d616c07"
+    },
+    {
+      "path": "tracks/02-top-eight/SONG-NOTES.md",
+      "bytes": 2075,
+      "sha256": "ff58ef9dbdf8a07d384525e6d7a0867366289152646d715282bdd79ac0bca983"
+    },
+    {
+      "path": "tracks/02-top-eight/STYLE.txt",
+      "bytes": 599,
+      "sha256": "db85b4da9d20e8d56f9bffdae54990dfc01c882eaf4f5fc577bc87e650370a1e"
+    },
+    {
+      "path": "tracks/02-top-eight/SUNO-CARD.md",
+      "bytes": 3422,
+      "sha256": "f4223090c246ff01d5b91c745595ead2166d49049ce3e6b1a7a85d462b31672b"
+    },
+    {
+      "path": "tracks/02-top-eight/TITLE.txt",
+      "bytes": 11,
+      "sha256": "dad3f6e8238ba010d698dc8d51a8defebce75d80a90a20a68efd948d7ce5f916"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/ARRANGEMENT.csv",
+      "bytes": 423,
+      "sha256": "2a0f4ca1d43dfb678e5efcd81a2c3625487a01345c884d4f671c69ab415b6ae4"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/EXCLUDE.txt",
+      "bytes": 111,
+      "sha256": "e29a59974a9206391e4a376cd16904aac2c802db980ceb114ddf2f858578dd91"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/HOOK-MOTIF.mid",
+      "bytes": 197,
+      "sha256": "34d9ff72d0b0ece2666bdd55ddd4b1fcd123f489ddc192e0fceff0de8872ef85"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/HOOK-NOTES.csv",
+      "bytes": 181,
+      "sha256": "1b546a942d48d8979499e53b4de70905a7a4ec7146b934d3765132339d779b68"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/LYRICS.txt",
+      "bytes": 1761,
+      "sha256": "b8603a3a3c3b8c8c1ba758b4bae5015a240c4ea316102f54b0e098944f6c30a7"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/SONG-NOTES.md",
+      "bytes": 1905,
+      "sha256": "b7857ea1f9215bbd18b4047693a638f4c5bf01641a39a1b0bc32c655bf4db120"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/STYLE.txt",
+      "bytes": 558,
+      "sha256": "1def24be6e33f02cc070a282d4bb7871c5e0f4cd08a964cc5eb8fc0039f6e6a8"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/SUNO-CARD.md",
+      "bytes": 2691,
+      "sha256": "866ceb4ab28f77df894d8ee1d10227da933eb0035f4044d4c38be1778fc4732b"
+    },
+    {
+      "path": "tracks/03-low-res-kiss/TITLE.txt",
+      "bytes": 14,
+      "sha256": "8579d155dccb6c5f502a09cbe1c810c704c7c2c475d54a94f1f14aa3c06b58f6"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/ARRANGEMENT.csv",
+      "bytes": 548,
+      "sha256": "75546d719615849e6ead8e637f8fab667526905df3a3fb7e66db46f638c530b6"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/EXCLUDE.txt",
+      "bytes": 135,
+      "sha256": "7d789769c3030cd5c9d1eeddf91f2c0ca2b58a7b444017d70e819157bfad1402"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/HOOK-MOTIF.mid",
+      "bytes": 192,
+      "sha256": "11f08cc5a541e9bf6b557241fa8b4ad58b7b5cc048c07af8525091b362cd4edd"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/HOOK-NOTES.csv",
+      "bytes": 173,
+      "sha256": "8bf8304a4828ca3e2295831ce36d2fe0c930f8ff3aaee47fe5ee419f3a39a4ed"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/LYRICS.txt",
+      "bytes": 2283,
+      "sha256": "858be5391da47b13f99faacf0f8c4a41ab2c0a67a5aa2e57083cb62a6c5e1845"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/SONG-NOTES.md",
+      "bytes": 2142,
+      "sha256": "bf57b8e1dd377a2a0422ab2fde573364667e82e01e902e27cb7886db5496e75d"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/STYLE.txt",
+      "bytes": 601,
+      "sha256": "c272642e089aed6f718d522a72add3b01d613410bc1bd666a6cb1be2e64e9a28"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/SUNO-CARD.md",
+      "bytes": 3294,
+      "sha256": "0c3f0eea4269f9f7f52b799f71b812c3a24ebfb3f5b14f4bf3eff3c41a8e5d62"
+    },
+    {
+      "path": "tracks/04-pop-up-heaven/TITLE.txt",
+      "bytes": 15,
+      "sha256": "30ef9e7de40246757313472b79f539f58a5d3adcdaade6ee49b21459253ac7d5"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/ARRANGEMENT.csv",
+      "bytes": 456,
+      "sha256": "100c7736ea3351dbafb3c638e7c73d1acc07923a63536656125e5796614ede0d"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/EXCLUDE.txt",
+      "bytes": 125,
+      "sha256": "a0a1769489785e48343e11baf38a9dcb7e171972e74ba0a4d58f686d5461b0b4"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/HOOK-MOTIF.mid",
+      "bytes": 204,
+      "sha256": "f79b393722eb394a8f8b09f59b8c617fe04762b007774d35be499902731af6f8"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/HOOK-NOTES.csv",
+      "bytes": 177,
+      "sha256": "736e1e5fda22100068763226c2ec1050fe6cecb0c46c281bee291df40ddc4a98"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/LYRICS.txt",
+      "bytes": 2381,
+      "sha256": "bbe0ec055c63f99c8a2e2d1bd1b2c038b3f610bfcbfd45a692006764aa518850"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/SONG-NOTES.md",
+      "bytes": 2047,
+      "sha256": "2c3b128e469ea4eea68b3ca2660b9a87c06e598fe61bcc910e5840d15cda521e"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/STYLE.txt",
+      "bytes": 570,
+      "sha256": "ae80ad791615e8a3ef1cf2a8a26028be70efc078c04ec689bf01b5fa521d3305"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/SUNO-CARD.md",
+      "bytes": 3348,
+      "sha256": "2ba06f4990d561c8894acb4cb65d64b5b60ab9da9d57f94fa5d50e436558ba74"
+    },
+    {
+      "path": "tracks/05-drafts-at-317/TITLE.txt",
+      "bytes": 16,
+      "sha256": "cd202c23a410a7bacc66ea4c549e5471d4eaa6b44f0480d247be58f4f7b5eb2f"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/ARRANGEMENT.csv",
+      "bytes": 528,
+      "sha256": "bace858682ceb45ab05c47c1f0d23f142851eb10d2700a1e01e78801803d1d6f"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/EXCLUDE.txt",
+      "bytes": 134,
+      "sha256": "67e7bf28f08763f4e317d0894f8a086f5ad5096d9b0d60db19e3f5c70e072f29"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/HOOK-MOTIF.mid",
+      "bytes": 203,
+      "sha256": "eb8c092b9de0d560faa8d264b544337dfdac4c978e8693562753cc71dfc00e36"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/HOOK-NOTES.csv",
+      "bytes": 173,
+      "sha256": "6e139e019e9c2cbe16f9cce5bf686f63a976bdb7ad987082456535115ae6b217"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/LYRICS.txt",
+      "bytes": 2626,
+      "sha256": "96dcf212a6957c1178508a23f385563427193c8845cc2ddfb2a868bf61cf988b"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/SONG-NOTES.md",
+      "bytes": 2171,
+      "sha256": "d6d9a038dd311a252cf0a45a2b3898b46eeac13ed30e9041114903f4607fd7c0"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/STYLE.txt",
+      "bytes": 563,
+      "sha256": "a214f6a9af05123757918bfbbb2dcf7604d091fe17e66d914b9e739f6e9c5142"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/SUNO-CARD.md",
+      "bytes": 3611,
+      "sha256": "ae6f71b5e22cee6465df46bc6692d6a5147fb84fca0fe46d862b0205b9d614f1"
+    },
+    {
+      "path": "tracks/06-burn-this-summer/TITLE.txt",
+      "bytes": 18,
+      "sha256": "1cb9661056b3700d5cd89fa854cf012f51c626c261d44fb5ad166a1fd1cd4e31"
+    },
+    {
+      "path": "tracks/07-2007-net/ARRANGEMENT.csv",
+      "bytes": 484,
+      "sha256": "07f9d07faa35b0e93ce4cfb4a37b3dc9b32836987b84f6161a14039502bde691"
+    },
+    {
+      "path": "tracks/07-2007-net/EXCLUDE.txt",
+      "bytes": 138,
+      "sha256": "b40d211dcbecdfc1ac21b86bad7eba693aca368a01681be83fa0f0f483060158"
+    },
+    {
+      "path": "tracks/07-2007-net/HOOK-MOTIF.mid",
+      "bytes": 172,
+      "sha256": "89f061cbd660fe1d933d7e2fcac67200b3c31e1411e56ad475890299961b4189"
+    },
+    {
+      "path": "tracks/07-2007-net/HOOK-NOTES.csv",
+      "bytes": 162,
+      "sha256": "9695df0d71687c761c6b17c5ce6fda239d83acb695dea93ddac0787c6418b591"
+    },
+    {
+      "path": "tracks/07-2007-net/LYRICS.txt",
+      "bytes": 2332,
+      "sha256": "93497eab96ebf0aea2f6ccaaa50d312d39b3426cee2a0740f09c568a09137627"
+    },
+    {
+      "path": "tracks/07-2007-net/SONG-NOTES.md",
+      "bytes": 2146,
+      "sha256": "3558afdfcb4adf2c71ffe901021e33316dd87aec6fc584b26bea60bbb2ad2b47"
+    },
+    {
+      "path": "tracks/07-2007-net/STYLE.txt",
+      "bytes": 567,
+      "sha256": "d4f32edf5f6d6ca97faae1f95ed82543cda7441c26c383c3dccea0e684a7691e"
+    },
+    {
+      "path": "tracks/07-2007-net/SUNO-CARD.md",
+      "bytes": 3318,
+      "sha256": "2f5fad3b27f04e5d0ed052ca2ed55021b7672ffd692ab06db315bffffe9b3352"
+    },
+    {
+      "path": "tracks/07-2007-net/TITLE.txt",
+      "bytes": 10,
+      "sha256": "0431c6c2e9b19b963f379570aa3f11370c0fbfcd02c25fec554beb4064692ab2"
+    }
+  ]
+}

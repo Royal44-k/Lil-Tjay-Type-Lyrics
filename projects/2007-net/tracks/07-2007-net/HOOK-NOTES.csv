@@ -1,0 +1,7 @@
+﻿syllable,pitch,midi_note,start_beat,duration_beats
+I,F#3,54,0,0.5
+was,A3,57,0.5,0.5
+here,C#4,61,1,2.5
+I,E4,64,4,0.5
+was,C#4,61,4.5,0.5
+here,A3,57,5,2.5

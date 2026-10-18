@@ -1,0 +1,8 @@
+﻿section,start_bar,bars,lyric_lines,line_bar_allocation
+"Intro - male, present day",1,4,2,2 2
+"Verse 1 - male, reflective rap",5,16,16,1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+"Chorus - male lead, female harmony",21,8,8,1 1 1 1 1 1 1 1
+"Verse 2 - male, natural speech rhythm",29,16,16,1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Bridge - female archive and present male alternate,45,8,8,1 1 1 1 1 1 1 1
+Final Chorus - lead and harmony,53,12,10,1 1 1 1 1 1 1 1 2 2
+"Outro - male, dry",65,4,2,2 2

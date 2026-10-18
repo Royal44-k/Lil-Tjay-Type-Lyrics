@@ -1,0 +1,7 @@
+﻿syllable,pitch,midi_note,start_beat,duration_beats
+Take,F#4,66,0,0.5
+me,F#4,66,0.5,0.5
+out,A4,69,1,0.5
+your,F#4,66,1.5,0.5
+top,E4,64,2,1
+eight,B3,59,3,3

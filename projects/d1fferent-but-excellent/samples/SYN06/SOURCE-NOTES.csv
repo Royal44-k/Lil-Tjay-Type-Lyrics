@@ -1,0 +1,11 @@
+﻿part,start,note,duration,velocity,text
+synth rhythmic cell,0,E5,0.35,95,
+synth rhythmic cell,0.5,B4,0.25,75,
+synth rhythmic cell,1.5,G5,0.35,90,
+synth rhythmic cell,2.5,F#5,0.25,72,
+synth rhythmic cell,3.5,E5,0.25,82,
+synth rhythmic cell,4,C5,0.35,89,
+synth rhythmic cell,4.75,E5,0.25,74,
+synth rhythmic cell,5.5,G5,0.35,94,
+synth rhythmic cell,6.5,B5,0.25,73,
+synth rhythmic cell,7.5,G5,0.25,84,

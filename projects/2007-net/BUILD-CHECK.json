@@ -1,0 +1,66 @@
+{
+  "status": "PASS",
+  "songs": 7,
+  "original_hook_motifs": 7,
+  "original_source_motifs": 4,
+  "total_planned_time": "22:06",
+  "tracks": [
+    {
+      "track": "01",
+      "sections": 9,
+      "lyrics_lines": 68,
+      "words": 456,
+      "style_characters": 612,
+      "hook_notes": 8
+    },
+    {
+      "track": "02",
+      "sections": 9,
+      "lyrics_lines": 60,
+      "words": 422,
+      "style_characters": 597,
+      "hook_notes": 6
+    },
+    {
+      "track": "03",
+      "sections": 8,
+      "lyrics_lines": 50,
+      "words": 301,
+      "style_characters": 556,
+      "hook_notes": 7
+    },
+    {
+      "track": "04",
+      "sections": 8,
+      "lyrics_lines": 60,
+      "words": 376,
+      "style_characters": 599,
+      "hook_notes": 7
+    },
+    {
+      "track": "05",
+      "sections": 7,
+      "lyrics_lines": 59,
+      "words": 405,
+      "style_characters": 568,
+      "hook_notes": 7
+    },
+    {
+      "track": "06",
+      "sections": 9,
+      "lyrics_lines": 66,
+      "words": 453,
+      "style_characters": 561,
+      "hook_notes": 7
+    },
+    {
+      "track": "07",
+      "sections": 7,
+      "lyrics_lines": 62,
+      "words": 404,
+      "style_characters": 565,
+      "hook_notes": 6
+    }
+  ],
+  "audio_generated": false
+}

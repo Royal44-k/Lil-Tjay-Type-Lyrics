@@ -1,0 +1,78 @@
+{
+  "status": "composition_and_hook_guides_only",
+  "vocals_recorded": false,
+  "finished_audio_rendered": false,
+  "planned_ep_seconds": 640.95,
+  "checks": [
+    "syllable/note counts",
+    "monophonic lead timing",
+    "note bounds",
+    "MIDI chunk lengths and track endings",
+    "style text <= 1000 characters",
+    "arrangement totals"
+  ],
+  "items": [
+    {
+      "name": "NO RECEIPT",
+      "folder": "01-NO-RECEIPT",
+      "bpm": 154,
+      "bars": 8,
+      "guide_seconds": 12.468,
+      "lead_note_count": 28,
+      "midi_bytes": 776,
+      "track_count": 4,
+      "song_bars": 96,
+      "planned_song_seconds": 149.61,
+      "style_characters": 862
+    },
+    {
+      "name": "FAST FORWARD",
+      "folder": "02-FAST-FORWARD",
+      "bpm": 146,
+      "bars": 8,
+      "guide_seconds": 13.151,
+      "lead_note_count": 40,
+      "midi_bytes": 1005,
+      "track_count": 4,
+      "song_bars": 100,
+      "planned_song_seconds": 164.384,
+      "style_characters": 875
+    },
+    {
+      "name": "ROOM TONE",
+      "folder": "03-ROOM-TONE",
+      "bpm": 92,
+      "bars": 8,
+      "guide_seconds": 20.87,
+      "lead_note_count": 30,
+      "midi_bytes": 837,
+      "track_count": 4,
+      "song_bars": 64,
+      "planned_song_seconds": 166.957,
+      "style_characters": 912
+    },
+    {
+      "name": "SECOND LIFE",
+      "folder": "04-SECOND-LIFE",
+      "bpm": 144,
+      "bars": 8,
+      "guide_seconds": 13.333,
+      "lead_note_count": 27,
+      "midi_bytes": 855,
+      "track_count": 5,
+      "song_bars": 96,
+      "planned_song_seconds": 160.0,
+      "style_characters": 922
+    },
+    {
+      "name": "V01 ORIGINAL VOCAL SEED",
+      "folder": "00-ORIGINAL-SAMPLE",
+      "bpm": 96,
+      "bars": 1,
+      "guide_seconds": 2.5,
+      "lead_note_count": 5,
+      "midi_bytes": 214,
+      "track_count": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿sample_id,title,instrument,bpm,meter,bars,planned_seconds,source_type,composer_credit,performer,master_owner,source_audio,license_document,status
+G01,Crooked Cuff,picked electric guitar,73,4/4,4,13.1507,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+P02,Empty Hall,felt piano,66,4/4,4,14.5455,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+EP03,Eighty Percent,electric piano,104,4/4,4,9.2308,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+V04,Latch,violin short bow,142,4/4,2,3.3803,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+P05,Worn Sleeve,upright piano,84,4/4,4,11.4286,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+V05,Loose Thread,solo violin answers,84,4/4,4,11.4286,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+SYN06,Lime Lining,gated saw synth,152,4/4,2,3.1579,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+P07,Blue Ink,warm piano,70,4/4,4,13.7143,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING
+VC01,One of one original cell,"vocal composition guide, no voice recorded",146,4/4,1,1.6438,"original composition MIDI, not a recording",,,,,,SCORE_READY_RECORDING_PENDING

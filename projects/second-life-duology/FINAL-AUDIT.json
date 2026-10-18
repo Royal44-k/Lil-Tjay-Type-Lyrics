@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "album_slots": [
+    4,
+    8
+  ],
+  "unique_song_versions": 11,
+  "source_files_compared_with_current_originals": 109,
+  "shared_second_life_files_identical": 6,
+  "complete_prompt_cards": 12,
+  "main_field_blocks_checked": 48,
+  "supplementary_blocks_checked": 60,
+  "readme_links_resolve": true,
+  "generation_and_publication_logs_empty": true,
+  "source_midi_files": 10,
+  "all_midi_files": 22,
+  "all_musicxml_files": 15,
+  "audio_render_audit": "NOT_APPLICABLE_NO_AUDIO_IN_THIS_DELIVERY"
+}

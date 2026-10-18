@@ -1,0 +1,87 @@
+{
+  "album_slots": 12,
+  "unique_song_versions": 11,
+  "original_album_slots": 4,
+  "plus_album_slots": 8,
+  "preserved_assets": 109,
+  "preserved_assets_match": true,
+  "shared_second_life_six_files_identical": true,
+  "original_planned_seconds": 640.951,
+  "plus_planned_seconds": 1281.103,
+  "inputs": [
+    {
+      "track_id": "SL01",
+      "style_characters": 862,
+      "lyrics_characters": 2069,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SL02",
+      "style_characters": 875,
+      "lyrics_characters": 2336,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SL03",
+      "style_characters": 912,
+      "lyrics_characters": 2075,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SL04",
+      "style_characters": 922,
+      "lyrics_characters": 2168,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP01",
+      "style_characters": 591,
+      "lyrics_characters": 2003,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP02",
+      "style_characters": 573,
+      "lyrics_characters": 1862,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP03",
+      "style_characters": 601,
+      "lyrics_characters": 2115,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP04",
+      "style_characters": 586,
+      "lyrics_characters": 1875,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP05",
+      "style_characters": 582,
+      "lyrics_characters": 1517,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP06",
+      "style_characters": 570,
+      "lyrics_characters": 1521,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP07",
+      "style_characters": 620,
+      "lyrics_characters": 2074,
+      "complete_lyrics_in_book": true
+    },
+    {
+      "track_id": "SLP08",
+      "style_characters": 922,
+      "lyrics_characters": 2168,
+      "complete_lyrics_in_book": true
+    }
+  ],
+  "audio_generated": false,
+  "publicity_published": false
+}

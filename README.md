@@ -1,10 +1,27 @@
-# STILL GOT ME · American Melodic Trap
+# English Hip-Hop Songwriting & Production Archive
 
-本仓库归档一次以 Lil Tjay《Born 2 Be Great》为研究起点的英文原创歌曲创作：歌词、美国 hip-hop 文化与制作研究、Hook 旋律、伴奏草图、可编辑 MIDI、人声实验和制作脚本。
+本仓库按项目归档对话中的原创英文 hip-hop 词曲、研究、旋律动机、编曲方案、Suno 输入和可用制作素材。最初的《STILL GOT ME》资料保留在原目录；后续作品集中放在 [projects/](projects/)。参考艺人未参与这些原创项目。
+
+## 后续作品
+
+| 项目 | 内容 | 制作状态 |
+| --- | --- | --- |
+| [DON'T HANG UP](projects/dont-hang-up/README.md) | 受《Scared 2 Be Lonely》研究启发的原创 melodic trap；[v2 词曲与伴奏](projects/dont-hang-up/v2/README.md)、[Suno 输入](projects/dont-hang-up/suno-import/README.md) | 词曲与三段无主唱 WAV 草样；尚无完成的人声演唱 |
+| [D1fferent but Excellent](projects/d1fferent-but-excellent/README.md) | 七首英文歌曲、原创 Hook 与采样母动机 | 预制作资料；未生成全曲音频 |
+| [SECOND LIFE](projects/second-life/README.md) | 原版四首，含完整歌词、编曲与 Hook 引导 | 预制作资料 |
+| [SECOND LIFE+](projects/second-life-plus/README.md) | 三首 remix、四首新作、一首保留原曲 | 预制作资料 |
+| [两张唱片的叙事与宣传制作包](projects/second-life-duology/README.md) | 详细叙事、概念宣传和 12 个曲目位置的 Suno 输入 | 文本与谱面制作包 |
+| [2007.net](projects/2007-net/README.md) | 七首英文歌曲；早期互联网主题、完整歌词、Hook 和原创素材动机 | 预制作资料；未生成演唱音频 |
+
+[制作知识索引](docs/PRODUCER-KNOWLEDGE-INDEX.md)串联各轮研究与待验证判断；[本次增量归档说明](docs/CONVERSATION-UPDATE-2026-10-18.md)记录文件范围与去重规则；[新增文件哈希清单](manifests/conversation-update-2026-10-18.json)可用于核对字节。
+
+## STILL GOT ME · 2026-09-13 初次归档
+
+这首歌以 Lil Tjay《Born 2 Be Great》为研究起点，保留歌词、美国 hip-hop 文化与制作研究、Hook 旋律、伴奏草图、可编辑 MIDI、人声实验和制作脚本。
 
 **当前状态：完整英文歌词已写出；音频仅完成约 29 秒的 Hook 草图；两版合成人声已被用户否定；真实演唱版本尚未完成。** 仓库名描述研究方向，不代表 Lil Tjay 或 Halsey 参与了本项目。
 
-## 从这里开始
+## STILL GOT ME 文件导航
 
 | 内容 | 文件 | 状态 |
 | --- | --- | --- |

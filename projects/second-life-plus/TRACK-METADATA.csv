@@ -1,0 +1,9 @@
+﻿track_number,track_id,title,version,kind,language,bpm,key,meter,bars,planned_seconds,word_count,explicit_lyrics,primary_artist,featured_artists,songwriters,producers,performers,isrc,upc,release_date,audio_file,suno_url,status
+1,SLP01,NO RECEIPT,Split Sheet Remix,remix,en,140,F# minor,4/4,96,164.571,375,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+2,SLP02,IVORY HOURS,Original,new,en,88,D minor,4/4,60,163.636,352,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+3,SLP03,FAST FORWARD,Night Shift Remix,remix,en,138,D minor,4/4,92,160.0,361,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+4,SLP04,COUNTERSTEP,Original,new,en,144,G minor,4/4,96,160.0,326,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+5,SLP05,ROOM TONE,Open Door Remix,remix,en,124,A major,4/4,80,154.839,266,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+6,SLP06,SOFT LANDING,Original,new,en,76,Eb major,4/4,52,164.211,268,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+7,SLP07,"LAST TRAIN, FIRST LIGHT",Original,new,en,156,E minor,4/4,100,153.846,382,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+8,SLP08,SECOND LIFE,Original retained,retained,en,144,A major,4/4,96,160.0,355,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING

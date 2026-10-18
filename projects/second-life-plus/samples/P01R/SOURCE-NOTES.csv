@@ -1,0 +1,11 @@
+﻿part,start,note,duration,velocity,text
+short piano source,0,F#3,0.5,72,
+short piano source,1,A3,0.25,72,
+short piano source,1.5,C#4,0.25,72,
+short piano source,2.5,E4,0.25,72,
+short piano source,3,C#4,0.5,72,
+short piano source,4,D4,0.5,72,
+short piano source,5,A3,0.25,72,
+short piano source,5.5,F#3,0.25,72,
+short piano source,6.5,C#4,0.25,72,
+short piano source,7,A3,0.5,72,

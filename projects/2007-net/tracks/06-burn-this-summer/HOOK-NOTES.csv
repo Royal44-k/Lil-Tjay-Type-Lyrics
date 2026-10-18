@@ -1,0 +1,8 @@
+﻿syllable,pitch,midi_note,start_beat,duration_beats
+Burn,E4,64,0,1
+this,F#4,66,1,1
+sum,A4,69,2,1
+mer,A4,69,3,3.5
+Track,G#4,68,8,1
+by,F#4,66,9,1
+track,E4,64,10,4.5

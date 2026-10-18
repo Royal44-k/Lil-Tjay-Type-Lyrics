@@ -1,0 +1,90 @@
+{
+  "SLP01": {
+    "premise": "原版争取自己的价值；remix 让主角面对自己欠别人的署名和报酬。三个虚构人物依次开口：艺人、制作伙伴、女录音工程师。每段有独立立场，最后由艺人改变承诺的措辞。",
+    "change": "保留 No receipt, no return 的六音动机、原调和标题身份。其余主歌全部重写，Hook 改为合作者的要求。154 BPM rage/guitar 改成 140 BPM drill 与地下说唱，吉他的持续攻击让位于钢琴短切片和小提琴拨弦。",
+    "arc": "Verse 1 的防御和心虚 → Verse 2 的具体对账 → Verse 3 对隐形劳动的反问 → 最后 I'll say we 的公开承担。人物没有在一句口号后自动完成和解，正式履约仍在歌外。",
+    "rhyme": "Hook 的 return/work 为 /ɜr/ 元音近韵，due/moves 为 /uː/ 近韵。Verse 1 spoken/unopened，session/question；Verse 2 laptop/bus stop，snare/there，show/know；Verse 3 one/won，sorrow/tomorrow，door/store。patience/made it 是宽松 /eɪ/ 呼应，不作为严格韵脚计分。",
+    "prosody": "第一句重读 NO、CEIPT、TURN。Put our NAMES beSIDE the WORK。两快小节一行，长句 put the math in the paperwork 先短念前半，PAPER 落重音；不要把词尾 work 唱成独立重音词。三段分别落拍略后、略前、正拍，体现性格。",
+    "arrangement": "1–4 小节 piano/室内声；5–12 Hook；13–28 艺人段保持最少弦乐；29–44 制作人段加短 808 滑音；53–68 工程师段撤掉帽子前四小节；69–76 桥段只有琴和声音，76 小节末一拍留空；77–92 最终 Hook 才出现三人短回应。声部切换用一小节减法，不用长 riser。",
+    "sample": "P01R 与 STR01R 是待录的重编材料。P01R 用 F#–A–C# 的断奏钢琴切成 1/8 与 1/4 拍，低音区空给 808；STR01R 自录短小提琴 pizzicato，禁止持续盖住辅音。V01 只取 still 的一片，作为句间回应，不假称已有录音。",
+    "risk": "最容易把三个讲述者唱成同一个人。先要求句法、声区与力度有区别；若身份串位，分段生成后编辑拼接，不靠增加艺人名字修正。",
+    "revision": "Preserve the six-note No receipt, no return hook. Keep the three verse perspectives distinct: the artist admits his part, the producer names the unpaid contribution, the engineer asks for credit. Reduce instrumental density under each voice. Leave the final beat of the bridge empty before the collective hook."
+  },
+  "SLP02": {
+    "premise": "父亲葬礼后，叙述者整理家里的旧钢琴和磁带。温暖记忆与曾经受到的伤害同时存在；他允许自己怀念，却没有强迫自己完成原谅。这里的录音、人物与家庭事件均为虚构。",
+    "change": "新增曲。钢琴作为记忆中的物件，也是节拍的真实原材料；把完整演奏切碎，歌词也在整理彼此矛盾的片段。",
+    "arc": "Verse 1 触摸旧物，并列家人的不同记忆 → Verse 2 听见磁带上的笑声，拒绝让它抹掉过去 → Bridge 容许思念与不原谅并存。",
+    "rhyme": "Hook claps/back/laugh/have 围绕 /æ/ 形成近韵。主歌 timing/sighing、tune/room，heads/unsaid；label/table、count/sound，folder/older、low/so，chair/snare。最后八行适度放松尾韵，把重点留给事实细节。",
+    "prosody": "IVORY 采用可唱的三音节 I-vo-ry，I 最强，其后两音轻；hours 一音节。88 BPM 每行一小节，采用说唱而非每字长音。较密的 I'm sorting the screws from the things left unsaid 在 sorting/screws/things/said 四处落重读。Bridge 每句两小节，允许完整换气。",
+    "arrangement": "1–4 小节先露 P02 较完整的演奏；5–12 Hook 带干鼓；13–24 主歌按两拍长度重切钢琴，保持每四小节一次空缺；33–44 第二段增加细小的琴凳声；45–48 近清唱；49–56 Hook 恢复旋律但最后一句改写；57–60 不催促钢琴尾音。",
+    "sample": "P02 Uneven Key 为本项目原创四小节 D minor 钢琴谱，88 BPM。先录完整演奏，再按起音切成 A/B/C/D；Verse 用 C-A-B 的重排，Hook 恢复 A-B-C-D 的顺序。保留少量制音器与房间声，低切起点由实际录音决定。磁带父亲的笑声只在歌词叙述，未要求复制真实逝者声线。",
+    "risk": "避免变成大抒情挽歌或用一声高潮替代矛盾。低男声、少量旋律，鼓仍有地下 hip-hop 的身体感。IVORY 的音节数需要生成后听检。",
+    "revision": "Keep the piano motif and exact chorus words. Make the verses spoken-rhythmic and intimate, not a power ballad. Hold both tenderness and resentment in the delivery. Give I-vo-ry three clear sung syllables with stress on the first, and let the final chord decay without a grand climax."
+  },
+  "SLP03": {
+    "premise": "原曲里的主角学会放慢。remix 由他的夜班伴侣追问：谁能够说停就停？她也为自己的职业、选择和时间发声。旅行的音乐人承认自己把伴侣的配合理所当然化。",
+    "change": "保留 Fast-forward 双重复与 wait 三音下行，Hook 相对节奏原样保留，整体从 B minor 升三半音至 D minor。Hyperpop 亮片换成钢琴 melodic trap / R&B；Hook 从男声转到女声。男主歌较短，女主歌更长，体现叙事权的重新分配。",
+    "arc": "开场已经是女声的判断；男声先辩解后承认 → 女声区分骄傲、疼痛和自己的选择 → 桥段具体商量排期，最后拒绝只属于一人的共同未来。",
+    "rhyme": "Hook wait/place/away 使用 /eɪ/。男段 glass/cash、eat/seat、season/reason、spoke/hook（末组为宽松近韵）；女段 coffee/shot me、sleep/see、hurting/working、pay/made、patience/vacant、cry/right。保留声部之间不同的句长与收尾。",
+    "prosody": "保留 FAST-FOR-ward 的原节奏，wait 三次彼此分开。女主歌的 I'm PROUD of YOU 后留微停，That's NOT the PART that's HURTing 避免撒娇式唱法。138 BPM 两小节一行；长主歌 12 行占 24 小节，不把它误塞进 12 快小节。",
+    "arrangement": "Hook 先出；13–28 男主歌带单声道琴；29–32 Pre 撤 808；41–64 女主歌增加低频而减少装饰，给她更多空间；65–72 四句桥段依次男/女/男/女；73–88 女主 Hook，男声只在后半做回应。整曲 138 BPM，不用速度突变掩盖两人真实分歧。",
+    "sample": "复用 P02 的钢琴录音，88→138 若按一小节对一小节拉伸比例会很大，应以两拍切片重新排位，避免整段大幅拉伸造成水声。V01 取轻声尾音，必要时移至 D minor 内可用音高；不承担真实人物身份。新增小提琴回答可由 V04 另录 D minor 版本，未列为已录资产。",
+    "risk": "双声部的性别、桥段轮换和主客关系都需要听检。不要把女性角色处理成仅等待音乐人的背景；她的主歌必须完整、清楚。",
+    "revision": "Preserve the repeated Fast-forward cell and descending wait notes. Put the female voice in charge of the chorus and the longer second verse. Keep the male first verse restrained. The bridge alternates male, female, male, female, one line each. Remove hyperpop effects and let piano, bass and pauses carry the tension."
+  },
+  "SLP04": {
+    "premise": "一个害怕出丑的人在舞池里踩错拍，却把失误变成动作。第二段由别人接过动作、改出自己的版本，独占聚光灯的欲望变成一起玩。专辑在这里允许好笑、身体感和快乐。",
+    "change": "新增曲。用原创小提琴圆舞曲作为 drill 的节奏材料，原来的三拍摇摆遇到四拍鼓点；这种错位与歌词中的失足/变招相呼应。",
+    "arc": "脸红与防御 → 承认偶然、把失误接下去 → 旁人自由改动作 → 全场一起参与。没有靠击败别人来获得自信。",
+    "rhyme": "Hook time/slide/sides/inside 为 /aɪ/ 链。V1 circle/smirk 为宽近韵，out/crowd，chin/in，fall/all。V2 again/pretend/bend/ends 连续四行后换 neat/beat/feet/repeat，最后 embarrass/cares 与 touch/up 放松，形成热闹之后的笑意。",
+    "prosody": "重读 WRONG、RIGHT；COUN-ter-step 的 COUN 最强，STEP 次重。144 BPM 两小节一行。第二段四行 /ɛnd/ 用密集短音，四行 /iːt/ 改为尾字明显落拍。Bridge 的一二三与实际四拍之间保留一个可跳进去的空位。",
+    "arrangement": "1–4 小节暴露原始三拍倾向；5–12 加四拍 drill 进入 Hook；主歌每四小节只放两次长于半拍的提琴音，其他用短切片；69–76 Bridge 先暴露 source 再补 Kick；77–92 最终 Hook 将重拍移回可集体跟跳的位置。让弓头成为打击乐，持续弦乐只在空白段出现。",
+    "sample": "V02 Counter Waltz：108 BPM、3/4、四小节，共 6.667 秒。144 BPM、4/4 的四小节也是 6.667 秒。因此可在不改变播放时长和音高的情况下，将同一短句放进四拍段落；source 的一拍对应目标网格 4/3 拍。导出谱保持源三拍，另附四拍对齐 guide；实际切片应留弓头与尾音交叉淡化。",
+    "risk": "文字模型可能直接忽略三对四关系。先听主 groove 是否成立；精确采样错位交给后期用同一 source WAV 完成。不要用持续电影配乐弦乐冒充小提琴采样。",
+    "revision": "Keep the compact Wrong foot, right time hook. Make the violin short and rhythmic, retaining a three-part lilt over a steady four-beat drill pulse. Reduce long strings. Keep the vocal playful and clear; the track should invite dancing rather than sound threatening."
+  },
+  "SLP05": {
+    "premise": "原版享受有人安静陪伴；remix 从那个总在倾听的人开口，揭示他也有没说出口的事。女方回应时不把认错再变成索取安慰，双方尝试给彼此明确的时间。",
+    "change": "保留 Stay for the quiet, quiet 的七音和相对节奏，F# minor 的原声线放进 A major 和声。92 BPM 私密 R&B 改为 124 BPM UK garage / R&B，单一女叙述者变成双向对答。",
+    "arc": "男方讲述离开后仍坐在楼下 → 女方承认自己把沉默误认成平静 → 桥段讨论十分钟这样的具体限度 → 最后的空间成为能回来继续说话的距离。",
+    "rhyme": "Hook say/way。男段 would/good、zipped/fit in、tonight/sight；hours/awning 不强凑押韵，由 bad news / under / fed coins 的内节奏接续。女段 suffered/covers、rest/request、confession/sentence（宽近韵）、bad/that。桥段 ten/again 给短句停靠。",
+    "prosody": "quiet 保持原来的两音节下行；新的 Let me FINish what I SAY 在 FIN 与 SAY 给重音。每行两个 124 BPM 小节，句首可做轻弱起。桥段不要让第二个人抢掉上一句结尾；留出接话的半拍。",
+    "arrangement": "两步鼓型，Kick 避开机械四踩，帽子后移一点；13–28 男段键盘高频较少，37–52 女段改变键盘转位而不突然更响。53–60 Bridge 抽掉 Bass，四句轮换依次女/男/女/男。61–76 最终 Hook 合唱仍然只有两个人的尺度。",
+    "sample": "P01R 为原创电钢琴重演素材，用短和弦片跟切分帽子对话；V01 只取气息或 me 的尾声，不能循环到盖住实际对话。完全保留原 Hook 首句音高的 MIDI 可以作为参考，但普通文本生成未必精确复现。",
+    "risk": "快鼓容易让关系冲突听起来轻浮；主唱仍按自然说话咬字，节拍可以跳，人物不必表演开心。",
+    "revision": "Keep the original quiet, quiet melody. Use a small male-female duet over a light two-step beat. Let the male verse finish fully before the female reply. The bridge alternates female, male, female, male. Keep the emotional disagreement audible and reduce any oversized final build."
+  },
+  "SLP06": {
+    "premise": "成年人共同选择一个舒服的夜晚。笑场、询问、直接表达想要什么，让欲望显得具体和轻松；不把亲密写成拯救或交换。",
+    "change": "新增曲。慢 R&B / trap-soul 以钢琴取样作触感，小提琴拨弦只回答主唱的空隙。它是全碟的情绪松弛区，但仍有稳定低频和鼓的口袋感。",
+    "arc": "钥匙没落进碗，两人笑场 → 靠近、试探、明确表达 → 保持灯光、允许被看见 → 不急着证明这段关系的终局。",
+    "rhyme": "Hook time/mine、near/here。主歌 doorway/hear us 为松散元音回应，floor/more，shoulder/colder，train/again；第二段 hand/dance、there/hair。避免为了押齐每行而破坏口语。",
+    "prosody": "SOFT LAND-ing 的 LAND 落较高音，-ing 轻收。76 BPM 主歌一行一小节，采用轻唱快念；Hook 一行两小节，time / mine 可延长。Don't turn on the big light 用说话式收尾，让灯光细节取代华丽转音。",
+    "arrangement": "两小节 Intro 后即进 Hook；19–22 Pre 收掉 Snare；第二段只在主唱换气时加入 V03；39–42 Bridge 保持节拍暗示而不空成大抒情；43–50 最终 Hook 只加一层低音量和声；51–52 留真实尾音。",
+    "sample": "P03 Lamplight Keys 是 76 BPM、Eb major 的原创四小节 felt piano；按弦和踏板自然衰减切片。V03 Small Gestures 是独立原创 violin pizzicato 谱，短促高音应与主唱错开。录音时分开干声与房间麦，避免在同一剪辑里重复叠加混响尾巴。",
+    "risk": "避免用过度喘息、持续转音和过重低频替代自然亲密。亲密感应当来自距离与措辞；听清 Tell me what you want 是必要条件。",
+    "revision": "Keep the warm low female register and simple Soft landing refrain. Make the verses conversational and playful. Use piano as the main texture and tiny pizzicato answers only in vocal gaps. Remove long runs and preserve the natural pauses around the questions and replies."
+  },
+  "SLP07": {
+    "premise": "离开故乡并不自动否定故乡。第一段是送行时说不完整的关心，第二段来到一个并不漂亮的新房间；新生活从认识一个邻居开始。",
+    "change": "新增曲。用慢速钢琴演奏在快拍网格里重排，配少量小提琴回答，形成 half-time melodic rap。副歌有张开的空间，主歌仍保留日常口语。",
+    "arc": "家庭的担心和实用照顾 → 主角承认自己想离开 → 抵达后发现现实并不光鲜 → 通过小小的社会联系开始生活，允许原来的房间也改变。",
+    "rhyme": "Hook light/tonight/side 为 /aɪ/ 韵核。主歌 journey/turning、lock/caught，worked with/words miss、change/safe；leaving/breathing、less/best。第二段 street/week、sent/rent、drywall/walk、try/night，主要使用交叉近韵。",
+    "prosody": "LAST TRAIN / FIRST LIGHT 四个词都能落清楚的拍。两快小节一行，关键日常物件 SANDwich、STOVE、LOCK、SUITcase 不需要刻意卷舌。There's a life I haven't met on the other side 把 function words 轻放，不拉长 every syllable。最高 Hook 音 A4，男声可用轻混声；实际歌手不适合时整曲移调。",
+    "arrangement": "P04 先完整露四个快拍小节的一部分，再进 Hook；Verse 1 弦乐只在每四行的结尾答一句；Verse 2 前四行去掉 808，让不完美的新环境显得真实；Bridge 钢琴曝光；Final Hook 恢复 808，并用 G major 的相对大调重心抬升色彩，不做强行升调。",
+    "sample": "P04 Platform Window 与 V04 Daybreak Answer 均按 78 BPM 四小节作曲；同样的演奏时长对应 156 BPM 八小节。以 double-time 网格摆放，不必把音频加速一倍。鼓用 156 的网格，主要身体律动仍为 78。",
+    "risk": "避免歌词被唱成广告式励志。买错牛奶、露出杂物、认识新邻居这些细节都要留下。大调色彩来自和声与转位，不能声称文本一定产生精确转调。",
+    "revision": "Keep the Last train, first light melody and the concrete family details. Use a half-time pocket under the fast grid. Make the second verse smaller before opening the final hook. Let violin answer between lines rather than compete with the lead, and avoid a generic motivational delivery."
+  },
+  "SLP08": {
+    "premise": "保留上一版原作：修好旧音箱、共同做音乐、搬迁后重建空间。作为 PLUS 版的结尾，原来的 save a seat 经过七首歌后包含了更多人的位置。",
+    "change": "歌词、STYLE、EXCLUDE、Hook MIDI、Hook CSV 与段落 CSV 六个原文件逐字节复制。维持 144 BPM / A major / 96 小节。仅改变在专辑中的排序，不重写、不另作 remix。",
+    "arc": "保持原有叙事与情绪。其他曲目的新角色为结尾增加上下文，不倒过来修改本曲来解释前文。",
+    "rhyme": "沿用原作 heartbeat/me/seat/me 的 Hook 元音链与叙事近韵。",
+    "prosody": "沿用原作两快小节一行的主歌与男女 Hook 接力。原始 MIDI 的男声 Not brand new 之后由女声母句回答，保持不变。",
+    "arrangement": "原结构：4/8/24/8/24/8/16/4 小节。其干声呼吸结尾保持独立完整，不为了串接其他曲目而截断。",
+    "sample": "V01/G01/P01/B01 的上一版素材方案保留。此前只有词曲与 MIDI，没有已录人声或正式母带；本次保存的是这些已存在资产。将来若已有定稿音频，应直接沿用该文件，重新输入 Suno 无法保证同一录音。",
+    "risk": "最容易把重新生成的一首相似歌曲误称为原版保留。用 PRESERVATION.json 的校验区分保存旧文件与生成新录音。",
+    "revision": "Retain the original song and existing approved audio if available. Do not rewrite its lyrics, hook, arrangement or vocal roles for this deluxe edition. If only the composition assets exist, treat a new generation as the first audio realization, not as a byte-identical preserved recording."
+  }
+}

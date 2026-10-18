@@ -1,0 +1,355 @@
+﻿track_id,section,line_in_section,role,start_bar,bars,planned_start_seconds,words,lyrics
+SLP01,Intro,1,R1 artist / male mid,1,2,0.0,5,Put the whole list up.
+SLP01,Intro,2,R1 artist / male mid,3,2,3.429,4,Everybody who was there.
+SLP01,Chorus,1,R2 producer + R3 engineer / joint hook,5,2,6.857,4,"No receipt, no return."
+SLP01,Chorus,2,R2 producer + R3 engineer / joint hook,7,2,10.286,6,Put our names beside the work.
+SLP01,Chorus,3,R2 producer + R3 engineer / joint hook,9,2,13.714,8,"You said ""we"" when the rent came due."
+SLP01,Chorus,4,R2 producer + R3 engineer / joint hook,11,2,17.143,7,"Don't say ""I"" when the money moves."
+SLP01,Verse 1,1,R1 artist / male mid,13,2,20.571,11,"Used to say ""the team"" like a word in a speech,"
+SLP01,Verse 1,2,R1 artist / male mid,15,2,24.0,11,Now the team wants a seat where the numbers get spoken.
+SLP01,Verse 1,3,R1 artist / male mid,17,2,27.429,8,"I kept every promise that sounded like me,"
+SLP01,Verse 1,4,R1 artist / male mid,19,2,30.857,9,Left the hard little parts in an email unopened.
+SLP01,Verse 1,5,R1 artist / male mid,21,2,34.286,10,"My name on the poster, their names in the folder,"
+SLP01,Verse 1,6,R1 artist / male mid,23,2,37.714,10,"One got a shout-out, one paid for the session."
+SLP01,Verse 1,7,R1 artist / male mid,25,2,41.143,10,I called it a favor; he called me an owner.
+SLP01,Verse 1,8,R1 artist / male mid,27,2,44.571,9,Funny how fast I got scared of a question.
+SLP01,Verse 2,1,R2 producer / male low,29,2,48.0,9,"I built that bounce on a cracked little laptop,"
+SLP01,Verse 2,2,R2 producer / male low,31,2,51.429,10,Sent you the stems with the hiss in the snare.
+SLP01,Verse 2,3,R2 producer / male low,33,2,54.857,12,You told them the sound came to you at a bus stop;
+SLP01,Verse 2,4,R2 producer / male low,35,2,58.286,10,I stood by the wall like I hadn't been there.
+SLP01,Verse 2,5,R2 producer / male low,37,2,61.714,9,"Don't need your jacket, your chain or your password."
+SLP01,Verse 2,6,R2 producer / male low,39,2,65.143,8,Need what we settled on after the show.
+SLP01,Verse 2,7,R2 producer / male low,41,2,68.571,11,"If the friendship is real, put the math in the paperwork."
+SLP01,Verse 2,8,R2 producer / male low,43,2,72.0,9,Let it be boring. Let both of us know.
+SLP01,Chorus,1,R2 producer + R3 engineer / joint hook,45,2,75.429,4,"No receipt, no return."
+SLP01,Chorus,2,R2 producer + R3 engineer / joint hook,47,2,78.857,6,Put our names beside the work.
+SLP01,Chorus,3,R2 producer + R3 engineer / joint hook,49,2,82.286,8,"You said ""we"" when the rent came due."
+SLP01,Chorus,4,R2 producer + R3 engineer / joint hook,51,2,85.714,7,"Don't say ""I"" when the money moves."
+SLP01,Verse 3,1,R3 engineer / female alto,53,2,89.143,9,"I tuned that room with a blanket and patience,"
+SLP01,Verse 3,2,R3 engineer / female alto,55,2,92.571,10,Told you the take with the shake was the one.
+SLP01,Verse 3,3,R3 engineer / female alto,57,2,96.0,12,You named all the boys when they asked how we made it;
+SLP01,Verse 3,4,R3 engineer / female alto,59,2,99.429,10,I packed up the cables. You smiled like you'd won.
+SLP01,Verse 3,5,R3 engineer / female alto,61,2,102.857,11,I don't need a crown or a speech full of sorrow;
+SLP01,Verse 3,6,R3 engineer / female alto,63,2,106.286,11,Just pay me on time when you walk out the door.
+SLP01,Verse 3,7,R3 engineer / female alto,65,2,109.714,10,I got my own songs; you can hear them tomorrow.
+SLP01,Verse 3,8,R3 engineer / female alto,67,2,113.143,12,Put my name on the file that you sent to the store.
+SLP01,Bridge,1,R1,69,2,116.571,3,Send that file.
+SLP01,Bridge,2,R1,71,2,120.0,5,Put it on the screen.
+SLP01,Bridge,3,R1,73,2,123.429,3,"No more ""later."""
+SLP01,Bridge,4,R1,75,2,126.857,5,Tell me what we mean.
+SLP01,Final Chorus,1,R1 + R2 + R3 / collective hook,77,2,130.286,4,"No receipt, no return."
+SLP01,Final Chorus,2,R1 + R2 + R3 / collective hook,79,2,133.714,6,Put our names beside the work.
+SLP01,Final Chorus,3,R1 + R2 + R3 / collective hook,81,2,137.143,8,"You said ""we"" when the rent came due."
+SLP01,Final Chorus,4,R1 + R2 + R3 / collective hook,83,2,140.571,7,"Don't say ""I"" when the money moves."
+SLP01,Final Chorus,5,R1 + R2 + R3 / collective hook,85,2,144.0,4,"No receipt, no return."
+SLP01,Final Chorus,6,R1 + R2 + R3 / collective hook,87,2,147.429,6,Put our names beside the work.
+SLP01,Final Chorus,7,R1 + R2 + R3 / collective hook,89,2,150.857,8,"We said ""we"" when the rent came due."
+SLP01,Final Chorus,8,R1 artist / final commitment,91,2,154.286,7,"I'll say ""we"" when the money moves."
+SLP01,Outro,1,R1,93,2,157.714,4,Everybody who was there.
+SLP01,Outro,2,R1,95,2,161.143,5,Put the whole list up.
+SLP02,Chorus,1,I1 adult male,5,2,10.909,4,"Ivory hours, nobody claps."
+SLP02,Chorus,2,I1 adult male,7,2,16.364,9,I let the last note find its way back.
+SLP02,Chorus,3,I1 adult male,9,2,21.818,9,You never said sorry; I still hear you laugh.
+SLP02,Chorus,4,I1 adult male,11,2,27.273,10,Both things can fit in the song that I have.
+SLP02,Verse 1,1,I1 adult male,13,1,32.727,9,"Back from the service, I sit at your keys,"
+SLP02,Verse 1,2,I1 adult male,14,1,35.455,9,Cup-ring moon on the lid by the lamp.
+SLP02,Verse 1,3,I1 adult male,15,1,38.182,11,"I could sell it for less than the movers would need,"
+SLP02,Verse 1,4,I1 adult male,16,1,40.909,11,But I can't lift the phone with that number in hand.
+SLP02,Verse 1,5,I1 adult male,17,1,43.636,10,"You taught me the left hand and hated my timing,"
+SLP02,Verse 1,6,I1 adult male,18,1,46.364,9,Tapped on the wood till I swallowed the tune.
+SLP02,Verse 1,7,I1 adult male,19,1,49.091,10,I learned to play softly to keep you from sighing;
+SLP02,Verse 1,8,I1 adult male,20,1,51.818,12,"Now I hit that wrong note, let it stay in the room."
+SLP02,Verse 1,9,I1 adult male,21,1,54.545,8,Mom says you mellowed. My brother says hardly.
+SLP02,Verse 1,10,I1 adult male,22,1,57.273,9,We carry a different old man in our heads.
+SLP02,Verse 1,11,I1 adult male,23,1,60.0,9,"He fixed every hinge, never said he was sorry;"
+SLP02,Verse 1,12,I1 adult male,24,1,62.727,9,I'm sorting the screws from the things left unsaid.
+SLP02,Chorus,1,I1 adult male,25,2,65.455,4,"Ivory hours, nobody claps."
+SLP02,Chorus,2,I1 adult male,27,2,70.909,9,I let the last note find its way back.
+SLP02,Chorus,3,I1 adult male,29,2,76.364,9,You never said sorry; I still hear you laugh.
+SLP02,Chorus,4,I1 adult male,31,2,81.818,10,Both things can fit in the song that I have.
+SLP02,Verse 2,1,I1 adult male,33,1,87.273,10,"Found a small tape with a date on the label,"
+SLP02,Verse 2,2,I1 adult male,34,1,90.0,8,"You counting me in, then forgetting the count."
+SLP02,Verse 2,3,I1 adult male,35,1,92.727,11,I laugh at the part where you knock on the table;
+SLP02,Verse 2,4,I1 adult male,36,1,95.455,10,You laugh right behind me. I hadn't heard that sound.
+SLP02,Verse 2,5,I1 adult male,37,1,98.182,10,For years I had filed you in one little folder:
+SLP02,Verse 2,6,I1 adult male,38,1,100.909,10,The voice in the hall when the bottle got low.
+SLP02,Verse 2,7,I1 adult male,39,1,103.636,9,But this doesn't cancel the nights I got older
+SLP02,Verse 2,8,I1 adult male,40,1,106.364,9,"Before I was ready, or make them less so."
+SLP02,Verse 2,9,I1 adult male,41,1,109.091,11,"I keep both the takes when I cut up the sample,"
+SLP02,Verse 2,10,I1 adult male,42,1,111.818,10,The soft little hum and the crack in the chair.
+SLP02,Verse 2,11,I1 adult male,43,1,114.545,9,Forgiveness is still not a word I can manage;
+SLP02,Verse 2,12,I1 adult male,44,1,117.273,10,Tonight I just leave a small gap in the snare.
+SLP02,Bridge,1,I1 adult male,45,2,120.0,7,I don't have to make you good
+SLP02,Bridge,2,I1 adult male,47,2,125.455,8,To miss you when the house gets still.
+SLP02,Final Chorus,1,I1 adult male,49,2,130.909,4,"Ivory hours, nobody claps."
+SLP02,Final Chorus,2,I1 adult male,51,2,136.364,9,I let the last note find its way back.
+SLP02,Final Chorus,3,I1 adult male,53,2,141.818,9,You never said sorry; I still hear you laugh.
+SLP02,Final Chorus,4,I1 adult male,55,2,147.273,11,I leave a little air for the parts I don't have.
+SLP02,Outro,1,I1 adult male,57,2,152.727,3,One note hanging.
+SLP02,Outro,2,I1 adult male,59,2,158.182,4,I let it hang.
+SLP03,Intro,1,N2 night worker / female alto,1,2,0.0,3,I'm still awake.
+SLP03,Intro,2,N2 night worker / female alto,3,2,3.478,2,Different reason.
+SLP03,Chorus,1,N2 female lead,5,2,6.957,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Chorus,2,N2 female lead,7,2,10.435,10,You got out of town; I still work this place.
+SLP03,Chorus,3,N2 female lead,9,2,13.913,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Chorus,4,N2 female lead,11,2,17.391,7,Somebody stays up so you get away.
+SLP03,Verse 1,1,N1 traveling musician / male tenor,13,2,20.87,7,"Window seat, two cities in the glass,"
+SLP03,Verse 1,2,N1 traveling musician / male tenor,15,2,24.348,8,"Your last text says, ""Don't forget to eat."""
+SLP03,Verse 1,3,N1 traveling musician / male tenor,17,2,27.826,10,"I text, ""Just call out. I can send the cash."""
+SLP03,Verse 1,4,N1 traveling musician / male tenor,19,2,31.304,10,Like a day off comes as easy as a seat.
+SLP03,Verse 1,5,N1 traveling musician / male tenor,21,2,34.783,7,"Got good at calling sacrifice a season,"
+SLP03,Verse 1,6,N1 traveling musician / male tenor,23,2,38.261,6,Booked another month before we spoke.
+SLP03,Verse 1,7,N1 traveling musician / male tenor,25,2,41.739,8,"You said, ""Go."" I stopped before the reason,"
+SLP03,Verse 1,8,N1 traveling musician / male tenor,27,2,45.217,10,Used your little smile to let me off the hook.
+SLP03,Pre-Chorus,1,N1,29,2,48.696,8,"""Take your time"" is easy from a plane."
+SLP03,Pre-Chorus,2,N1,31,2,52.174,9,I hear it different when you say my name.
+SLP03,Chorus,1,N2 female lead,33,2,55.652,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Chorus,2,N2 female lead,35,2,59.13,10,You got out of town; I still work this place.
+SLP03,Chorus,3,N2 female lead,37,2,62.609,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Chorus,4,N2 female lead,39,2,66.087,7,Somebody stays up so you get away.
+SLP03,Verse 2,1,N2,41,2,69.565,10,"Badge on my shirt, half a moon in my coffee,"
+SLP03,Verse 2,2,N2,43,2,73.043,6,Someone needs water; somebody can't sleep.
+SLP03,Verse 2,3,N2,45,2,76.522,10,"My phone lights up with a picture you shot me,"
+SLP03,Verse 2,4,N2,47,2,80.0,11,A room with a view and a bed I won't see.
+SLP03,Verse 2,5,N2,49,2,83.478,10,I'm proud of you. That's not the part that's hurting.
+SLP03,Verse 2,6,N2,51,2,86.957,10,It's how you call this life a price I pay.
+SLP03,Verse 2,7,N2,53,2,90.435,9,I know the names behind the doors I'm working;
+SLP03,Verse 2,8,N2,55,2,93.913,10,Some of what I carry is a choice I made.
+SLP03,Verse 2,9,N2,57,2,97.391,9,"Can't slow the clock because a hook said patience,"
+SLP03,Verse 2,10,N2,59,2,100.87,8,Can't leave a stranger waiting while I cry.
+SLP03,Verse 2,11,N2,61,2,104.348,8,"Just quit assuming love means I stay vacant,"
+SLP03,Verse 2,12,N2,63,2,107.826,10,And ask me what would make this week feel right.
+SLP03,Bridge,1,N1,65,2,111.304,6,Don't trade another shift for me.
+SLP03,Bridge,2,N2,67,2,114.783,6,Then stop deciding what I need.
+SLP03,Bridge,3,N1,69,2,118.261,7,I'll ask before I book the date.
+SLP03,Bridge,4,N2,71,2,121.739,7,Start there. We can make some space.
+SLP03,Final Chorus,1,N2 female lead / N1 male harmony,73,2,125.217,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Final Chorus,2,N2 female lead / N1 male harmony,75,2,128.696,10,You got out of town; I still work this place.
+SLP03,Final Chorus,3,N2 female lead / N1 male harmony,77,2,132.174,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Final Chorus,4,N2 female lead / N1 male harmony,79,2,135.652,7,Somebody stays up so you get away.
+SLP03,Final Chorus,5,N2 female lead / N1 male harmony,81,2,139.13,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Final Chorus,6,N2 female lead / N1 male harmony,83,2,142.609,10,Two lives on the table; let them both take space.
+SLP03,Final Chorus,7,N2 female lead / N1 male harmony,85,2,146.087,7,"Fast-forward, fast-forward, wait, wait, wait."
+SLP03,Final Chorus,8,N2 female lead / N1 male harmony,87,2,149.565,10,Don't call it our future if it's only your way.
+SLP03,Outro,1,N2,89,2,153.043,5,I got a life here.
+SLP03,Outro,2,N2,91,2,156.522,4,Make room for it.
+SLP04,Intro,1,C1 playful male,1,2,0.0,3,"One, two, three..."
+SLP04,Intro,2,C1 playful male,3,2,3.333,2,Come in.
+SLP04,Chorus,1,C1 playful male,5,2,6.667,4,"Wrong foot, right time."
+SLP04,Chorus,2,C1 playful male,7,2,10.0,7,Let the whole room catch this slide.
+SLP04,Chorus,3,C1 playful male,9,2,13.333,3,"Counterstep, switch sides."
+SLP04,Chorus,4,C1 playful male,11,2,16.667,9,"If you came to watch, you can get inside."
+SLP04,Verse 1,1,C1 playful male,13,2,20.0,9,"Sole came loose at the edge of the circle,"
+SLP04,Verse 1,2,C1 playful male,15,2,23.333,8,One cheap shoe with the tongue hanging out.
+SLP04,Verse 1,3,C1 playful male,17,2,26.667,9,Boy by the booth did a slow little smirk;
+SLP04,Verse 1,4,C1 playful male,19,2,30.0,10,I felt my whole face get hot in the crowd.
+SLP04,Verse 1,5,C1 playful male,21,2,33.333,8,"Used to rehearse how I'd look being fearless,"
+SLP04,Verse 1,6,C1 playful male,23,2,36.667,10,Down to the shrug and the tilt of my chin.
+SLP04,Verse 1,7,C1 playful male,25,2,40.0,10,"Then I caught the wrong count, everybody could hear it;"
+SLP04,Verse 1,8,C1 playful male,27,2,43.333,7,"Funny, the floor didn't swallow me in."
+SLP04,Verse 1,9,C1 playful male,29,2,46.667,10,"So I bent that knee, let the wrong thing travel,"
+SLP04,Verse 1,10,C1 playful male,31,2,50.0,9,Made a small turn out of almost a fall.
+SLP04,Verse 1,11,C1 playful male,33,2,53.333,10,Now the kid with the camera is losing his angle;
+SLP04,Verse 1,12,C1 playful male,35,2,56.667,10,He can't hold the frame with us filling it all.
+SLP04,Chorus,1,C1 playful male,37,2,60.0,4,"Wrong foot, right time."
+SLP04,Chorus,2,C1 playful male,39,2,63.333,7,Let the whole room catch this slide.
+SLP04,Chorus,3,C1 playful male,41,2,66.667,3,"Counterstep, switch sides."
+SLP04,Chorus,4,C1 playful male,43,2,70.0,9,"If you came to watch, you can get inside."
+SLP04,Verse 2,1,C1 playful male,45,2,73.333,8,"Girl in the silver says, ""Run that again."""
+SLP04,Verse 2,2,C1 playful male,47,2,76.667,10,"I say, ""Half of it happened; the rest was pretend."""
+SLP04,Verse 2,3,C1 playful male,49,2,80.0,9,"She adds a quick shoulder, I borrow the bend,"
+SLP04,Verse 2,4,C1 playful male,51,2,83.333,8,Now nobody knows where the old pattern ends.
+SLP04,Verse 2,5,C1 playful male,53,2,86.667,9,"Suit by the bar with his tie pulled neat,"
+SLP04,Verse 2,6,C1 playful male,55,2,90.0,10,He puts down the glass when he catches the beat.
+SLP04,Verse 2,7,C1 playful male,57,2,93.333,9,Shoes worth a paycheck still step on my feet;
+SLP04,Verse 2,8,C1 playful male,59,2,96.667,8,We both crack up. Let the drummer repeat.
+SLP04,Verse 2,9,C1 playful male,61,2,100.0,9,"I spent too much time being hard to embarrass,"
+SLP04,Verse 2,10,C1 playful male,63,2,103.333,7,Guarding a face that nobody could touch.
+SLP04,Verse 2,11,C1 playful male,65,2,106.667,7,"Tonight I look foolish, and nobody cares;"
+SLP04,Verse 2,12,C1 playful male,67,2,110.0,7,Somebody laughs and we all loosen up.
+SLP04,Bridge,1,C1 playful male,69,2,113.333,3,"One, two, three..."
+SLP04,Bridge,2,C1 playful male,71,2,116.667,5,Four gets in for free.
+SLP04,Bridge,3,C1 playful male,73,2,120.0,3,"One, two, three..."
+SLP04,Bridge,4,C1 playful male,75,2,123.333,5,Leave that count to me.
+SLP04,Final Chorus,1,C1 playful male,77,2,126.667,4,"Wrong foot, right time."
+SLP04,Final Chorus,2,C1 playful male,79,2,130.0,7,Let the whole room catch this slide.
+SLP04,Final Chorus,3,C1 playful male,81,2,133.333,3,"Counterstep, switch sides."
+SLP04,Final Chorus,4,C1 playful male,83,2,136.667,9,"If you came to watch, you can get inside."
+SLP04,Final Chorus,5,C1 playful male,85,2,140.0,4,"Wrong foot, right time."
+SLP04,Final Chorus,6,C1 playful male,87,2,143.333,7,Let the whole room catch this slide.
+SLP04,Final Chorus,7,C1 playful male,89,2,146.667,3,"Counterstep, switch sides."
+SLP04,Final Chorus,8,C1 playful male,91,2,150.0,7,"Whole room moving, nobody on the side."
+SLP04,Outro,1,C1 playful male,93,2,153.333,1,Counterstep.
+SLP04,Outro,2,C1 playful male,95,2,156.667,3,Run that again.
+SLP05,Intro,1,D1 partner / male,1,2,0.0,3,Let me finish.
+SLP05,Intro,2,D1 partner / male,3,2,3.871,3,Just a minute.
+SLP05,Chorus,1,D1 male + D2 female / duet,5,2,7.742,5,"Stay for the quiet, quiet."
+SLP05,Chorus,2,D1 male + D2 female / duet,7,2,11.613,6,Let me finish what I say.
+SLP05,Chorus,3,D1 male + D2 female / duet,9,2,15.484,6,We can leave a little distance
+SLP05,Chorus,4,D1 male + D2 female / duet,11,2,19.355,5,Without leaving things this way.
+SLP05,Verse 1,1,D1,13,2,23.226,9,"I left at ten like I said I would,"
+SLP05,Verse 1,2,D1,15,2,27.097,8,But sat downstairs with my coat still zipped.
+SLP05,Verse 1,3,D1,17,2,30.968,10,You liked how the silence could make you feel good;
+SLP05,Verse 1,4,D1,19,2,34.839,9,I had a whole sentence I couldn't fit in.
+SLP05,Verse 1,5,D1,21,2,38.71,9,Tried to tell you they cut back my hours;
+SLP05,Verse 1,6,D1,23,2,42.581,8,"You said, ""I can't carry more worry tonight."""
+SLP05,Verse 1,7,D1,25,2,46.452,10,"So I took my bad news out under the awning,"
+SLP05,Verse 1,8,D1,27,2,50.323,10,Fed coins to the meter to stay out of sight.
+SLP05,Chorus,1,D1 male + D2 female / duet,29,2,54.194,5,"Stay for the quiet, quiet."
+SLP05,Chorus,2,D1 male + D2 female / duet,31,2,58.065,6,Let me finish what I say.
+SLP05,Chorus,3,D1 male + D2 female / duet,33,2,61.935,6,We can leave a little distance
+SLP05,Chorus,4,D1 male + D2 female / duet,35,2,65.806,5,Without leaving things this way.
+SLP05,Verse 2,1,D2 original narrator / female,37,2,69.677,7,"I thought being quiet meant nobody suffered,"
+SLP05,Verse 2,2,D2 original narrator / female,39,2,73.548,9,Mistook you for calm when you swallowed the rest.
+SLP05,Verse 2,3,D2 original narrator / female,41,2,77.419,10,"You asked for a minute; I pulled up the covers,"
+SLP05,Verse 2,4,D2 original narrator / female,43,2,81.29,9,Heard one more demand where you meant a request.
+SLP05,Verse 2,5,D2 original narrator / female,45,2,85.161,9,I won't turn this song into one more confession
+SLP05,Verse 2,6,D2 original narrator / female,47,2,89.032,11,That leaves you to tell me I'm not all that bad.
+SLP05,Verse 2,7,D2 original narrator / female,49,2,92.903,10,Put down the nice voice; give me the whole sentence.
+SLP05,Verse 2,8,D2 original narrator / female,51,2,96.774,10,You get to be tired. I won't argue with that.
+SLP05,Bridge,1,D2,53,2,100.645,5,I can't do all night.
+SLP05,Bridge,2,D1,55,2,104.516,4,Then give me ten.
+SLP05,Bridge,3,D2,57,2,108.387,6,Can we stop if it hurts?
+SLP05,Bridge,4,D1,59,2,112.258,4,And come back again.
+SLP05,Final Chorus,1,D1 male + D2 female / duet,61,2,116.129,5,"Stay for the quiet, quiet."
+SLP05,Final Chorus,2,D1 male + D2 female / duet,63,2,120.0,6,Let me finish what I say.
+SLP05,Final Chorus,3,D1 male + D2 female / duet,65,2,123.871,6,We can leave a little distance
+SLP05,Final Chorus,4,D1 male + D2 female / duet,67,2,127.742,5,Without leaving things this way.
+SLP05,Final Chorus,5,D1 male + D2 female / duet,69,2,131.613,5,"Stay for the quiet, quiet."
+SLP05,Final Chorus,6,D1 male + D2 female / duet,71,2,135.484,6,Let me finish what I say.
+SLP05,Final Chorus,7,D1 male + D2 female / duet,73,2,139.355,6,We can leave a little distance
+SLP05,Final Chorus,8,D1 male + D2 female / duet,75,2,143.226,6,And still come back another day.
+SLP05,Outro,1,D2,77,2,147.097,2,Your turn.
+SLP05,Outro,2,D2,79,2,150.968,2,I'm listening.
+SLP06,Intro,1,S1 female alto,1,1,0.0,4,Put your things down.
+SLP06,Intro,2,S1 female alto,2,1,3.158,3,We got time.
+SLP06,Chorus,1,S1 female alto,3,2,6.316,5,"Soft landing, take your time."
+SLP06,Chorus,2,S1 female alto,5,2,12.632,9,Tell me what you want; I'll tell you mine.
+SLP06,Chorus,3,S1 female alto,7,2,18.947,5,"Soft landing, pull me near."
+SLP06,Chorus,4,S1 female alto,9,2,25.263,8,We got nowhere else to be but here.
+SLP06,Verse 1,1,S1 female alto,11,1,31.579,10,"You set your keys in the bowl by the doorway,"
+SLP06,Verse 1,2,S1 female alto,12,1,34.737,10,"Missed by an inch, now we're both on the floor."
+SLP06,Verse 1,3,S1 female alto,13,1,37.895,9,Laughing so hard that the neighbors can hear us;
+SLP06,Verse 1,4,S1 female alto,14,1,41.053,9,"You say, ""Some entrance."" I ask you for more."
+SLP06,Verse 1,5,S1 female alto,15,1,44.211,9,"There's a thin line of light on your shoulder,"
+SLP06,Verse 1,6,S1 female alto,16,1,47.368,10,Your jacket still smells like the rain on the train.
+SLP06,Verse 1,7,S1 female alto,17,1,50.526,10,I move a little nearer; you ask if I'm colder.
+SLP06,Verse 1,8,S1 female alto,18,1,53.684,8,"I say, ""Not really,"" and do it again."
+SLP06,Pre-Chorus,1,S1 female alto,19,2,56.842,10,I don't need a reason to be doing all right.
+SLP06,Pre-Chorus,2,S1 female alto,21,2,63.158,6,Don't turn on the big light.
+SLP06,Chorus,1,S1 female alto,23,2,69.474,5,"Soft landing, take your time."
+SLP06,Chorus,2,S1 female alto,25,2,75.789,9,Tell me what you want; I'll tell you mine.
+SLP06,Chorus,3,S1 female alto,27,2,82.105,5,"Soft landing, pull me near."
+SLP06,Chorus,4,S1 female alto,29,2,88.421,8,We got nowhere else to be but here.
+SLP06,Verse 2,1,S1 female alto,31,1,94.737,9,"We let the last song fade under our laughter,"
+SLP06,Verse 2,2,S1 female alto,32,1,97.895,9,You trace little circles on top of my hand.
+SLP06,Verse 2,3,S1 female alto,33,1,101.053,10,"You ask what I like; I give you an answer,"
+SLP06,Verse 2,4,S1 female alto,34,1,104.211,10,"No test hidden in it, no trick to the dance."
+SLP06,Verse 2,5,S1 female alto,35,1,107.368,9,Keep the lamp on; I like being seen here.
+SLP06,Verse 2,6,S1 female alto,36,1,110.526,8,"Move a bit slower. Yeah, right about there."
+SLP06,Verse 2,7,S1 female alto,37,1,113.684,8,Morning can borrow us back when it's ready;
+SLP06,Verse 2,8,S1 female alto,38,1,116.842,10,"Your cheek on my shoulder, your laugh in my hair."
+SLP06,Bridge,1,S1 female alto,39,1,120.0,3,Nothing to prove.
+SLP06,Bridge,2,S1 female alto,40,1,123.158,3,Nothing to fix.
+SLP06,Bridge,3,S1 female alto,41,1,126.316,3,Stay with this.
+SLP06,Bridge,4,S1 female alto,42,1,129.474,3,Stay with this.
+SLP06,Final Chorus,1,S1 female alto,43,2,132.632,5,"Soft landing, take your time."
+SLP06,Final Chorus,2,S1 female alto,45,2,138.947,9,Tell me what you want; I'll tell you mine.
+SLP06,Final Chorus,3,S1 female alto,47,2,145.263,5,"Soft landing, pull me near."
+SLP06,Final Chorus,4,S1 female alto,49,2,151.579,8,We got nowhere else to be but here.
+SLP06,Outro,1,S1 female alto,51,1,157.895,2,Soft landing.
+SLP06,Outro,2,S1 female alto,52,1,161.053,2,Right here.
+SLP07,Chorus,1,L1 male tenor,5,2,6.154,4,"Last train, first light."
+SLP07,Chorus,2,L1 male tenor,7,2,9.231,8,I can love this place and leave tonight.
+SLP07,Chorus,3,L1 male tenor,9,2,12.308,4,"Last train, first light."
+SLP07,Chorus,4,L1 male tenor,11,2,15.385,10,There's a life I haven't met on the other side.
+SLP07,Verse 1,1,L1 male tenor,13,2,18.462,9,"Mom folds a sandwich in foil for the journey,"
+SLP07,Verse 1,2,L1 male tenor,15,2,21.538,10,Asks if the place has a stove and a lock.
+SLP07,Verse 1,3,L1 male tenor,17,2,24.615,8,"I say, ""Yeah,"" while my brother keeps turning"
+SLP07,Verse 1,4,L1 male tenor,19,2,27.692,9,The wheel on my suitcase that always gets caught.
+SLP07,Verse 1,5,L1 male tenor,21,2,30.769,11,"Dad writes the name of a guy he once worked with,"
+SLP07,Verse 1,6,L1 male tenor,23,2,33.846,8,Slips it inside with a twenty and change.
+SLP07,Verse 1,7,L1 male tenor,25,2,36.923,12,"Says, ""Call if you need him."" I know what the words miss;"
+SLP07,Verse 1,8,L1 male tenor,27,2,40.0,9,"He spent the whole week trying out ""Be safe."""
+SLP07,Verse 1,9,L1 male tenor,29,2,43.077,10,"Some of my friends make a joke out of leaving,"
+SLP07,Verse 1,10,L1 male tenor,31,2,46.154,11,As if what I want makes the old place worth less.
+SLP07,Verse 1,11,L1 male tenor,33,2,49.231,11,I love where I'm from; I don't owe it my breathing.
+SLP07,Verse 1,12,L1 male tenor,35,2,52.308,10,"One walks me down, says, ""Go give it your best."""
+SLP07,Pre-Chorus,1,L1 male tenor,37,2,55.385,8,One more wave till the platform gets small.
+SLP07,Pre-Chorus,2,L1 male tenor,39,2,58.462,7,I can go without undoing it all.
+SLP07,Chorus,1,L1 male tenor,41,2,61.538,4,"Last train, first light."
+SLP07,Chorus,2,L1 male tenor,43,2,64.615,8,I can love this place and leave tonight.
+SLP07,Chorus,3,L1 male tenor,45,2,67.692,4,"Last train, first light."
+SLP07,Chorus,4,L1 male tenor,47,2,70.769,10,There's a life I haven't met on the other side.
+SLP07,Verse 2,1,L1 male tenor,49,2,73.846,9,"First morning there, I get lost by the market,"
+SLP07,Verse 2,2,L1 male tenor,51,2,76.923,10,"Buy the wrong milk, miss the turn for my street."
+SLP07,Verse 2,3,L1 male tenor,53,2,80.0,9,Nobody knows why I flinch when they ask me
+SLP07,Verse 2,4,L1 male tenor,55,2,83.077,10,"Where I call home; I say, ""Give me a week."""
+SLP07,Verse 2,5,L1 male tenor,57,2,86.154,11,"A room with one chair and a crack in the plaster,"
+SLP07,Verse 2,6,L1 male tenor,59,2,89.231,8,Nothing like all of the pictures I sent.
+SLP07,Verse 2,7,L1 male tenor,61,2,92.308,10,"I take one new picture and leave in the clutter,"
+SLP07,Verse 2,8,L1 male tenor,63,2,95.385,10,"Send it to Mom; she says, ""Now pay your rent."""
+SLP07,Verse 2,9,L1 male tenor,65,2,98.462,10,"Friend down the hall hears a loop through the drywall,"
+SLP07,Verse 2,10,L1 male tenor,67,2,101.538,10,Knocks with two cups and a place I should try.
+SLP07,Verse 2,11,L1 male tenor,69,2,104.615,10,"I don't feel reborn. I just go for a walk,"
+SLP07,Verse 2,12,L1 male tenor,71,2,107.692,9,Come back knowing one more name than last night.
+SLP07,Bridge,1,L1 male tenor,73,2,110.769,4,Keep the spare key.
+SLP07,Bridge,2,L1 male tenor,75,2,113.846,5,Let my old room change.
+SLP07,Bridge,3,L1 male tenor,77,2,116.923,5,I can come back different
+SLP07,Bridge,4,L1 male tenor,79,2,120.0,6,And still answer to my name.
+SLP07,Final Chorus,1,L1 male tenor,81,2,123.077,4,"Last train, first light."
+SLP07,Final Chorus,2,L1 male tenor,83,2,126.154,8,I can love this place and leave tonight.
+SLP07,Final Chorus,3,L1 male tenor,85,2,129.231,4,"Last train, first light."
+SLP07,Final Chorus,4,L1 male tenor,87,2,132.308,10,There's a life I haven't met on the other side.
+SLP07,Final Chorus,5,L1 male tenor,89,2,135.385,4,"Last train, first light."
+SLP07,Final Chorus,6,L1 male tenor,91,2,138.462,11,I can build a home and keep you in my life.
+SLP07,Final Chorus,7,L1 male tenor,93,2,141.538,4,"Last train, first light."
+SLP07,Final Chorus,8,L1 male tenor,95,2,144.615,10,There's a life I haven't met on the other side.
+SLP07,Outro,1,L1 male tenor,97,2,147.692,2,First light.
+SLP07,Outro,2,L1 male tenor,99,2,150.769,4,Give me a week.
+SLP08,Intro,1,original male lead / female source answer,1,4,0.0,5,There's still life in me.
+SLP08,Chorus,1,original male lead / female source answer,5,2,6.667,4,"Second life, same heartbeat."
+SLP08,Chorus,2,original male lead / female source answer,7,2,10.0,7,"Scuffed-up shoes, still miles in me."
+SLP08,Chorus,3,original male lead / female source answer,9,2,13.333,5,"Second life, save a seat."
+SLP08,Chorus,4,original male lead / female source answer,11,2,16.667,8,"Not brand new, there's still life in me."
+SLP08,Verse 1,1,original male lead / female source answer,13,2,20.0,7,"Shop downstairs had a speaker for free,"
+SLP08,Verse 1,2,original male lead / female source answer,15,2,23.333,9,Sat by the door with a cord worn thin.
+SLP08,Verse 1,3,original male lead / female source answer,17,2,26.667,9,"Man at the counter said, ""Take it and see."""
+SLP08,Verse 1,4,original male lead / female source answer,19,2,30.0,9,"We stripped that wire, let the low end in."
+SLP08,Verse 1,5,original male lead / female source answer,21,2,33.333,10,He let me make noise till the shutters came down;
+SLP08,Verse 1,6,original male lead / female source answer,23,2,36.667,10,I looped that first hum till it sounded like home.
+SLP08,Verse 1,7,original male lead / female source answer,25,2,40.0,8,A kid from upstairs kept tapping the counter;
+SLP08,Verse 1,8,original male lead / female source answer,27,2,43.333,10,We gave him the mic; he forgot to let go.
+SLP08,Verse 1,9,original male lead / female source answer,29,2,46.667,12,"He sang out of time, then he laughed when he heard it;"
+SLP08,Verse 1,10,original male lead / female source answer,31,2,50.0,10,I moved the whole drum break to follow his swing.
+SLP08,Verse 1,11,original male lead / female source answer,33,2,53.333,9,I used to erase every take that wasn't perfect;
+SLP08,Verse 1,12,original male lead / female source answer,35,2,56.667,7,That was the one everybody kept singing.
+SLP08,Chorus,1,original male lead / female source answer,37,2,60.0,4,"Second life, same heartbeat."
+SLP08,Chorus,2,original male lead / female source answer,39,2,63.333,7,"Scuffed-up shoes, still miles in me."
+SLP08,Chorus,3,original male lead / female source answer,41,2,66.667,5,"Second life, save a seat."
+SLP08,Chorus,4,original male lead / female source answer,43,2,70.0,8,"Not brand new, there's still life in me."
+SLP08,Verse 2,1,original male lead / female source answer,45,2,73.333,8,Rent went up twice; he couldn't renew it.
+SLP08,Verse 2,2,original male lead / female source answer,47,2,76.667,8,A broker took photos before we were through.
+SLP08,Verse 2,3,original male lead / female source answer,49,2,80.0,11,We borrowed a van; six of us had to move it.
+SLP08,Verse 2,4,original male lead / female source answer,51,2,83.333,11,The kid held the mic the whole ride to the room.
+SLP08,Verse 2,5,original male lead / female source answer,53,2,86.667,10,We didn't get saved by a song or a slogan;
+SLP08,Verse 2,6,original male lead / female source answer,55,2,90.0,10,"We took extra shifts, found a room we could split."
+SLP08,Verse 2,7,original male lead / female source answer,57,2,93.333,9,"The speaker still rattles; we leave that part open,"
+SLP08,Verse 2,8,original male lead / female source answer,59,2,96.667,7,A little reminder of who carried it.
+SLP08,Verse 2,9,original male lead / female source answer,61,2,100.0,12,"If I get a stage, let the names fill the back wall;"
+SLP08,Verse 2,10,original male lead / female source answer,63,2,103.333,11,"If I get a door, put a hold on the latch."
+SLP08,Verse 2,11,original male lead / female source answer,65,2,106.667,12,There's a kid in the hall with a demo that's half done;
+SLP08,Verse 2,12,original male lead / female source answer,67,2,110.0,9,Run it again. Let me hear what you have.
+SLP08,Bridge,1,original male lead / female source answer,69,2,113.333,6,That's the hum from the floor.
+SLP08,Bridge,2,original male lead / female source answer,71,2,116.667,6,That's the knock at the door.
+SLP08,Bridge,3,original male lead / female source answer,73,2,120.0,6,Keep the laugh before the take.
+SLP08,Bridge,4,original male lead / female source answer,75,2,123.333,6,Let it play. Let it play.
+SLP08,Final Chorus,1,original male lead / female source answer,77,2,126.667,4,"Second life, same heartbeat."
+SLP08,Final Chorus,2,original male lead / female source answer,79,2,130.0,7,"Scuffed-up shoes, still miles in me."
+SLP08,Final Chorus,3,original male lead / female source answer,81,2,133.333,5,"Second life, save a seat."
+SLP08,Final Chorus,4,original male lead / female source answer,83,2,136.667,8,"Not brand new, there's still life in me."
+SLP08,Final Chorus,5,original male lead / female source answer,85,2,140.0,4,"Second life, same heartbeat."
+SLP08,Final Chorus,6,original male lead / female source answer,87,2,143.333,7,Leave a little space beside the beat.
+SLP08,Final Chorus,7,original male lead / female source answer,89,2,146.667,5,"Second life, save a seat."
+SLP08,Final Chorus,8,original male lead / female source answer,91,2,150.0,5,There's still life in me.
+SLP08,Outro,1,original male lead / female source answer,93,4,153.333,5,There's still life in me.

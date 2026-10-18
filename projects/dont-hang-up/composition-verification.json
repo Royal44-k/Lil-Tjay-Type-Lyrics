@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "bpm": 148,
+  "bars": 100,
+  "first_hook_seconds": 6.486,
+  "hook_syllables": 76,
+  "male_midi_range": [
+    55,
+    67
+  ],
+  "score_rows": 261,
+  "midi": [
+    {
+      "file": "dont-hang-up-composition.mid",
+      "tracks": 6,
+      "bytes": 15117,
+      "seconds": 162.162,
+      "sha256": "a1b4d1921ce774763853c6dd5fc14ea43a88270a15ee3dbf91af32fb2afdf4c0"
+    },
+    {
+      "file": "dont-hang-up-hook.mid",
+      "tracks": 6,
+      "bytes": 3795,
+      "seconds": 32.432,
+      "sha256": "f625e6d5f8da8bcbf70f02e892c94bf2d58b2db0d3dc5f4ebefd7882ca548ffe"
+    }
+  ],
+  "limitations": [
+    "No reference-track transcription or audio listening analysis",
+    "Verse vocal pitches not specified",
+    "No singer or sample mother audio recorded",
+    "No commercial performance prediction"
+  ]
+}

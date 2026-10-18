@@ -1,0 +1,41 @@
+{
+  "scope": "existing composition assets, not a recorded master",
+  "files": [
+    {
+      "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\LYRICS.txt",
+      "destination": "tracks\\08-second-life\\LYRICS.txt",
+      "sha256": "ef4858c311ae3e116ed423dfd2915e50e43497cd2959e687171efb3fe8950c4d",
+      "match": true
+    },
+    {
+      "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\STYLE.txt",
+      "destination": "tracks\\08-second-life\\STYLE.txt",
+      "sha256": "da35ad82eea732acb2774fe9695860f3e0b7721899fa9269350a63ce1c77af15",
+      "match": true
+    },
+    {
+      "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\EXCLUDE.txt",
+      "destination": "tracks\\08-second-life\\EXCLUDE.txt",
+      "sha256": "216da162f3c6c4782904bf3d62772a6cbc731019e2950ea0ac28142439f67e4d",
+      "match": true
+    },
+    {
+      "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\HOOK-GUIDE.mid",
+      "destination": "tracks\\08-second-life\\HOOK-GUIDE.mid",
+      "sha256": "5ebaf2c5b329ac8ea186bef8f4881dc14b3b251cb72b39ba290dd7422c805190",
+      "match": true
+    },
+    {
+      "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\HOOK-NOTES.csv",
+      "destination": "tracks\\08-second-life\\HOOK-NOTES.csv",
+      "sha256": "0a2561a9cc6cb68275d5710f4826b39e8bba5a8ef69a3f596b4427a33e25b816",
+      "match": true
+    },
+    {
+      "source": "D:\\Codex-chat\\outputs\\second-life-ep-2026-09-18\\04-SECOND-LIFE\\ARRANGEMENT.csv",
+      "destination": "tracks\\08-second-life\\ARRANGEMENT.csv",
+      "sha256": "92b85fdd7f277290aafb642365011dc4b9a156a08041ff99fcfb99d0cb563007",
+      "match": true
+    }
+  ]
+}

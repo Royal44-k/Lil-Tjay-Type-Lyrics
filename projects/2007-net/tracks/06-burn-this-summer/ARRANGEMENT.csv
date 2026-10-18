@@ -1,0 +1,10 @@
+﻿section,start_bar,bars,lyric_lines,line_bar_allocation
+"Intro - female, spontaneous",1,4,2,2 2
+"Chorus - female lead, male answer",5,16,8,2 2 2 2 2 2 2 2
+"Verse 1 - male, buoyant melodic rap",21,32,16,2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Post-Chorus - female and male,53,4,4,1 1 1 1
+"Verse 2 - female, playful then direct",57,32,16,2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Chorus - shared,89,16,8,2 2 2 2 2 2 2 2
+"Bridge - shared, open space",105,8,4,2 2 2 2
+Final Chorus - shared,113,12,6,2 2 2 2 2 2
+Outro - female,125,4,2,2 2

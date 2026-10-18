@@ -1,0 +1,294 @@
+{
+  "stage": "PREPRODUCTION",
+  "audio_exists": false,
+  "release_ready": false,
+  "planned_album_seconds": 1281.103,
+  "tracks": [
+    {
+      "track_id": "SLP01",
+      "section_count": 9,
+      "verse_line_counts": [
+        8,
+        8,
+        8
+      ],
+      "word_count": 375,
+      "planned_seconds": 164.571,
+      "style_characters": 591,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP02",
+      "section_count": 8,
+      "verse_line_counts": [
+        12,
+        12
+      ],
+      "word_count": 352,
+      "planned_seconds": 163.636,
+      "style_characters": 573,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP03",
+      "section_count": 9,
+      "verse_line_counts": [
+        8,
+        12
+      ],
+      "word_count": 361,
+      "planned_seconds": 160.0,
+      "style_characters": 601,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP04",
+      "section_count": 8,
+      "verse_line_counts": [
+        12,
+        12
+      ],
+      "word_count": 326,
+      "planned_seconds": 160.0,
+      "style_characters": 586,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP05",
+      "section_count": 8,
+      "verse_line_counts": [
+        8,
+        8
+      ],
+      "word_count": 266,
+      "planned_seconds": 154.839,
+      "style_characters": 582,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP06",
+      "section_count": 9,
+      "verse_line_counts": [
+        8,
+        8
+      ],
+      "word_count": 268,
+      "planned_seconds": 164.211,
+      "style_characters": 570,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP07",
+      "section_count": 9,
+      "verse_line_counts": [
+        12,
+        12
+      ],
+      "word_count": 382,
+      "planned_seconds": 153.846,
+      "style_characters": 620,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    },
+    {
+      "track_id": "SLP08",
+      "section_count": 8,
+      "verse_line_counts": [
+        12,
+        12
+      ],
+      "word_count": 355,
+      "planned_seconds": 160.0,
+      "style_characters": 922,
+      "text_structure": "PASS",
+      "bar_line_allocation": "PASS",
+      "plain_lyrics_word_match": "PASS",
+      "creative_review": "DESK_REVIEWED",
+      "sung_prosody": "PENDING_AUDIO",
+      "hook_memory_test": "PENDING_LISTENING",
+      "source_recordings": "NOT_RECORDED",
+      "mix_qc": "PENDING_AUDIO",
+      "mastering_qc": "PENDING_AUDIO",
+      "release_metadata": "PENDING_HUMAN_CREDITS"
+    }
+  ],
+  "remix_anchors": [
+    {
+      "track_id": "SLP01",
+      "notes": 6,
+      "transpose_semitones": 0,
+      "relative_rhythm_match": true,
+      "pitch_match": true
+    },
+    {
+      "track_id": "SLP03",
+      "notes": 9,
+      "transpose_semitones": 3,
+      "relative_rhythm_match": true,
+      "pitch_match": true
+    },
+    {
+      "track_id": "SLP05",
+      "notes": 7,
+      "transpose_semitones": 0,
+      "relative_rhythm_match": true,
+      "pitch_match": true
+    }
+  ],
+  "midi_checks": [
+    {
+      "path": "samples\\P01R\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 8.0
+    },
+    {
+      "path": "samples\\P02\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\P03\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\P04\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\STR01R\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 8.0
+    },
+    {
+      "path": "samples\\V01\\HOOK-GUIDE.mid",
+      "tracks": 2,
+      "quarter_beats": 4.0
+    },
+    {
+      "path": "samples\\V02\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 12.0
+    },
+    {
+      "path": "samples\\V02\\TARGET-144-4-4.mid",
+      "tracks": 2,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\V03\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\V04\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\04-counterstep\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\06-soft-landing\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\08-second-life\\HOOK-GUIDE.mid",
+      "tracks": 5,
+      "quarter_beats": 32.0
+    }
+  ],
+  "retained_files_sha256_match": true,
+  "xml_files": 15
+}

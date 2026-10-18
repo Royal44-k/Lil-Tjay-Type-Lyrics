@@ -1,0 +1,17 @@
+{
+  "scope": "Seven-song researched preproduction for the user-operated Suno workflow",
+  "track_count": 7,
+  "complete_lyrics": 7,
+  "hook_scores": 7,
+  "original_source_scores": 9,
+  "vocal_lines": 320,
+  "midi_readback": "PASS (16 files)",
+  "musicxml_bar_totals": "PASS (16 files; not an engraving review)",
+  "pastebook_matches_sources": true,
+  "planned_duration_matches_metadata_and_readme": true,
+  "role_sequences": "PASS",
+  "empty_real-world_logs": true,
+  "audio_created": false,
+  "release_ready": false,
+  "zip_crc_and_manifest": "PASS before adding this audit; final rebuild repeats verification"
+}

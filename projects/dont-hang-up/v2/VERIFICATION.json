@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "bpm": 148,
+  "bars": 100,
+  "topline_events": 574,
+  "midi_tracks": 7,
+  "verse_lyric_alignment": "passed",
+  "same_pitch_overlaps": 0,
+  "files": [
+    {
+      "file": "DONT-HANG-UP-v2-INSTRUMENTAL.wav",
+      "seconds": 165.162,
+      "peak_dbfs": -3.4,
+      "rms_dbfs": -21.35,
+      "clipped_samples": 0,
+      "sha256": "3e204d9bcc0cbfce869699ab579c780d92a631db5b9dc06baea3b4982bd63f65"
+    },
+    {
+      "file": "DONT-HANG-UP-v2-MELODY-GUIDE-NO-VOCALS.wav",
+      "seconds": 165.162,
+      "peak_dbfs": -2.33,
+      "rms_dbfs": -19.57,
+      "clipped_samples": 0,
+      "sha256": "4d4e34dd5e078b50026018e0e04b43735e5ea161959ea1061bb5a52cb29a773a"
+    },
+    {
+      "file": "DONT-HANG-UP-v2-HOOK-PREVIEW-NO-VOCALS.wav",
+      "seconds": 32.432,
+      "peak_dbfs": -3.63,
+      "rms_dbfs": -19.62,
+      "clipped_samples": 0,
+      "sha256": "ffee898926d10ba18a0e29cf24630973e177433b04cd350420fdb2416f328dbd"
+    }
+  ],
+  "vocal_generation": {
+    "status": "blocked",
+    "reason": "Runway paid_plan_required",
+    "task_created": false
+  },
+  "limitations": [
+    "Instrument timbres represent vocal notes; no sung audio exists.",
+    "Numerical audio checks do not establish perceived musical quality.",
+    "No reference audio was sampled or transcribed."
+  ]
+}

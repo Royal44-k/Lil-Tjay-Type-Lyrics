@@ -1,0 +1,1 @@
+Retain the original song and existing approved audio if available. Do not rewrite its lyrics, hook, arrangement or vocal roles for this deluxe edition. If only the composition assets exist, treat a new generation as the first audio realization, not as a byte-identical preserved recording.

@@ -1,0 +1,10 @@
+﻿section,start_bar,bars,lyric_lines,line_bar_allocation
+"Intro - female voice, close and dry",1,4,2,2 2
+Chorus - male melodic lead,5,16,8,2 2 2 2 2 2 2 2
+"Verse 1 - male, conversational rap",21,32,16,2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Pre-Chorus,53,4,4,1 1 1 1
+Chorus,57,16,8,2 2 2 2 2 2 2 2
+"Verse 2 - male, more rhythmically open",73,32,16,2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Bridge - half-sung,105,8,4,2 2 2 2
+Final Chorus,113,16,8,2 2 2 2 2 2 2 2
+"Outro - female, unprocessed",129,4,2,2 2

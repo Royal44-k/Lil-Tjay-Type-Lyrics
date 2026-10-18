@@ -1,0 +1,8 @@
+﻿track_number,track_id,title,language,bpm_target,key_target,meter,bars,planned_seconds,word_count,explicit_written_lyrics,primary_artist,featured_artists,songwriters,producers,performers,isrc,upc,release_date,audio_file,suno_url,status
+1,DBE01,ONE OF ONE,en,146,C# minor,4/4,100,164.384,406,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+2,DBE02,AFTER THE FLASH,en,132,F# minor,4/4,88,160.0,347,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+3,DBE03,DON'T MAKE IT COOL,en,104,A major,4/4,56,129.231,310,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+4,DBE04,SIDE DOOR,en,142,D minor,4/4,88,148.732,308,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+5,DBE05,WEAR IT OUT,en,84,G minor,4/4,60,171.429,348,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+6,DBE06,GOOD ON ME,en,152,E minor,4/4,92,145.263,364,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING
+7,DBE07,D1FFERENT BUT EXCELLENT,en,140,Db major,4/4,96,164.571,373,False,,,,,,,,,,,PREPRODUCTION_READY_AUDIO_PENDING

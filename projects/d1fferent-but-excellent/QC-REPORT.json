@@ -1,0 +1,229 @@
+{
+  "stage": "PREPRODUCTION",
+  "audio_exists": false,
+  "release_ready": false,
+  "tracks": [
+    {
+      "track_id": "DBE01",
+      "words": 406,
+      "bars": 100,
+      "hook_notes": 34,
+      "hook_pitch_range_midi": [
+        56,
+        66
+      ],
+      "style_characters": 548,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    },
+    {
+      "track_id": "DBE02",
+      "words": 347,
+      "bars": 88,
+      "hook_notes": 34,
+      "hook_pitch_range_midi": [
+        54,
+        68
+      ],
+      "style_characters": 525,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    },
+    {
+      "track_id": "DBE03",
+      "words": 310,
+      "bars": 56,
+      "hook_notes": 35,
+      "hook_pitch_range_midi": [
+        61,
+        69
+      ],
+      "style_characters": 512,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    },
+    {
+      "track_id": "DBE04",
+      "words": 308,
+      "bars": 88,
+      "hook_notes": 25,
+      "hook_pitch_range_midi": [
+        55,
+        67
+      ],
+      "style_characters": 492,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    },
+    {
+      "track_id": "DBE05",
+      "words": 348,
+      "bars": 60,
+      "hook_notes": 38,
+      "hook_pitch_range_midi": [
+        58,
+        69
+      ],
+      "style_characters": 531,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    },
+    {
+      "track_id": "DBE06",
+      "words": 364,
+      "bars": 92,
+      "hook_notes": 32,
+      "hook_pitch_range_midi": [
+        59,
+        69
+      ],
+      "style_characters": 557,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    },
+    {
+      "track_id": "DBE07",
+      "words": 373,
+      "bars": 96,
+      "hook_notes": 33,
+      "hook_pitch_range_midi": [
+        56,
+        68
+      ],
+      "style_characters": 549,
+      "text_structure": "PASS",
+      "hook_syllables_match": "PASS",
+      "bar_allocation": "PASS",
+      "sung_prosody": "PENDING_AUDIO",
+      "catchiness": "PENDING_LISTENING",
+      "mix_master": "PENDING_AUDIO"
+    }
+  ],
+  "planned_album_seconds": 1083.61,
+  "vocal_lines": 320,
+  "midi": [
+    {
+      "path": "samples\\EP03\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\G01\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\P02\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\P05\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\P07\\SOURCE-SKETCH.mid",
+      "tracks": 3,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\SYN06\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 8.0
+    },
+    {
+      "path": "samples\\V04\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 8.0
+    },
+    {
+      "path": "samples\\V05\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 16.0
+    },
+    {
+      "path": "samples\\VC01\\SOURCE-SKETCH.mid",
+      "tracks": 2,
+      "quarter_beats": 4.0
+    },
+    {
+      "path": "tracks\\01-one-of-one\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\02-after-the-flash\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\03-dont-make-it-cool\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\04-side-door\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\05-wear-it-out\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\06-good-on-me\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    },
+    {
+      "path": "tracks\\07-d1fferent-but-excellent\\HOOK-GUIDE.mid",
+      "tracks": 4,
+      "quarter_beats": 32.0
+    }
+  ],
+  "musicxml": [
+    "samples\\EP03\\SOURCE-SKETCH.musicxml",
+    "samples\\G01\\SOURCE-SKETCH.musicxml",
+    "samples\\P02\\SOURCE-SKETCH.musicxml",
+    "samples\\P05\\SOURCE-SKETCH.musicxml",
+    "samples\\P07\\SOURCE-SKETCH.musicxml",
+    "samples\\SYN06\\SOURCE-SKETCH.musicxml",
+    "samples\\V04\\SOURCE-SKETCH.musicxml",
+    "samples\\V05\\SOURCE-SKETCH.musicxml",
+    "samples\\VC01\\SOURCE-SKETCH.musicxml",
+    "tracks\\01-one-of-one\\HOOK-LEAD.musicxml",
+    "tracks\\02-after-the-flash\\HOOK-LEAD.musicxml",
+    "tracks\\03-dont-make-it-cool\\HOOK-LEAD.musicxml",
+    "tracks\\04-side-door\\HOOK-LEAD.musicxml",
+    "tracks\\05-wear-it-out\\HOOK-LEAD.musicxml",
+    "tracks\\06-good-on-me\\HOOK-LEAD.musicxml",
+    "tracks\\07-d1fferent-but-excellent\\HOOK-LEAD.musicxml"
+  ],
+  "motif_variation": "middle note rises one semitone; relative onsets match; final gate shortened"
+}

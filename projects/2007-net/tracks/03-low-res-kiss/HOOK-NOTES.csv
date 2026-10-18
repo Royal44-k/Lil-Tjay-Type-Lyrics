@@ -1,0 +1,8 @@
+﻿syllable,pitch,midi_note,start_beat,duration_beats
+Low,F#4,66,0,0.5
+res,A4,69,0.5,0.5
+kiss,B4,71,1,2.5
+Keep,A4,69,4,0.5
+it,F#4,66,4.5,0.5
+like,E4,64,5,1
+this,D4,62,6,1.5

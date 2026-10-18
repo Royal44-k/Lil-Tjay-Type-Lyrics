@@ -1,0 +1,12 @@
+Title: DON'T HANG UP
+Mode: Custom / Advanced with your own lyrics
+Instrumental: Off
+Preferred model: v6 if available; otherwise the model included in your plan
+Variety: 0 for the first pass, if shown
+Vocal Gender: Male for the primary lead; female refrain is specified in Styles and Lyrics
+If the interface supports leaving Vocal Gender unselected, compare that setting if the female part disappears
+Weirdness: 35% only if this control is present (creative starting point, not an official preset)
+Style Influence: 70% only if this control is present (creative starting point, not an official preset)
+Audio Influence: leave unused without an audio reference
+Max Mode: optional for a later refinement, not necessary for the first exploration
+Length target: about 2:40-3:10, expressed as a creative target rather than a guaranteed duration

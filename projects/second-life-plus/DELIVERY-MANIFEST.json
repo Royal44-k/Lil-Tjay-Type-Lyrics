@@ -1,0 +1,691 @@
+{
+  "album": "SECOND LIFE+",
+  "version": "preproduction-v1.0",
+  "files": [
+    {
+      "path": "ACCEPTANCE.md",
+      "bytes": 8879,
+      "sha256": "319f073c48ed42a471ccfee0256067bb8195db0090079311d2ff883e3a63387e"
+    },
+    {
+      "path": "ALBUM-DIRECTION.md",
+      "bytes": 5751,
+      "sha256": "8e559734f347bcdb8dfd96a92f707331ad29e5a980cd2c89cd5e09d9f7a3b29c"
+    },
+    {
+      "path": "album.json",
+      "bytes": 10070,
+      "sha256": "2df5e1962d30fa7827fe59f317dcdd0bea50c2e837c79071d8e2556f91da5902"
+    },
+    {
+      "path": "AUDIO-QC.csv",
+      "bytes": 203,
+      "sha256": "3545239815b94dcb3f292e6c42c2fb974f9467f0d7db833aa18e6b0ea1dce194"
+    },
+    {
+      "path": "build_pack.py",
+      "bytes": 25502,
+      "sha256": "b241a7d6a4ea3c09e7c35394f4a5341c473514186b82021b762cfceacab5d156"
+    },
+    {
+      "path": "CREDITS-AND-SPLITS.csv",
+      "bytes": 123,
+      "sha256": "37db818fd17c2c2d008f41a56138d82c61fd556946da848daccafcc2ddfb8b51"
+    },
+    {
+      "path": "GENERATION-LOG.csv",
+      "bytes": 196,
+      "sha256": "3229792044c2cbfefc5520e4d5ccb415a73acdd2f564c8801f1ac0d8767bf605"
+    },
+    {
+      "path": "PRESERVATION.json",
+      "bytes": 1796,
+      "sha256": "3a815ef4e144bbecf62df7f0f2da18adb224cb4d7f4a45be261c61407e37c88f"
+    },
+    {
+      "path": "PRONUNCIATION-FLAGS.csv",
+      "bytes": 429,
+      "sha256": "72575ed49d48d042b8f366fb4289d36f8b829c86265b26d1d7cff872cdb62181"
+    },
+    {
+      "path": "PRONUNCIATION.md",
+      "bytes": 2002,
+      "sha256": "c039205e5f7d30451372816428cb5db838a849af379559f32b2e1ddeda5a9136"
+    },
+    {
+      "path": "QC-REPORT.json",
+      "bytes": 7999,
+      "sha256": "0433ad2ad1f5e4b97b25e8585d58a70210d2b4624a427fb08e7e14d3736415d3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4101,
+      "sha256": "543d222ae1041ad04e6a2533a58b59447c01fa65c0e6568661bdabbd46481082"
+    },
+    {
+      "path": "RESEARCH-KOREAN-REMIX.md",
+      "bytes": 7225,
+      "sha256": "64157f2e24d556acece5ea660b3e9af03b3b7d6fdb9783ed5141f6a22517fb1e"
+    },
+    {
+      "path": "SAMPLE-PLAN.md",
+      "bytes": 7035,
+      "sha256": "dd8e2e154e4cfda184378cdabf4df5269db0593cc2cd83e2ed02f4c45bbba96e"
+    },
+    {
+      "path": "SAMPLE-REGISTER.csv",
+      "bytes": 1967,
+      "sha256": "7830870722ea1007fabb857e2ea996edce397777ec858bd5b20d7837d527998c"
+    },
+    {
+      "path": "samples\\P01R\\SOURCE-NOTES.csv",
+      "bytes": 392,
+      "sha256": "5f4fb1bdfbbadb4e61e20c413f53d5870f889aa5e15334e0038b0f92dd9a71c4"
+    },
+    {
+      "path": "samples\\P01R\\SOURCE-SKETCH.mid",
+      "bytes": 190,
+      "sha256": "59b9309c12df76ffeef6ab25275fd8fe9f8a0e08ab4a709954b4884bc25f6700"
+    },
+    {
+      "path": "samples\\P01R\\SOURCE-SKETCH.musicxml",
+      "bytes": 3486,
+      "sha256": "94970b9f58e677f97b87a8690bc8b989d4061a433f2b6b9751eed0ce3f7a907a"
+    },
+    {
+      "path": "samples\\P02\\SOURCE-NOTES.csv",
+      "bytes": 672,
+      "sha256": "c0f7a3ddfb3aafb5580911e6a095e7b39fb7a8288c775f614bdbe4eada44e5f7"
+    },
+    {
+      "path": "samples\\P02\\SOURCE-SKETCH.mid",
+      "bytes": 328,
+      "sha256": "00ee7f3bcb57bdeda440c23cec715c565789d76653d182a00ec5b043bcdbade9"
+    },
+    {
+      "path": "samples\\P02\\SOURCE-SKETCH.musicxml",
+      "bytes": 6784,
+      "sha256": "5468aa263dc1e8bc945ce711eb645eb6e2a1d96e11129603a222d1fbe03d2b82"
+    },
+    {
+      "path": "samples\\P03\\SOURCE-NOTES.csv",
+      "bytes": 821,
+      "sha256": "09c259e674ae8f201ac9b955703fc5a6d1788ae67c479c15932340c9e50d7d0a"
+    },
+    {
+      "path": "samples\\P03\\SOURCE-SKETCH.mid",
+      "bytes": 345,
+      "sha256": "3ea9395c94c3cce8c1bf55d3b59768c02f9396b247ea2fab20f524600afe6ada"
+    },
+    {
+      "path": "samples\\P03\\SOURCE-SKETCH.musicxml",
+      "bytes": 6483,
+      "sha256": "c1b278a31c4909d7ceb105cb06db46304de33720f656d8be21601c354a8e8687"
+    },
+    {
+      "path": "samples\\P04\\SOURCE-NOTES.csv",
+      "bytes": 807,
+      "sha256": "92457060a474fa9552e18f2adb002b8fcc70c5771377fb4e76feed0253632378"
+    },
+    {
+      "path": "samples\\P04\\SOURCE-SKETCH.mid",
+      "bytes": 360,
+      "sha256": "3b17de1a07f46b0cd938fb66f9d5f8ebe506e88845e619a24e621a2bae4de0cd"
+    },
+    {
+      "path": "samples\\P04\\SOURCE-SKETCH.musicxml",
+      "bytes": 6672,
+      "sha256": "9a7a045e8faf0a1c253e1eb8ff892dd73730d31febe8499b578b2d50b6d5f506"
+    },
+    {
+      "path": "samples\\STR01R\\SOURCE-NOTES.csv",
+      "bytes": 282,
+      "sha256": "006a6ef254378e58038e68deeeaf4207652e78cb9b2163b91edb210a90a871d6"
+    },
+    {
+      "path": "samples\\STR01R\\SOURCE-SKETCH.mid",
+      "bytes": 161,
+      "sha256": "9802ddaf526057c72494187642fc1d52bd29d9db63a85c4278550ff84838ce98"
+    },
+    {
+      "path": "samples\\STR01R\\SOURCE-SKETCH.musicxml",
+      "bytes": 2658,
+      "sha256": "fc2cf7cbdda9eca484c8fd6d7ded4f0173732c48db33249498e9366870281a42"
+    },
+    {
+      "path": "samples\\V01\\HOOK-GUIDE.mid",
+      "bytes": 214,
+      "sha256": "e177c4909efc21db8bb90a50fab45bb9f033e5aa6794c199dd40a780267e631b"
+    },
+    {
+      "path": "samples\\V01\\HOOK-NOTES.csv",
+      "bytes": 328,
+      "sha256": "c916604fb21bcb1b02a8be82b6dd3a95456c8dcda4feb9d51d536cd5fd6b5fe3"
+    },
+    {
+      "path": "samples\\V02\\SOURCE-NOTES.csv",
+      "bytes": 876,
+      "sha256": "ade618e1f19cca0556d55f51e26c4fb339c1fa009c063cc7e56d442831cbfae1"
+    },
+    {
+      "path": "samples\\V02\\SOURCE-SKETCH.mid",
+      "bytes": 276,
+      "sha256": "48fb24af5bee25f30f57d363cdeec15122a21eba142ec2110c8991c1feb7f296"
+    },
+    {
+      "path": "samples\\V02\\SOURCE-SKETCH.musicxml",
+      "bytes": 4283,
+      "sha256": "99825bc7041f74fb58a7504db60ee4bf903842af13a1b4b9718ed37c0a9c4378"
+    },
+    {
+      "path": "samples\\V02\\TARGET-144-4-4.mid",
+      "bytes": 310,
+      "sha256": "a237096196821d84ebe01f86892023f378a1ae0fa3cd8241d998a890d8b930e8"
+    },
+    {
+      "path": "samples\\V03\\SOURCE-NOTES.csv",
+      "bytes": 378,
+      "sha256": "41efebcf9a6f9fd287e3acd52897fb43516ac950d8e7b727f658938e5759cb58"
+    },
+    {
+      "path": "samples\\V03\\SOURCE-SKETCH.mid",
+      "bytes": 178,
+      "sha256": "b625be4ca542db225cc436a72282fef918c8c7019907019e718bbdeef0c07c36"
+    },
+    {
+      "path": "samples\\V03\\SOURCE-SKETCH.musicxml",
+      "bytes": 3383,
+      "sha256": "f26c48d2f44d617c3edbc9497e2ddba2b8265f496d7b3793cdf11e8e46bd3f10"
+    },
+    {
+      "path": "samples\\V04\\SOURCE-NOTES.csv",
+      "bytes": 500,
+      "sha256": "c717f0c725b7fe3e76c93132a9762b3720cdb2b247de6d23644e636af4ae8b31"
+    },
+    {
+      "path": "samples\\V04\\SOURCE-SKETCH.mid",
+      "bytes": 212,
+      "sha256": "d899cb941049b56028efdd6f940d01762d91b57066de48da8745b5a58cc6bf03"
+    },
+    {
+      "path": "samples\\V04\\SOURCE-SKETCH.musicxml",
+      "bytes": 3311,
+      "sha256": "92cddff5de18a86a5f5540c7b2d54ed70a1ba19c0f77c48af364ead6ac037964"
+    },
+    {
+      "path": "score_material.py",
+      "bytes": 7399,
+      "sha256": "5dee34e0ea9f17912afbc6449ac8573510369dc250895092330db6ce618b61c6"
+    },
+    {
+      "path": "SONGBOOK.md",
+      "bytes": 16207,
+      "sha256": "0f39fd96ad232bbd779087766e13b1f64000929a8709a1fb13435818eb40b2a6"
+    },
+    {
+      "path": "SUNO-PASTEBOOK.md",
+      "bytes": 24647,
+      "sha256": "3d6376efcc2027cc32886bb2a3d35ccb3953b5e4682b2d94507c6a19c1cc1754"
+    },
+    {
+      "path": "SUNO-WORKFLOW.md",
+      "bytes": 5252,
+      "sha256": "79bf0bc732c9a65262e3f3d55d488297a4b45187448e3072b3f71f882ea8f821"
+    },
+    {
+      "path": "TRACK-METADATA.csv",
+      "bytes": 1227,
+      "sha256": "ce17bc1cff2cfe2ee82beedea41ecd540fd5f2b5a50572c41953285fff08b368"
+    },
+    {
+      "path": "track_notes.json",
+      "bytes": 17949,
+      "sha256": "2eddd028eb776d2938606288ed609a3bb385578e24a9db06ca25215660b84584"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\ARRANGEMENT.csv",
+      "bytes": 337,
+      "sha256": "8fe59f8f7affc516a6eb9ad9edfe9497ac1ff3030a4904d3bcef7bf0b61d4181"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\EXCLUDE.txt",
+      "bytes": 77,
+      "sha256": "fe9dc8e80ec3d67e063e26d547e1234d2ecc8140dcd86d1e754801df775b7ef9"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\HOOK-GUIDE.mid",
+      "bytes": 814,
+      "sha256": "17f85b6c5c438a93363c15e09315fce51bab3ef90f429c29667dead320081fdd"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\HOOK-LEAD.musicxml",
+      "bytes": 10987,
+      "sha256": "c7971ae6235cdc1d78fd498643b4a694cdf7f5a882947c74a4f176e4ffa7a51f"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\HOOK-NOTES.csv",
+      "bytes": 996,
+      "sha256": "84fd812ab3246b06323ae9c3aad1d13983ca1116f27399f9b9ecdbfdb0075ce5"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\LYRICS-PLAIN.txt",
+      "bytes": 1906,
+      "sha256": "fb533dacbafdf2da71d1b8cfc176860b360055bbbcf32b19e24af7ab503d40e8"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1859,
+      "sha256": "3b7174f3491f60fdc91ee586b094421fc7a0c5cfe5778cafad472e10584ce5c0"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\LYRICS.txt",
+      "bytes": 2004,
+      "sha256": "6f27923956d3566e16c441b06afad4ce1b95f0ed1a3cddb171cb212d5f220bd3"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\PRODUCTION.md",
+      "bytes": 3879,
+      "sha256": "88b4b012b7d6bc4d2a89a8b5700f992e645c5dd16cfa5f48aca0a9d861628630"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\REFINEMENT.txt",
+      "bytes": 312,
+      "sha256": "80abd67d285c98d1ee62c30a34f9e19bfd3a30251bd401de83dea4a63bdd6cb2"
+    },
+    {
+      "path": "tracks\\01-no-receipt-remix\\STYLE.txt",
+      "bytes": 593,
+      "sha256": "f49e097413aec201bb4e1ecb699909644885f4575b2d9795c9b00a8dc3d46f2a"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\ARRANGEMENT.csv",
+      "bytes": 306,
+      "sha256": "e94a750bf51cdfd54e4e15ad522552672c88d62fbba4720d88488cdadb1f3cf9"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\EXCLUDE.txt",
+      "bytes": 76,
+      "sha256": "6108dd477ae231293ef880cc4d605683f0a0d146970bfda13054dc35a77e1927"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\HOOK-GUIDE.mid",
+      "bytes": 968,
+      "sha256": "f34af3172eb295fe592ab25a023363c838abf7ee785bdf52402cd82a6f16819c"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\HOOK-LEAD.musicxml",
+      "bytes": 12455,
+      "sha256": "08e70d20dcf6bb2b418bd5d1bba18be322adaff2b269ce621621198c53f56f93"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\HOOK-NOTES.csv",
+      "bytes": 1293,
+      "sha256": "81a4a5ddaabe4867b7fb6ada583c69999e2f8ffc064b2e4938ac123509733cc0"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\LYRICS-PLAIN.txt",
+      "bytes": 1772,
+      "sha256": "d9a9cb096cb1b8a18cd79124cf4914ac854282b298ba41b6210d9f41e91297d9"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1734,
+      "sha256": "c556c63a1c1519d399f30d03af19ec21239c128fc9565eb30d8407a08df2e30f"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\LYRICS.txt",
+      "bytes": 1863,
+      "sha256": "68685b5029a443c3dba7615b36530866f35b119ad83f63958bc37117e33b1b83"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\PRODUCTION.md",
+      "bytes": 3643,
+      "sha256": "d4d170be3624b6e5068a4776116bd3668f1d32475cf02cd1a6a4b5a264c73844"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\REFINEMENT.txt",
+      "bytes": 285,
+      "sha256": "949f4069de136d9d0dcd61bfaad0126beed8e490420ceab9e1a573e9505175c5"
+    },
+    {
+      "path": "tracks\\02-ivory-hours\\STYLE.txt",
+      "bytes": 575,
+      "sha256": "bd83cb698ee516884827930ea192fac8233c1520a6d6648baf36b359d741bed7"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\ARRANGEMENT.csv",
+      "bytes": 339,
+      "sha256": "ced49fa89c08cf7e0fc8af70c814e6db7e71dc8d4f03bddac6e0e416d620b6b7"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\EXCLUDE.txt",
+      "bytes": 72,
+      "sha256": "1ace1cfa6621436f26021aa7e958b1369a077cbda49e4aca8f85e23fb6b6f773"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\HOOK-GUIDE.mid",
+      "bytes": 980,
+      "sha256": "e6054e4e959b83fb5af870cb0a88dffc9e326416180706062e3591aa1ca0c6e3"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\HOOK-LEAD.musicxml",
+      "bytes": 11944,
+      "sha256": "46c7a044d7c72611b2746994604bc9497187b7ffbba42021229bdbd464abdc4d"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\HOOK-NOTES.csv",
+      "bytes": 1315,
+      "sha256": "620b0c1be51ad485d367908ff4a63571608f0b294451fae92438e5b0afac437a"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\LYRICS-PLAIN.txt",
+      "bytes": 1949,
+      "sha256": "802865d24f4b031104317467149fd4be82408d27f0d3d20e94205b318db04a68"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1905,
+      "sha256": "03ccb2f50885759d6e082356a2d277d88df8e3aaee3163392db602de1bfaa724"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\LYRICS.txt",
+      "bytes": 2116,
+      "sha256": "dd6cebd8ad2fc0d1023096fc8f477295a7a80b818e4ea904b5684d2cfc2c16ea"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\PRODUCTION.md",
+      "bytes": 3841,
+      "sha256": "63afe711fc3c4cde981ed2b9fb23e9fb0832ad84392600f9308edf550f64bc6f"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\REFINEMENT.txt",
+      "bytes": 319,
+      "sha256": "0f2de8b5f97eca6baf1d64bebb1435aa5aad3f0144fe6c69aa49b1489505b489"
+    },
+    {
+      "path": "tracks\\03-fast-forward-remix\\STYLE.txt",
+      "bytes": 603,
+      "sha256": "93220de40cd5f7cf7b449122f57c6b3718fc0c7b40fbe7c1133e96019c8b4cc4"
+    },
+    {
+      "path": "tracks\\04-counterstep\\ARRANGEMENT.csv",
+      "bytes": 299,
+      "sha256": "434950fe0ff74727b759d44f664eefdacb5bdfc08b7a98d7b6d250bbba911364"
+    },
+    {
+      "path": "tracks\\04-counterstep\\EXCLUDE.txt",
+      "bytes": 90,
+      "sha256": "c6b337796bf67a1344a1679ac0e0af3cb6cdd626be8728fc842031dcbcc203c4"
+    },
+    {
+      "path": "tracks\\04-counterstep\\HOOK-GUIDE.mid",
+      "bytes": 792,
+      "sha256": "8e295d271981bb79a279213977215d6d4c10541968ec216d030dd4cdad32e8cb"
+    },
+    {
+      "path": "tracks\\04-counterstep\\HOOK-LEAD.musicxml",
+      "bytes": 9408,
+      "sha256": "e2eda7bf2e073195af175b7f816bf412b2580f52c6c1ba09cbbcb223a86c4a39"
+    },
+    {
+      "path": "tracks\\04-counterstep\\HOOK-NOTES.csv",
+      "bytes": 906,
+      "sha256": "6b7a7f3728f3c65f3b526dd9dc2d33d9df56c380e712e25624a5e3baea73918d"
+    },
+    {
+      "path": "tracks\\04-counterstep\\LYRICS-PLAIN.txt",
+      "bytes": 1796,
+      "sha256": "6b3745f31ac605eef0ca6cb73d8237a3bbb73254e0415bc85398f1f26844052e"
+    },
+    {
+      "path": "tracks\\04-counterstep\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1744,
+      "sha256": "595717f3d1beff00bf30345d8bd448f4e3cf1768ee4b1aa48ff5e8b1ae424e85"
+    },
+    {
+      "path": "tracks\\04-counterstep\\LYRICS.txt",
+      "bytes": 1876,
+      "sha256": "c387cc99d1ad1f524e1b259c35b6ebf9f14e8cbdc00d7418fbbb87863936921a"
+    },
+    {
+      "path": "tracks\\04-counterstep\\PRODUCTION.md",
+      "bytes": 3701,
+      "sha256": "c32d4797ad75fa865f8e99e38fd1d88008e5d7f7752f72ed34e66356d0dafab7"
+    },
+    {
+      "path": "tracks\\04-counterstep\\REFINEMENT.txt",
+      "bytes": 266,
+      "sha256": "79e9aaaadf1902e88beb623eedce7449c3aa240f79497c9381c02d76c4478801"
+    },
+    {
+      "path": "tracks\\04-counterstep\\STYLE.txt",
+      "bytes": 588,
+      "sha256": "d23a8ca3403b35fc4d31d46dc0decbd3eb669a8320d340635a1841bc31c7a94b"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\ARRANGEMENT.csv",
+      "bytes": 309,
+      "sha256": "803210d106ad0835cca6592ad36731327077956b2764c57224a71a0f77834fd5"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\EXCLUDE.txt",
+      "bytes": 81,
+      "sha256": "f990fbf74e9c09b527e93fac102ccace1ed63a876a3d1a6f5ff2f36cd43f88c8"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\HOOK-GUIDE.mid",
+      "bytes": 827,
+      "sha256": "e24f838e9b42fc628fb48071769e3882ebbadbf9376969504b656fd2630ac9c1"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\HOOK-LEAD.musicxml",
+      "bytes": 10954,
+      "sha256": "9ff06f5e9287585b13c6c8b678f10a64a31668cd5d2754bc809e94e25884afb3"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\HOOK-NOTES.csv",
+      "bytes": 1005,
+      "sha256": "d82d28ed2cd97dd28c10e9c406659b522edea5722147fe5805f274bc12a0681e"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\LYRICS-PLAIN.txt",
+      "bytes": 1404,
+      "sha256": "4d8fe0d9cf605c8268ba466658688a5ee3926b586630f8a00b8b1106febbca18"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1370,
+      "sha256": "820d1659548f578e4d9a706687f3314a71fd42b9cce79377d8628c8f38025b56"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\LYRICS.txt",
+      "bytes": 1518,
+      "sha256": "ae7f452715032b31911104a3b3ba493b8bbc2ae448bbe6dd97d4ccd02bcfe398"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\PRODUCTION.md",
+      "bytes": 3550,
+      "sha256": "c60e15b50ce9e1ad299582390c92919b510eb2e0c7356fa08676857d3176756e"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\REFINEMENT.txt",
+      "bytes": 282,
+      "sha256": "b8daba7771cfb3fd09449dc0dcdbc41da0f847c836541b74633ab7aa872d12b1"
+    },
+    {
+      "path": "tracks\\05-room-tone-remix\\STYLE.txt",
+      "bytes": 584,
+      "sha256": "d2f14a2bafa7d87b29765ff67bf60c3770328deb0adf6853f0ffef4f32921f90"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\ARRANGEMENT.csv",
+      "bytes": 336,
+      "sha256": "2572e550445cc6d2bd857e3a29bc3fcc10f6c1eb844f422eccd364080c3e9f68"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\EXCLUDE.txt",
+      "bytes": 78,
+      "sha256": "0e2cf171e73a9a218069553d4e6636fb2f3569cbae567c6f87fc192e9b74a0f5"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\HOOK-GUIDE.mid",
+      "bytes": 852,
+      "sha256": "51903b4144425c19e90a160bea8679c939a13a8fa85af5fd4f7c65d6359f42f4"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\HOOK-LEAD.musicxml",
+      "bytes": 10612,
+      "sha256": "43212a8f60283a6501ec5c4fc98e06ebc6cc06543ebc2185981dcb07c2540bc8"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\HOOK-NOTES.csv",
+      "bytes": 1041,
+      "sha256": "0c7c6b935e0a2dbabd1f3fce9ee2cc4dce0f896f88835fd0020905028307a337"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\LYRICS-PLAIN.txt",
+      "bytes": 1398,
+      "sha256": "b7f827dac645c8a547d06a48bae1cb15e38469100f2f26c7dcda8ae7c3c289e1"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1360,
+      "sha256": "018bdf5f1634e7040b157980df13aaa1b8dd867833d0ed30e1028b1c05096679"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\LYRICS.txt",
+      "bytes": 1522,
+      "sha256": "a90da819c4eef95b461509e62446faa47844f878e81d3551f32f2b03b93cc736"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\PRODUCTION.md",
+      "bytes": 3362,
+      "sha256": "d164c8f16706ec4c655310b8a22e04a1d518afb7761d71d3d8cfe18968024459"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\REFINEMENT.txt",
+      "bytes": 272,
+      "sha256": "06496da39d19a32fa664b9e6d3cc1b82bc8ca65da926a5d26b68fb0fa90f4325"
+    },
+    {
+      "path": "tracks\\06-soft-landing\\STYLE.txt",
+      "bytes": 572,
+      "sha256": "acbf3e9120d929a6a99996ad68d0130ae32925c758e04bdcfb86c324080ed756"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\ARRANGEMENT.csv",
+      "bytes": 344,
+      "sha256": "d707697c8cdd78eff36346b840b0ac296217929f6f14b4b449b12951b05bfbcd"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\EXCLUDE.txt",
+      "bytes": 97,
+      "sha256": "22baed7e27fda7d999d33fe08decdb6f9b3e3c5c1c85782c4d5325e981f20f45"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\HOOK-GUIDE.mid",
+      "bytes": 846,
+      "sha256": "6b69ac256984eaf2715bd49f85d33f4c0de3f5331e1f6e1c52ef76b03ad37f43"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\HOOK-LEAD.musicxml",
+      "bytes": 9631,
+      "sha256": "33b2fcf92e14ca76b162ba856297a48a63da67d8fb3ffe038662aa0206d57c8f"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\HOOK-NOTES.csv",
+      "bytes": 989,
+      "sha256": "0dc9fbf91e38be1b0f2729f0f8c0ba299288ef0a75618b8c1ddb4e123e76ceb1"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\LYRICS-PLAIN.txt",
+      "bytes": 1968,
+      "sha256": "bae7fe772a17f5eab36a8cf5d2ab48c9e3470e949777c35411d0c7d5ffae81cb"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1927,
+      "sha256": "03c4d25a6006e6b3c59beb551f6f6386c4db86b6f6736d5ae1034c3af6dc4b6c"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\LYRICS.txt",
+      "bytes": 2075,
+      "sha256": "a89666eb22ed0017b62c995b1554ef96b0c922bd10caddf28f85c76821c7efa1"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\PRODUCTION.md",
+      "bytes": 3708,
+      "sha256": "11993d477ca2eccf65f65689edfc2e678b5b393d3f9898ed115f0f56063827d6"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\REFINEMENT.txt",
+      "bytes": 289,
+      "sha256": "6cf46b928e1fda1ea0a9b288429680ec281f391ce61154de3eba69ebe1f4ef82"
+    },
+    {
+      "path": "tracks\\07-last-train-first-light\\STYLE.txt",
+      "bytes": 622,
+      "sha256": "aad2ef6504968ee41067fcb11981b1cd3b6b7a12ddd0730bc6f534872612b3a7"
+    },
+    {
+      "path": "tracks\\08-second-life\\ARRANGEMENT.csv",
+      "bytes": 293,
+      "sha256": "92b85fdd7f277290aafb642365011dc4b9a156a08041ff99fcfb99d0cb563007"
+    },
+    {
+      "path": "tracks\\08-second-life\\EXCLUDE.txt",
+      "bytes": 231,
+      "sha256": "216da162f3c6c4782904bf3d62772a6cbc731019e2950ea0ac28142439f67e4d"
+    },
+    {
+      "path": "tracks\\08-second-life\\HOOK-GUIDE.mid",
+      "bytes": 855,
+      "sha256": "5ebaf2c5b329ac8ea186bef8f4881dc14b3b251cb72b39ba290dd7422c805190"
+    },
+    {
+      "path": "tracks\\08-second-life\\HOOK-NOTES.csv",
+      "bytes": 1302,
+      "sha256": "0a2561a9cc6cb68275d5710f4826b39e8bba5a8ef69a3f596b4427a33e25b816"
+    },
+    {
+      "path": "tracks\\08-second-life\\LYRICS-PLAIN.txt",
+      "bytes": 1853,
+      "sha256": "4176831b2852352f61fb26ae893581098f38665f6ee0d71c4d5ffbd1f141345c"
+    },
+    {
+      "path": "tracks\\08-second-life\\LYRICS-STREAMING-DRAFT.txt",
+      "bytes": 1808,
+      "sha256": "d97db4ff328b0f96d62e412698b8c0b5cb23b28aa803d398867033184c3ae1c9"
+    },
+    {
+      "path": "tracks\\08-second-life\\LYRICS.txt",
+      "bytes": 2169,
+      "sha256": "ef4858c311ae3e116ed423dfd2915e50e43497cd2959e687171efb3fe8950c4d"
+    },
+    {
+      "path": "tracks\\08-second-life\\PRODUCTION.md",
+      "bytes": 3542,
+      "sha256": "555eedd71507bae5ac5989c180e70036cfbed714fa01620f61213f2b470e21f0"
+    },
+    {
+      "path": "tracks\\08-second-life\\REFINEMENT.txt",
+      "bytes": 291,
+      "sha256": "17b6a0e87cbdfac78b0a42ff257d05088b4144aa096a6f2e214504c8554bb377"
+    },
+    {
+      "path": "tracks\\08-second-life\\STYLE.txt",
+      "bytes": 923,
+      "sha256": "da35ad82eea732acb2774fe9695860f3e0b7721899fa9269350a63ce1c77af15"
+    },
+    {
+      "path": "VOCAL-MAP.csv",
+      "bytes": 32452,
+      "sha256": "fa167ae4f7496ea8f19a42a401c27da4ac739b2e8204224edfc4cb4e017da898"
+    },
+    {
+      "path": "WORKFLOW-SOURCES.md",
+      "bytes": 4172,
+      "sha256": "c2ce84866c6e02c98bff673256aa1d5344a59d9d423c882ff4225517a6fb9fd8"
+    }
+  ]
+}
