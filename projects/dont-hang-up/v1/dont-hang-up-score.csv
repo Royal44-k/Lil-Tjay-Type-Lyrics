@@ -1,0 +1,262 @@
+﻿section,part,line,syllable,bar_148_bpm,beat_in_bar_0_based,duration_beats_148_bpm,midi_note,pitch
+Intro,female_sample_guide,0,If,1,0,0.4,67,G4
+Intro,female_sample_guide,0,your,1,0.5,0.4,70,Bb4
+Intro,female_sample_guide,0,words,1,1.0,1.3,72,C5
+Intro,female_sample_guide,0,run,1,2.5,0.4,70,Bb4
+Intro,female_sample_guide,0,out,1,3.0,3.0,67,G4
+Intro,female_sample_guide,0,I'll,3,0,0.8,67,G4
+Intro,female_sample_guide,0,be,3,1.0,0.8,70,Bb4
+Intro,female_sample_guide,0,lis-,3,2,1.3,75,Eb5
+Intro,female_sample_guide,0,ten-,3,3.5,0.4,74,D5
+Intro,female_sample_guide,0,ing,4,0,3.0,72,C5
+Hook 1,male_hook,1,Don't,5,0,0.8,55,G3
+Hook 1,male_hook,1,hang,5,1.0,0.4,60,C4
+Hook 1,male_hook,1,up,5,1.5,2,63,Eb4
+Hook 1,male_hook,1,don't,6,0,0.8,55,G3
+Hook 1,male_hook,1,hang,6,1.0,0.4,58,Bb3
+Hook 1,male_hook,1,up,6,1.5,1.5,60,C4
+Hook 1,male_hook,2,Let,7,0,0.41,60,C4
+Hook 1,male_hook,2,me,7,0.5,0.41,60,C4
+Hook 1,male_hook,2,hear,7,1.0,0.41,63,Eb4
+Hook 1,male_hook,2,you,7,1.5,0.41,65,F4
+Hook 1,male_hook,2,breathe,7,2,1.41,67,G4
+Hook 1,male_hook,2,when,7,3.5,0.41,65,F4
+Hook 1,male_hook,2,the,8,0,0.41,63,Eb4
+Hook 1,male_hook,2,words,8,0.5,0.91,62,D4
+Hook 1,male_hook,2,get,8,1.5,0.41,58,Bb3
+Hook 1,male_hook,2,stuck,8,2,1.75,60,C4
+Hook 1,male_hook,3,Got,9,0,0.41,60,C4
+Hook 1,male_hook,3,a,9,0.5,0.41,60,C4
+Hook 1,male_hook,3,room,9,1.0,0.41,63,Eb4
+Hook 1,male_hook,3,with,9,1.5,0.41,62,D4
+Hook 1,male_hook,3,a,9,2,0.41,60,C4
+Hook 1,male_hook,3,view,9,2.5,1.41,58,Bb3
+Hook 1,male_hook,3,still,10,0,0.41,60,C4
+Hook 1,male_hook,3,the,10,0.5,0.41,63,Eb4
+Hook 1,male_hook,3,blinds,10,1.0,0.91,65,F4
+Hook 1,male_hook,3,stay,10,2,0.41,63,Eb4
+Hook 1,male_hook,3,shut,10,2.5,1.25,60,C4
+Hook 1,male_hook,4,I,11,0,0.41,55,G3
+Hook 1,male_hook,4,don't,11,0.5,0.41,58,Bb3
+Hook 1,male_hook,4,need,11,1.0,0.41,60,C4
+Hook 1,male_hook,4,the,11,1.5,0.91,63,Eb4
+Hook 1,male_hook,4,right,11,2.5,0.41,65,F4
+Hook 1,male_hook,4,words,11,3.0,0.91,63,Eb4
+Hook 1,male_hook,4,just,12,0,0.91,62,D4
+Hook 1,male_hook,4,don't,12,1.0,0.41,55,G3
+Hook 1,male_hook,4,hang,12,1.5,0.41,58,Bb3
+Hook 1,male_hook,4,up,12,2,1.75,60,C4
+Hook 1,male_hook,5,Don't,13,0,0.8,58,Bb3
+Hook 1,male_hook,5,hang,13,1.0,0.4,63,Eb4
+Hook 1,male_hook,5,up,13,1.5,2,67,G4
+Hook 1,male_hook,5,don't,14,0,0.8,58,Bb3
+Hook 1,male_hook,5,hang,14,1.0,0.4,65,F4
+Hook 1,male_hook,5,up,14,1.5,1.5,63,Eb4
+Hook 1,male_hook,6,You,15,0,0.41,63,Eb4
+Hook 1,male_hook,6,ain't,15,0.5,0.41,63,Eb4
+Hook 1,male_hook,6,got-,15,1.0,0.41,65,F4
+Hook 1,male_hook,6,ta,15,1.5,0.41,67,G4
+Hook 1,male_hook,6,fix,15,2,0.91,67,G4
+Hook 1,male_hook,6,what,15,3.0,0.41,65,F4
+Hook 1,male_hook,6,you,15,3.5,0.41,63,Eb4
+Hook 1,male_hook,6,did-,16,0,0.41,62,D4
+Hook 1,male_hook,6,n't,16,0.5,0.41,60,C4
+Hook 1,male_hook,6,fuck,16,1.0,0.91,58,Bb3
+Hook 1,male_hook,6,up,16,2,1.75,63,Eb4
+Hook 1,male_hook,7,We,17,0,0.41,62,D4
+Hook 1,male_hook,7,can,17,0.5,0.41,62,D4
+Hook 1,male_hook,7,let,17,1.0,0.41,65,F4
+Hook 1,male_hook,7,the,17,1.5,0.41,67,G4
+Hook 1,male_hook,7,clock,17,2,0.91,65,F4
+Hook 1,male_hook,7,run,17,3.0,0.91,62,D4
+Hook 1,male_hook,7,we,18,0,0.41,60,C4
+Hook 1,male_hook,7,ain't,18,0.5,0.41,62,D4
+Hook 1,male_hook,7,got-,18,1.0,0.41,60,C4
+Hook 1,male_hook,7,ta,18,1.5,0.41,59,B3
+Hook 1,male_hook,7,rush,18,2,1.75,62,D4
+Hook 1,male_hook,8,Stay,19,0,0.41,62,D4
+Hook 1,male_hook,8,a,19,0.5,0.41,60,C4
+Hook 1,male_hook,8,lit-,19,1.0,0.41,59,B3
+Hook 1,male_hook,8,tle,19,1.5,1.41,55,G3
+Hook 1,male_hook,8,stay,19,3.0,0.41,62,D4
+Hook 1,male_hook,8,a,19,3.5,0.41,60,C4
+Hook 1,male_hook,8,lit-,20,0,0.41,59,B3
+Hook 1,male_hook,8,tle,20,0.5,0.91,55,G3
+Hook 1,male_hook,8,don't,20,1.5,0.41,55,G3
+Hook 1,male_hook,8,hang,20,2,0.41,59,B3
+Hook 1,male_hook,8,up,20,2.5,1.25,60,C4
+Hook 1,female_sample_guide,1,out [tail],6,3.35,0.4,67,G4
+Hook 1,female_sample_guide,5,out [tail],14,3.35,0.4,67,G4
+Hook 2,male_hook,1,Don't,41,0,0.8,55,G3
+Hook 2,male_hook,1,hang,41,1.0,0.4,60,C4
+Hook 2,male_hook,1,up,41,1.5,2,63,Eb4
+Hook 2,male_hook,1,don't,42,0,0.8,55,G3
+Hook 2,male_hook,1,hang,42,1.0,0.4,58,Bb3
+Hook 2,male_hook,1,up,42,1.5,1.5,60,C4
+Hook 2,male_hook,2,Let,43,0,0.41,60,C4
+Hook 2,male_hook,2,me,43,0.5,0.41,60,C4
+Hook 2,male_hook,2,hear,43,1.0,0.41,63,Eb4
+Hook 2,male_hook,2,you,43,1.5,0.41,65,F4
+Hook 2,male_hook,2,breathe,43,2,1.41,67,G4
+Hook 2,male_hook,2,when,43,3.5,0.41,65,F4
+Hook 2,male_hook,2,the,44,0,0.41,63,Eb4
+Hook 2,male_hook,2,words,44,0.5,0.91,62,D4
+Hook 2,male_hook,2,get,44,1.5,0.41,58,Bb3
+Hook 2,male_hook,2,stuck,44,2,1.75,60,C4
+Hook 2,male_hook,3,Got,45,0,0.41,60,C4
+Hook 2,male_hook,3,a,45,0.5,0.41,60,C4
+Hook 2,male_hook,3,room,45,1.0,0.41,63,Eb4
+Hook 2,male_hook,3,with,45,1.5,0.41,62,D4
+Hook 2,male_hook,3,a,45,2,0.41,60,C4
+Hook 2,male_hook,3,view,45,2.5,1.41,58,Bb3
+Hook 2,male_hook,3,still,46,0,0.41,60,C4
+Hook 2,male_hook,3,the,46,0.5,0.41,63,Eb4
+Hook 2,male_hook,3,blinds,46,1.0,0.91,65,F4
+Hook 2,male_hook,3,stay,46,2,0.41,63,Eb4
+Hook 2,male_hook,3,shut,46,2.5,1.25,60,C4
+Hook 2,male_hook,4,I,47,0,0.41,55,G3
+Hook 2,male_hook,4,don't,47,0.5,0.41,58,Bb3
+Hook 2,male_hook,4,need,47,1.0,0.41,60,C4
+Hook 2,male_hook,4,the,47,1.5,0.91,63,Eb4
+Hook 2,male_hook,4,right,47,2.5,0.41,65,F4
+Hook 2,male_hook,4,words,47,3.0,0.91,63,Eb4
+Hook 2,male_hook,4,just,48,0,0.91,62,D4
+Hook 2,male_hook,4,don't,48,1.0,0.41,55,G3
+Hook 2,male_hook,4,hang,48,1.5,0.41,58,Bb3
+Hook 2,male_hook,4,up,48,2,1.75,60,C4
+Hook 2,male_hook,5,Don't,49,0,0.8,58,Bb3
+Hook 2,male_hook,5,hang,49,1.0,0.4,63,Eb4
+Hook 2,male_hook,5,up,49,1.5,2,67,G4
+Hook 2,male_hook,5,don't,50,0,0.8,58,Bb3
+Hook 2,male_hook,5,hang,50,1.0,0.4,65,F4
+Hook 2,male_hook,5,up,50,1.5,1.5,63,Eb4
+Hook 2,male_hook,6,You,51,0,0.41,63,Eb4
+Hook 2,male_hook,6,ain't,51,0.5,0.41,63,Eb4
+Hook 2,male_hook,6,got-,51,1.0,0.41,65,F4
+Hook 2,male_hook,6,ta,51,1.5,0.41,67,G4
+Hook 2,male_hook,6,fix,51,2,0.91,67,G4
+Hook 2,male_hook,6,what,51,3.0,0.41,65,F4
+Hook 2,male_hook,6,you,51,3.5,0.41,63,Eb4
+Hook 2,male_hook,6,did-,52,0,0.41,62,D4
+Hook 2,male_hook,6,n't,52,0.5,0.41,60,C4
+Hook 2,male_hook,6,fuck,52,1.0,0.91,58,Bb3
+Hook 2,male_hook,6,up,52,2,1.75,63,Eb4
+Hook 2,male_hook,7,We,53,0,0.41,62,D4
+Hook 2,male_hook,7,can,53,0.5,0.41,62,D4
+Hook 2,male_hook,7,let,53,1.0,0.41,65,F4
+Hook 2,male_hook,7,the,53,1.5,0.41,67,G4
+Hook 2,male_hook,7,clock,53,2,0.91,65,F4
+Hook 2,male_hook,7,run,53,3.0,0.91,62,D4
+Hook 2,male_hook,7,we,54,0,0.41,60,C4
+Hook 2,male_hook,7,ain't,54,0.5,0.41,62,D4
+Hook 2,male_hook,7,got-,54,1.0,0.41,60,C4
+Hook 2,male_hook,7,ta,54,1.5,0.41,59,B3
+Hook 2,male_hook,7,rush,54,2,1.75,62,D4
+Hook 2,male_hook,8,Stay,55,0,0.41,62,D4
+Hook 2,male_hook,8,a,55,0.5,0.41,60,C4
+Hook 2,male_hook,8,lit-,55,1.0,0.41,59,B3
+Hook 2,male_hook,8,tle,55,1.5,1.41,55,G3
+Hook 2,male_hook,8,stay,55,3.0,0.41,62,D4
+Hook 2,male_hook,8,a,55,3.5,0.41,60,C4
+Hook 2,male_hook,8,lit-,56,0,0.41,59,B3
+Hook 2,male_hook,8,tle,56,0.5,0.91,55,G3
+Hook 2,male_hook,8,don't,56,1.5,0.41,55,G3
+Hook 2,male_hook,8,hang,56,2,0.41,59,B3
+Hook 2,male_hook,8,up,56,2.5,1.25,60,C4
+Hook 2,female_sample_guide,1,out [tail],42,3.35,0.4,67,G4
+Hook 2,female_sample_guide,5,out [tail],50,3.35,0.4,67,G4
+Bridge,female_sample_guide,0,If,73,0,0.4,67,G4
+Bridge,female_sample_guide,0,your,73,0.5,0.4,70,Bb4
+Bridge,female_sample_guide,0,words,73,1.0,1.3,72,C5
+Bridge,female_sample_guide,0,run,73,2.5,0.4,70,Bb4
+Bridge,female_sample_guide,0,out,73,3.0,3.0,67,G4
+Bridge,female_sample_guide,0,I'll,75,0,0.8,67,G4
+Bridge,female_sample_guide,0,be,75,1.0,0.8,70,Bb4
+Bridge,female_sample_guide,0,lis-,75,2,1.3,75,Eb5
+Bridge,female_sample_guide,0,ten-,75,3.5,0.4,74,D5
+Bridge,female_sample_guide,0,ing,76,0,3.0,72,C5
+Final Hook,male_hook,1,I,81,0,0.2,55,G3
+Final Hook,male_hook,1,won't,81,0.25,0.6,55,G3
+Final Hook,male_hook,1,hang,81,1.0,0.4,60,C4
+Final Hook,male_hook,1,up,81,1.5,2,63,Eb4
+Final Hook,male_hook,1,won't,82,0,0.8,55,G3
+Final Hook,male_hook,1,hang,82,1.0,0.4,58,Bb3
+Final Hook,male_hook,1,up,82,1.5,1.5,60,C4
+Final Hook,male_hook,2,Let,83,0,0.41,60,C4
+Final Hook,male_hook,2,me,83,0.5,0.41,60,C4
+Final Hook,male_hook,2,hear,83,1.0,0.41,63,Eb4
+Final Hook,male_hook,2,you,83,1.5,0.41,65,F4
+Final Hook,male_hook,2,breathe,83,2,1.41,67,G4
+Final Hook,male_hook,2,when,83,3.5,0.41,65,F4
+Final Hook,male_hook,2,the,84,0,0.41,63,Eb4
+Final Hook,male_hook,2,words,84,0.5,0.91,62,D4
+Final Hook,male_hook,2,get,84,1.5,0.41,58,Bb3
+Final Hook,male_hook,2,stuck,84,2,1.75,60,C4
+Final Hook,male_hook,3,Got,85,0,0.41,60,C4
+Final Hook,male_hook,3,a,85,0.5,0.41,60,C4
+Final Hook,male_hook,3,room,85,1.0,0.41,63,Eb4
+Final Hook,male_hook,3,with,85,1.5,0.41,62,D4
+Final Hook,male_hook,3,a,85,2,0.41,60,C4
+Final Hook,male_hook,3,view,85,2.5,1.41,58,Bb3
+Final Hook,male_hook,3,let,86,0,0.41,60,C4
+Final Hook,male_hook,3,the,86,0.5,0.41,63,Eb4
+Final Hook,male_hook,3,blinds,86,1.0,0.91,65,F4
+Final Hook,male_hook,3,come,86,2,0.41,63,Eb4
+Final Hook,male_hook,3,up,86,2.5,1.25,60,C4
+Final Hook,male_hook,4,You,87,0,0.41,55,G3
+Final Hook,male_hook,4,don't,87,0.5,0.41,58,Bb3
+Final Hook,male_hook,4,need,87,1.0,0.41,60,C4
+Final Hook,male_hook,4,the,87,1.5,0.91,63,Eb4
+Final Hook,male_hook,4,right,87,2.5,0.41,65,F4
+Final Hook,male_hook,4,words,87,3.0,0.91,63,Eb4
+Final Hook,male_hook,4,I,88,0,0.91,62,D4
+Final Hook,male_hook,4,won't,88,1.0,0.41,55,G3
+Final Hook,male_hook,4,hang,88,1.5,0.41,58,Bb3
+Final Hook,male_hook,4,up,88,2,1.75,60,C4
+Final Hook,male_hook,5,I,89,0,0.2,58,Bb3
+Final Hook,male_hook,5,won't,89,0.25,0.6,58,Bb3
+Final Hook,male_hook,5,hang,89,1.0,0.4,63,Eb4
+Final Hook,male_hook,5,up,89,1.5,2,67,G4
+Final Hook,male_hook,5,won't,90,0,0.8,58,Bb3
+Final Hook,male_hook,5,hang,90,1.0,0.4,65,F4
+Final Hook,male_hook,5,up,90,1.5,1.5,63,Eb4
+Final Hook,male_hook,6,We,91,0,0.41,63,Eb4
+Final Hook,male_hook,6,don't,91,0.5,0.41,63,Eb4
+Final Hook,male_hook,6,got-,91,1.0,0.41,65,F4
+Final Hook,male_hook,6,ta,91,1.5,0.41,67,G4
+Final Hook,male_hook,6,fix,91,2,0.41,67,G4
+Final Hook,male_hook,6,it,91,2.5,0.41,65,F4
+Final Hook,male_hook,6,all,91,3.0,0.41,63,Eb4
+Final Hook,male_hook,6,be-,91,3.5,0.41,62,D4
+Final Hook,male_hook,6,fore,92,0,0.41,60,C4
+Final Hook,male_hook,6,the,92,0.5,0.91,58,Bb3
+Final Hook,male_hook,6,sun's,92,1.5,0.91,62,D4
+Final Hook,male_hook,6,up,92,2.5,1.25,63,Eb4
+Final Hook,male_hook,7,We,93,0,0.41,62,D4
+Final Hook,male_hook,7,can,93,0.5,0.41,62,D4
+Final Hook,male_hook,7,let,93,1.0,0.41,65,F4
+Final Hook,male_hook,7,the,93,1.5,0.41,67,G4
+Final Hook,male_hook,7,clock,93,2,0.91,65,F4
+Final Hook,male_hook,7,run,93,3.0,0.91,62,D4
+Final Hook,male_hook,7,we,94,0,0.41,60,C4
+Final Hook,male_hook,7,ain't,94,0.5,0.41,62,D4
+Final Hook,male_hook,7,got-,94,1.0,0.41,60,C4
+Final Hook,male_hook,7,ta,94,1.5,0.41,59,B3
+Final Hook,male_hook,7,rush,94,2,1.75,62,D4
+Final Hook,male_hook,8,Stay,95,0,0.41,62,D4
+Final Hook,male_hook,8,a,95,0.5,0.41,60,C4
+Final Hook,male_hook,8,lit-,95,1.0,0.41,59,B3
+Final Hook,male_hook,8,tle,95,1.5,1.41,55,G3
+Final Hook,male_hook,8,stay,95,3.0,0.41,62,D4
+Final Hook,male_hook,8,a,95,3.5,0.41,60,C4
+Final Hook,male_hook,8,lit-,96,0,0.41,59,B3
+Final Hook,male_hook,8,tle,96,0.5,0.66,55,G3
+Final Hook,male_hook,8,I,96,1.25,0.41,55,G3
+Final Hook,male_hook,8,won't,96,1.75,0.41,55,G3
+Final Hook,male_hook,8,hang,96,2.25,0.41,59,B3
+Final Hook,male_hook,8,up,96,2.75,1.0,60,C4
+Final Hook,female_sample_guide,1,out [tail],82,3.35,0.4,67,G4
+Final Hook,female_sample_guide,5,out [tail],90,3.35,0.4,67,G4
+Outro,female_sample_guide,0,lis-,97,0,1.3,75,Eb5
+Outro,female_sample_guide,0,ten-,97,1.5,0.4,74,D5
+Outro,female_sample_guide,0,ing,97,2,5.0,72,C5

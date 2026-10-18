@@ -11,7 +11,9 @@
 | [second-life-duology](../projects/second-life-duology/) | `outputs/second-life-duology-editorial-suno-2026-09-18/` | 211 | 双专辑叙事、宣传、完整 Suno 输入与原素材快照 |
 | [2007-net](../projects/2007-net/) | `outputs/2007-net-2026-09-29/` | 96 | 七首英文歌曲、SYSTEM SEOUL 研究、旋律、原创素材与 Suno 输入 |
 
-六目录中的文件均按原字节复制，附有 [来源路径、大小与 SHA-256](../manifests/conversation-update-2026-10-18.json)。独立 ZIP 包只作为原交付时的下载容器，没有再复制到 GitHub：其文件已在上述目录中；《DON'T HANG UP》的 Suno 补充包仅将尚未出现的六份文字文件提取到 `suno-import/`，其中重复的 Hook WAV 已与 `v2/` 中的现有文件比对一致。
+六目录中的文件均按原字节复制，附有 [来源路径、大小与 SHA-256](../manifests/conversation-update-2026-10-18.json)。本轮没有再次复制独立 ZIP 下载包；它们的内容已在上述目录中。《DON'T HANG UP》的 Suno 补充包仅将尚未出现的六份文字文件提取到 `suno-import/`，其中重复的 Hook WAV 已与 `v2/` 中的现有文件比对一致。
+
+上传期间，远端另有一笔《DON'T HANG UP》归档提交。本次合并保留其 `v1/` 分目录、`v2/suno-import/`、[资产清单](../projects/dont-hang-up/ASSET-INVENTORY.md)及 `releases/` 中的三个原交付 ZIP。它们属于远端先行归档，不计入上述 654 个本轮来源文件；工程目录与 ZIP 因此会有重复内容。
 
 项目状态以各自 README 与验收文档为准。`DON'T HANG UP` 有无主唱 WAV 草样；其余新增专辑主要是完整歌词、编曲计划、MIDI／MusicXML 和提示词。谱面不等于录音，生成日志的空白也不等于完成试听。参考歌曲的人声或商业录音没有被作为素材上传。
 

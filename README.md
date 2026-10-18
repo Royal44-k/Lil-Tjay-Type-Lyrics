@@ -6,7 +6,7 @@
 
 | 项目 | 内容 | 制作状态 |
 | --- | --- | --- |
-| [DON'T HANG UP](projects/dont-hang-up/README.md) | 受《Scared 2 Be Lonely》研究启发的原创 melodic trap；[v2 词曲与伴奏](projects/dont-hang-up/v2/README.md)、[Suno 输入](projects/dont-hang-up/suno-import/README.md) | 词曲与三段无主唱 WAV 草样；尚无完成的人声演唱 |
+| [DON'T HANG UP](projects/dont-hang-up/README.md) | 受《Scared 2 Be Lonely》研究启发的原创 melodic trap；[v2 词曲与伴奏](projects/dont-hang-up/v2/README.md)、[Suno 输入](projects/dont-hang-up/suno-import/README.md)、[资产清单](projects/dont-hang-up/ASSET-INVENTORY.md) | 词曲与三段无主唱 WAV 草样；尚无完成的人声演唱 |
 | [D1fferent but Excellent](projects/d1fferent-but-excellent/README.md) | 七首英文歌曲、原创 Hook 与采样母动机 | 预制作资料；未生成全曲音频 |
 | [SECOND LIFE](projects/second-life/README.md) | 原版四首，含完整歌词、编曲与 Hook 引导 | 预制作资料 |
 | [SECOND LIFE+](projects/second-life-plus/README.md) | 三首 remix、四首新作、一首保留原曲 | 预制作资料 |
