@@ -1,0 +1,575 @@
+﻿section,part,syllable,bar,beat,duration_beats,midi_note,pitch
+Hook 1,male_topline,Don't,5,0,0.8,55,G3
+Hook 1,male_topline,hang,5,1.0,0.4,60,C4
+Hook 1,male_topline,up,5,1.5,2,63,Eb4
+Hook 1,male_topline,don't,6,0,0.8,55,G3
+Hook 1,male_topline,hang,6,1.0,0.4,58,Bb3
+Hook 1,male_topline,up,6,1.5,1.5,60,C4
+Hook 1,male_topline,Let,7,0,0.41000000000000003,60,C4
+Hook 1,male_topline,me,7,0.5,0.41000000000000003,60,C4
+Hook 1,male_topline,hear,7,1.0,0.41000000000000003,63,Eb4
+Hook 1,male_topline,you,7,1.5,0.41000000000000003,65,F4
+Hook 1,male_topline,breathe,7,2,1.41,67,G4
+Hook 1,male_topline,when,7,3.5,0.41000000000000003,65,F4
+Hook 1,male_topline,the,8,0,0.41000000000000003,63,Eb4
+Hook 1,male_topline,words,8,0.5,0.91,62,D4
+Hook 1,male_topline,get,8,1.5,0.41000000000000003,58,Bb3
+Hook 1,male_topline,stuck,8,2,1.7499999999999998,60,C4
+Hook 1,male_topline,Got,9,0,0.41000000000000003,60,C4
+Hook 1,male_topline,a,9,0.5,0.41000000000000003,60,C4
+Hook 1,male_topline,room,9,1.0,0.41000000000000003,63,Eb4
+Hook 1,male_topline,with,9,1.5,0.41000000000000003,62,D4
+Hook 1,male_topline,a,9,2,0.41000000000000003,60,C4
+Hook 1,male_topline,view,9,2.5,1.41,58,Bb3
+Hook 1,male_topline,still,10,0,0.41000000000000003,60,C4
+Hook 1,male_topline,the,10,0.5,0.41000000000000003,63,Eb4
+Hook 1,male_topline,blinds,10,1.0,0.91,65,F4
+Hook 1,male_topline,stay,10,2,0.41000000000000003,63,Eb4
+Hook 1,male_topline,shut,10,2.5,1.2499999999999998,60,C4
+Hook 1,male_topline,I,11,0,0.41000000000000003,55,G3
+Hook 1,male_topline,don't,11,0.5,0.41000000000000003,58,Bb3
+Hook 1,male_topline,need,11,1.0,0.41000000000000003,60,C4
+Hook 1,male_topline,the,11,1.5,0.91,63,Eb4
+Hook 1,male_topline,right,11,2.5,0.41000000000000003,65,F4
+Hook 1,male_topline,words,11,3.0,0.91,63,Eb4
+Hook 1,male_topline,just,12,0,0.91,62,D4
+Hook 1,male_topline,don't,12,1.0,0.41000000000000003,55,G3
+Hook 1,male_topline,hang,12,1.5,0.41000000000000003,58,Bb3
+Hook 1,male_topline,up,12,2,1.7499999999999998,60,C4
+Hook 1,male_topline,Don't,13,0,0.8,58,Bb3
+Hook 1,male_topline,hang,13,1.0,0.4,63,Eb4
+Hook 1,male_topline,up,13,1.5,2,67,G4
+Hook 1,male_topline,don't,14,0,0.8,58,Bb3
+Hook 1,male_topline,hang,14,1.0,0.4,65,F4
+Hook 1,male_topline,up,14,1.5,1.5,63,Eb4
+Hook 1,male_topline,You,15,0,0.41000000000000003,63,Eb4
+Hook 1,male_topline,ain't,15,0.5,0.41000000000000003,63,Eb4
+Hook 1,male_topline,got-,15,1.0,0.41000000000000003,65,F4
+Hook 1,male_topline,ta,15,1.5,0.41000000000000003,67,G4
+Hook 1,male_topline,fix,15,2,0.91,67,G4
+Hook 1,male_topline,what,15,3.0,0.41000000000000003,65,F4
+Hook 1,male_topline,you,15,3.5,0.41000000000000003,63,Eb4
+Hook 1,male_topline,did-,16,0,0.41000000000000003,62,D4
+Hook 1,male_topline,n't,16,0.5,0.41000000000000003,60,C4
+Hook 1,male_topline,fuck,16,1.0,0.91,58,Bb3
+Hook 1,male_topline,up,16,2,1.7499999999999998,63,Eb4
+Hook 1,male_topline,We,17,0,0.41000000000000003,62,D4
+Hook 1,male_topline,can,17,0.5,0.41000000000000003,62,D4
+Hook 1,male_topline,let,17,1.0,0.41000000000000003,65,F4
+Hook 1,male_topline,the,17,1.5,0.41000000000000003,67,G4
+Hook 1,male_topline,clock,17,2,0.91,65,F4
+Hook 1,male_topline,run,17,3.0,0.91,62,D4
+Hook 1,male_topline,we,18,0,0.41000000000000003,60,C4
+Hook 1,male_topline,ain't,18,0.5,0.41000000000000003,62,D4
+Hook 1,male_topline,got-,18,1.0,0.41000000000000003,60,C4
+Hook 1,male_topline,ta,18,1.5,0.41000000000000003,59,B3
+Hook 1,male_topline,rush,18,2,1.7499999999999998,62,D4
+Hook 1,male_topline,Stay,19,0,0.41000000000000003,62,D4
+Hook 1,male_topline,a,19,0.5,0.41000000000000003,60,C4
+Hook 1,male_topline,lit-,19,1.0,0.41000000000000003,59,B3
+Hook 1,male_topline,tle,19,1.5,1.41,55,G3
+Hook 1,male_topline,stay,19,3.0,0.41000000000000003,62,D4
+Hook 1,male_topline,a,19,3.5,0.41000000000000003,60,C4
+Hook 1,male_topline,lit-,20,0,0.41000000000000003,59,B3
+Hook 1,male_topline,tle,20,0.5,0.91,55,G3
+Hook 1,male_topline,don't,20,1.5,0.41000000000000003,55,G3
+Hook 1,male_topline,hang,20,2,0.41000000000000003,59,B3
+Hook 1,male_topline,up,20,2.5,1.2499999999999998,60,C4
+Verse 1,male_topline,Key,21,0,0.435,55,G3
+Verse 1,male_topline,card,21,0.5,0.31,55,G3
+Verse 1,male_topline,bent,21,0.875,0.56,58,Bb3
+Verse 1,male_topline,third,21,1.5,0.435,60,C4
+Verse 1,male_topline,try,21,2,0.56,58,Bb3
+Verse 1,male_topline,green,21,2.625,0.435,55,G3
+Verse 1,male_topline,light,21,3.125,0.6499999999999999,55,G3
+Verse 1,male_topline,Same,22,0,0.435,55,G3
+Verse 1,male_topline,jeans,22,0.5,0.31,55,G3
+Verse 1,male_topline,red,22,0.875,0.56,58,Bb3
+Verse 1,male_topline,eyes,22,1.5,0.435,60,C4
+Verse 1,male_topline,third,22,2,0.56,58,Bb3
+Verse 1,male_topline,late,22,2.625,0.435,55,G3
+Verse 1,male_topline,flight,22,3.125,0.6499999999999999,55,G3
+Verse 1,male_topline,Sold-,23,0,0.185,55,G3
+Verse 1,male_topline,out,23,0.25,0.185,55,G3
+Verse 1,male_topline,room,23,0.5,0.31,58,Bb3
+Verse 1,male_topline,eve-,23,0.875,0.31,60,C4
+Verse 1,male_topline,ry-,23,1.25,0.31,58,Bb3
+Verse 1,male_topline,bod-,23,1.625,0.31,55,G3
+Verse 1,male_topline,y,23,2,0.31,58,Bb3
+Verse 1,male_topline,knew,23,2.375,0.31,60,C4
+Verse 1,male_topline,my,23,2.75,0.435,58,Bb3
+Verse 1,male_topline,lines,23,3.25,0.5249999999999999,60,C4
+Verse 1,male_topline,One,24,0,0.185,55,G3
+Verse 1,male_topline,call,24,0.25,0.31,55,G3
+Verse 1,male_topline,from,24,0.625,0.31,58,Bb3
+Verse 1,male_topline,you,24,1,0.31,60,C4
+Verse 1,male_topline,and,24,1.375,0.435,58,Bb3
+Verse 1,male_topline,I,24,1.875,0.31,55,G3
+Verse 1,male_topline,can't,24,2.25,0.435,58,Bb3
+Verse 1,male_topline,find,24,2.75,0.435,60,C4
+Verse 1,male_topline,mine,24,3.25,0.5249999999999999,60,C4
+Verse 1,male_topline,Sent,25,0,0.435,56,Ab3
+Verse 1,male_topline,Mom,25,0.5,0.31,56,Ab3
+Verse 1,male_topline,rent,25,0.875,0.56,58,Bb3
+Verse 1,male_topline,she,25,1.5,0.435,60,C4
+Verse 1,male_topline,sent,25,2,0.56,58,Bb3
+Verse 1,male_topline,three,25,2.625,0.435,56,Ab3
+Verse 1,male_topline,hearts,25,3.125,0.6499999999999999,60,C4
+Verse 1,male_topline,Typed,26,0,0.31,56,Ab3
+Verse 1,male_topline,I'm,26,0.375,0.31,56,Ab3
+Verse 1,male_topline,tired,26,0.75,0.435,58,Bb3
+Verse 1,male_topline,then,26,1.25,0.435,60,C4
+Verse 1,male_topline,e-,26,1.75,0.435,58,Bb3
+Verse 1,male_topline,rased,26,2.25,0.435,56,Ab3
+Verse 1,male_topline,that,26,2.75,0.435,58,Bb3
+Verse 1,male_topline,part,26,3.25,0.5249999999999999,60,C4
+Verse 1,male_topline,I,27,0,0.31,56,Ab3
+Verse 1,male_topline,learned,27,0.375,0.31,56,Ab3
+Verse 1,male_topline,I'm,27,0.75,0.435,58,Bb3
+Verse 1,male_topline,good,27,1.25,0.435,60,C4
+Verse 1,male_topline,from,27,1.75,0.435,58,Bb3
+Verse 1,male_topline,watch-,27,2.25,0.435,56,Ab3
+Verse 1,male_topline,in',27,2.75,0.435,58,Bb3
+Verse 1,male_topline,her,27,3.25,0.5249999999999999,56,Ab3
+Verse 1,male_topline,Work,28,0,0.31,56,Ab3
+Verse 1,male_topline,two,28,0.375,0.31,56,Ab3
+Verse 1,male_topline,shifts,28,0.75,0.435,58,Bb3
+Verse 1,male_topline,with,28,1.25,0.435,60,C4
+Verse 1,male_topline,her,28,1.75,0.435,58,Bb3
+Verse 1,male_topline,back,28,2.25,0.435,56,Ab3
+Verse 1,male_topline,still,28,2.75,0.435,58,Bb3
+Verse 1,male_topline,hurt,28,3.25,0.5249999999999999,56,Ab3
+Verse 1,male_topline,Saw,29,0,0.185,55,G3
+Verse 1,male_topline,your,29,0.25,0.31,55,G3
+Verse 1,male_topline,name,29,0.625,0.31,58,Bb3
+Verse 1,male_topline,flash,29,1,0.31,62,D4
+Verse 1,male_topline,let,29,1.375,0.435,58,Bb3
+Verse 1,male_topline,it,29,1.875,0.31,55,G3
+Verse 1,male_topline,fade,29,2.25,0.435,58,Bb3
+Verse 1,male_topline,to,29,2.75,0.435,62,D4
+Verse 1,male_topline,black,29,3.25,0.5249999999999999,58,Bb3
+Verse 1,male_topline,Kept,30,0,0.185,55,G3
+Verse 1,male_topline,my,30,0.25,0.185,55,G3
+Verse 1,male_topline,dis-,30,0.5,0.31,58,Bb3
+Verse 1,male_topline,tance,30,0.875,0.31,62,D4
+Verse 1,male_topline,got,30,1.25,0.31,58,Bb3
+Verse 1,male_topline,mad,30,1.625,0.31,55,G3
+Verse 1,male_topline,when,30,2,0.31,58,Bb3
+Verse 1,male_topline,you,30,2.375,0.31,62,D4
+Verse 1,male_topline,stepped,30,2.75,0.435,58,Bb3
+Verse 1,male_topline,back,30,3.25,0.5249999999999999,58,Bb3
+Verse 1,male_topline,You,31,0,0.185,55,G3
+Verse 1,male_topline,said,31,0.25,0.185,55,G3
+Verse 1,male_topline,You,31,0.5,0.31,58,Bb3
+Verse 1,male_topline,want,31,0.875,0.31,62,D4
+Verse 1,male_topline,me,31,1.25,0.31,58,Bb3
+Verse 1,male_topline,when,31,1.625,0.31,55,G3
+Verse 1,male_topline,your,31,2,0.31,58,Bb3
+Verse 1,male_topline,night's,31,2.375,0.31,62,D4
+Verse 1,male_topline,gone,31,2.75,0.435,58,Bb3
+Verse 1,male_topline,bad,31,3.25,0.5249999999999999,63,Eb4
+Verse 1,male_topline,Where,32,0,0.185,55,G3
+Verse 1,male_topline,you,32,0.25,0.31,55,G3
+Verse 1,male_topline,at,32,0.625,0.31,58,Bb3
+Verse 1,male_topline,when,32,1,0.31,62,D4
+Verse 1,male_topline,I'm,32,1.375,0.435,58,Bb3
+Verse 1,male_topline,the,32,1.875,0.31,55,G3
+Verse 1,male_topline,one,32,2.25,0.435,58,Bb3
+Verse 1,male_topline,who,32,2.75,0.435,62,D4
+Verse 1,male_topline,cracks,32,3.25,0.5249999999999999,63,Eb4
+Verse 1,male_topline,Had,33,0,0.185,55,G3
+Verse 1,male_topline,a,33,0.25,0.31,55,G3
+Verse 1,male_topline,whole,33,0.625,0.31,59,B3
+Verse 1,male_topline,speech,33,1,0.31,60,C4
+Verse 1,male_topline,lined,33,1.375,0.435,59,B3
+Verse 1,male_topline,up,33,1.875,0.31,55,G3
+Verse 1,male_topline,in,33,2.25,0.435,59,B3
+Verse 1,male_topline,my,33,2.75,0.435,60,C4
+Verse 1,male_topline,head,33,3.25,0.5249999999999999,62,D4
+Verse 1,male_topline,You,34,0,0.31,55,G3
+Verse 1,male_topline,cut,34,0.375,0.31,55,G3
+Verse 1,male_topline,it,34,0.75,0.435,59,B3
+Verse 1,male_topline,short,34,1.25,0.435,60,C4
+Verse 1,male_topline,You,34,1.75,0.435,59,B3
+Verse 1,male_topline,eat-,34,2.25,0.435,55,G3
+Verse 1,male_topline,en,34,2.75,0.435,59,B3
+Verse 1,male_topline,yet,34,3.25,0.5249999999999999,62,D4
+Verse 1,male_topline,I,35,0,0.185,55,G3
+Verse 1,male_topline,let,35,0.25,0.185,55,G3
+Verse 1,male_topline,a,35,0.5,0.31,59,B3
+Verse 1,male_topline,laugh,35,0.875,0.31,60,C4
+Verse 1,male_topline,out,35,1.25,0.31,59,B3
+Verse 1,male_topline,then,35,1.625,0.31,55,G3
+Verse 1,male_topline,I,35,2,0.31,59,B3
+Verse 1,male_topline,lost,35,2.375,0.31,60,C4
+Verse 1,male_topline,my,35,2.75,0.435,59,B3
+Verse 1,male_topline,breath,35,3.25,0.5249999999999999,59,B3
+Verse 1,male_topline,You,36,0,0.31,55,G3
+Verse 1,male_topline,heard,36,0.375,0.31,55,G3
+Verse 1,male_topline,the,36,0.75,0.435,59,B3
+Verse 1,male_topline,part,36,1.25,0.435,60,C4
+Verse 1,male_topline,I,36,1.75,0.435,59,B3
+Verse 1,male_topline,had-,36,2.25,0.435,55,G3
+Verse 1,male_topline,n't,36,2.75,0.435,59,B3
+Verse 1,male_topline,said,36,3.25,0.5249999999999999,60,C4
+Pre-Hook,male_topline,I,37,0,0.435,56,Ab3
+Pre-Hook,male_topline,was,37,0.5,0.435,58,Bb3
+Pre-Hook,male_topline,half-,37,1,0.435,60,C4
+Pre-Hook,male_topline,way,37,1.5,0.935,63,Eb4
+Pre-Hook,male_topline,through,37,2.5,1.435,62,D4
+Pre-Hook,male_topline,I'm,38,0,1.435,60,C4
+Pre-Hook,male_topline,fine,38,1.5,2.275,60,C4
+Pre-Hook,male_topline,Then,39,0,0.435,55,G3
+Pre-Hook,male_topline,I,39,0.5,0.435,55,G3
+Pre-Hook,male_topline,stopped,39,1,0.935,59,B3
+Pre-Hook,male_topline,my-,39,2,0.435,60,C4
+Pre-Hook,male_topline,self,39,2.5,1.435,62,D4
+Pre-Hook,male_topline,this,40,0,1.435,59,B3
+Pre-Hook,male_topline,time,40,1.5,2.275,55,G3
+Hook 2,male_topline,Don't,41,0,0.8,55,G3
+Hook 2,male_topline,hang,41,1.0,0.4,60,C4
+Hook 2,male_topline,up,41,1.5,2,63,Eb4
+Hook 2,male_topline,don't,42,0,0.8,55,G3
+Hook 2,male_topline,hang,42,1.0,0.4,58,Bb3
+Hook 2,male_topline,up,42,1.5,1.5,60,C4
+Hook 2,male_topline,Let,43,0,0.41000000000000003,60,C4
+Hook 2,male_topline,me,43,0.5,0.41000000000000003,60,C4
+Hook 2,male_topline,hear,43,1.0,0.41000000000000003,63,Eb4
+Hook 2,male_topline,you,43,1.5,0.41000000000000003,65,F4
+Hook 2,male_topline,breathe,43,2,1.41,67,G4
+Hook 2,male_topline,when,43,3.5,0.41000000000000003,65,F4
+Hook 2,male_topline,the,44,0,0.41000000000000003,63,Eb4
+Hook 2,male_topline,words,44,0.5,0.91,62,D4
+Hook 2,male_topline,get,44,1.5,0.41000000000000003,58,Bb3
+Hook 2,male_topline,stuck,44,2,1.7499999999999998,60,C4
+Hook 2,male_topline,Got,45,0,0.41000000000000003,60,C4
+Hook 2,male_topline,a,45,0.5,0.41000000000000003,60,C4
+Hook 2,male_topline,room,45,1.0,0.41000000000000003,63,Eb4
+Hook 2,male_topline,with,45,1.5,0.41000000000000003,62,D4
+Hook 2,male_topline,a,45,2,0.41000000000000003,60,C4
+Hook 2,male_topline,view,45,2.5,1.41,58,Bb3
+Hook 2,male_topline,still,46,0,0.41000000000000003,60,C4
+Hook 2,male_topline,the,46,0.5,0.41000000000000003,63,Eb4
+Hook 2,male_topline,blinds,46,1.0,0.91,65,F4
+Hook 2,male_topline,stay,46,2,0.41000000000000003,63,Eb4
+Hook 2,male_topline,shut,46,2.5,1.2499999999999998,60,C4
+Hook 2,male_topline,I,47,0,0.41000000000000003,55,G3
+Hook 2,male_topline,don't,47,0.5,0.41000000000000003,58,Bb3
+Hook 2,male_topline,need,47,1.0,0.41000000000000003,60,C4
+Hook 2,male_topline,the,47,1.5,0.91,63,Eb4
+Hook 2,male_topline,right,47,2.5,0.41000000000000003,65,F4
+Hook 2,male_topline,words,47,3.0,0.91,63,Eb4
+Hook 2,male_topline,just,48,0,0.91,62,D4
+Hook 2,male_topline,don't,48,1.0,0.41000000000000003,55,G3
+Hook 2,male_topline,hang,48,1.5,0.41000000000000003,58,Bb3
+Hook 2,male_topline,up,48,2,1.7499999999999998,60,C4
+Hook 2,male_topline,Don't,49,0,0.8,58,Bb3
+Hook 2,male_topline,hang,49,1.0,0.4,63,Eb4
+Hook 2,male_topline,up,49,1.5,2,67,G4
+Hook 2,male_topline,don't,50,0,0.8,58,Bb3
+Hook 2,male_topline,hang,50,1.0,0.4,65,F4
+Hook 2,male_topline,up,50,1.5,1.5,63,Eb4
+Hook 2,male_topline,You,51,0,0.41000000000000003,63,Eb4
+Hook 2,male_topline,ain't,51,0.5,0.41000000000000003,63,Eb4
+Hook 2,male_topline,got-,51,1.0,0.41000000000000003,65,F4
+Hook 2,male_topline,ta,51,1.5,0.41000000000000003,67,G4
+Hook 2,male_topline,fix,51,2,0.91,67,G4
+Hook 2,male_topline,what,51,3.0,0.41000000000000003,65,F4
+Hook 2,male_topline,you,51,3.5,0.41000000000000003,63,Eb4
+Hook 2,male_topline,did-,52,0,0.41000000000000003,62,D4
+Hook 2,male_topline,n't,52,0.5,0.41000000000000003,60,C4
+Hook 2,male_topline,fuck,52,1.0,0.91,58,Bb3
+Hook 2,male_topline,up,52,2,1.7499999999999998,63,Eb4
+Hook 2,male_topline,We,53,0,0.41000000000000003,62,D4
+Hook 2,male_topline,can,53,0.5,0.41000000000000003,62,D4
+Hook 2,male_topline,let,53,1.0,0.41000000000000003,65,F4
+Hook 2,male_topline,the,53,1.5,0.41000000000000003,67,G4
+Hook 2,male_topline,clock,53,2,0.91,65,F4
+Hook 2,male_topline,run,53,3.0,0.91,62,D4
+Hook 2,male_topline,we,54,0,0.41000000000000003,60,C4
+Hook 2,male_topline,ain't,54,0.5,0.41000000000000003,62,D4
+Hook 2,male_topline,got-,54,1.0,0.41000000000000003,60,C4
+Hook 2,male_topline,ta,54,1.5,0.41000000000000003,59,B3
+Hook 2,male_topline,rush,54,2,1.7499999999999998,62,D4
+Hook 2,male_topline,Stay,55,0,0.41000000000000003,62,D4
+Hook 2,male_topline,a,55,0.5,0.41000000000000003,60,C4
+Hook 2,male_topline,lit-,55,1.0,0.41000000000000003,59,B3
+Hook 2,male_topline,tle,55,1.5,1.41,55,G3
+Hook 2,male_topline,stay,55,3.0,0.41000000000000003,62,D4
+Hook 2,male_topline,a,55,3.5,0.41000000000000003,60,C4
+Hook 2,male_topline,lit-,56,0,0.41000000000000003,59,B3
+Hook 2,male_topline,tle,56,0.5,0.91,55,G3
+Hook 2,male_topline,don't,56,1.5,0.41000000000000003,55,G3
+Hook 2,male_topline,hang,56,2,0.41000000000000003,59,B3
+Hook 2,male_topline,up,56,2.5,1.2499999999999998,60,C4
+Verse 2,male_topline,New,57,0,0.435,55,G3
+Verse 2,male_topline,couch,57,0.5,0.31,55,G3
+Verse 2,male_topline,still,57,0.875,0.56,58,Bb3
+Verse 2,male_topline,wrapped,57,1.5,0.435,60,C4
+Verse 2,male_topline,in,57,2,0.56,58,Bb3
+Verse 2,male_topline,plas-,57,2.625,0.435,55,G3
+Verse 2,male_topline,tic,57,3.125,0.6499999999999999,60,C4
+Verse 2,male_topline,Four,58,0,0.435,58,Bb3
+Verse 2,male_topline,seats,58,0.5,0.31,58,Bb3
+Verse 2,male_topline,one,58,0.875,0.56,60,C4
+Verse 2,male_topline,plate,58,1.5,0.435,62,D4
+Verse 2,male_topline,old,58,2,0.56,60,C4
+Verse 2,male_topline,hab-,58,2.625,0.435,58,Bb3
+Verse 2,male_topline,its,58,3.125,0.6499999999999999,60,C4
+Verse 2,male_topline,Spent,59,0,0.185,58,Bb3
+Verse 2,male_topline,three,59,0.25,0.31,58,Bb3
+Verse 2,male_topline,weeks,59,0.625,0.31,60,C4
+Verse 2,male_topline,pick-,59,1,0.31,62,D4
+Verse 2,male_topline,in',59,1.375,0.435,60,C4
+Verse 2,male_topline,out,59,1.875,0.31,58,Bb3
+Verse 2,male_topline,the,59,2.25,0.435,60,C4
+Verse 2,male_topline,fab-,59,2.75,0.435,62,D4
+Verse 2,male_topline,ric,59,3.25,0.5249999999999999,63,Eb4
+Verse 2,male_topline,Still,60,0,0.185,55,G3
+Verse 2,male_topline,eat,60,0.25,0.31,55,G3
+Verse 2,male_topline,by,60,0.625,0.31,58,Bb3
+Verse 2,male_topline,the,60,1,0.31,60,C4
+Verse 2,male_topline,sink,60,1.375,0.435,58,Bb3
+Verse 2,male_topline,coat,60,1.875,0.31,55,G3
+Verse 2,male_topline,on,60,2.25,0.435,58,Bb3
+Verse 2,male_topline,stand-,60,2.75,0.435,60,C4
+Verse 2,male_topline,in',60,3.25,0.5249999999999999,60,C4
+Verse 2,male_topline,Pay,61,0,0.31,56,Ab3
+Verse 2,male_topline,for,61,0.375,0.31,56,Ab3
+Verse 2,male_topline,qui-,61,0.75,0.435,58,Bb3
+Verse 2,male_topline,et,61,1.25,0.435,60,C4
+Verse 2,male_topline,still,61,1.75,0.435,58,Bb3
+Verse 2,male_topline,can't,61,2.25,0.435,56,Ab3
+Verse 2,male_topline,sleep,61,2.75,0.435,58,Bb3
+Verse 2,male_topline,straight,61,3.25,0.5249999999999999,60,C4
+Verse 2,male_topline,T-,62,0,0.185,58,Bb3
+Verse 2,male_topline,V,62,0.25,0.31,58,Bb3
+Verse 2,male_topline,talks,62,0.625,0.31,60,C4
+Verse 2,male_topline,I,62,1,0.31,63,Eb4
+Verse 2,male_topline,don't,62,1.375,0.435,60,C4
+Verse 2,male_topline,know,62,1.875,0.31,58,Bb3
+Verse 2,male_topline,what's,62,2.25,0.435,60,C4
+Verse 2,male_topline,play-,62,2.75,0.435,63,Eb4
+Verse 2,male_topline,in',62,3.25,0.5249999999999999,63,Eb4
+Verse 2,male_topline,Same,63,0,0.185,58,Bb3
+Verse 2,male_topline,old,63,0.25,0.31,58,Bb3
+Verse 2,male_topline,re-,63,0.625,0.31,60,C4
+Verse 2,male_topline,runs,63,1,0.31,63,Eb4
+Verse 2,male_topline,just,63,1.375,0.435,60,C4
+Verse 2,male_topline,a,63,1.875,0.31,58,Bb3
+Verse 2,male_topline,big-,63,2.25,0.435,60,C4
+Verse 2,male_topline,ger,63,2.75,0.435,63,Eb4
+Verse 2,male_topline,place,63,3.25,0.5249999999999999,60,C4
+Verse 2,male_topline,I,64,0,0.185,56,Ab3
+Verse 2,male_topline,can,64,0.25,0.185,56,Ab3
+Verse 2,male_topline,change,64,0.5,0.185,58,Bb3
+Verse 2,male_topline,the,64,0.75,0.31,60,C4
+Verse 2,male_topline,locks,64,1.125,0.31,58,Bb3
+Verse 2,male_topline,can't,64,1.5,0.31,56,Ab3
+Verse 2,male_topline,make,64,1.875,0.185,58,Bb3
+Verse 2,male_topline,my-,64,2.125,0.31,60,C4
+Verse 2,male_topline,self,64,2.5,0.31,58,Bb3
+Verse 2,male_topline,feel,64,2.875,0.435,56,Ab3
+Verse 2,male_topline,safe,64,3.375,0.39999999999999986,56,Ab3
+Verse 2,male_topline,Your,65,0,0.185,55,G3
+Verse 2,male_topline,name,65,0.25,0.185,55,G3
+Verse 2,male_topline,lit,65,0.5,0.31,58,Bb3
+Verse 2,male_topline,up,65,0.875,0.31,62,D4
+Verse 2,male_topline,at,65,1.25,0.31,58,Bb3
+Verse 2,male_topline,a,65,1.625,0.31,55,G3
+Verse 2,male_topline,quar-,65,2,0.31,58,Bb3
+Verse 2,male_topline,ter,65,2.375,0.31,62,D4
+Verse 2,male_topline,to,65,2.75,0.435,58,Bb3
+Verse 2,male_topline,three,65,3.25,0.5249999999999999,63,Eb4
+Verse 2,male_topline,Your,66,0,0.31,58,Bb3
+Verse 2,male_topline,I'm,66,0.375,0.31,58,Bb3
+Verse 2,male_topline,good,66,0.75,0.435,62,D4
+Verse 2,male_topline,sound-,66,1.25,0.435,63,Eb4
+Verse 2,male_topline,ed,66,1.75,0.435,62,D4
+Verse 2,male_topline,just,66,2.25,0.435,58,Bb3
+Verse 2,male_topline,like,66,2.75,0.435,62,D4
+Verse 2,male_topline,me,66,3.25,0.5249999999999999,63,Eb4
+Verse 2,male_topline,Had,67,0,0.185,58,Bb3
+Verse 2,male_topline,a,67,0.25,0.185,58,Bb3
+Verse 2,male_topline,joke,67,0.5,0.185,62,D4
+Verse 2,male_topline,read-,67,0.75,0.31,63,Eb4
+Verse 2,male_topline,y,67,1.125,0.31,62,D4
+Verse 2,male_topline,let,67,1.5,0.31,58,Bb3
+Verse 2,male_topline,it,67,1.875,0.185,62,D4
+Verse 2,male_topline,go,67,2.125,0.31,63,Eb4
+Verse 2,male_topline,let,67,2.5,0.31,62,D4
+Verse 2,male_topline,you,67,2.875,0.435,58,Bb3
+Verse 2,male_topline,breathe,67,3.375,0.39999999999999986,58,Bb3
+Verse 2,male_topline,Heard,68,0,0.185,55,G3
+Verse 2,male_topline,your,68,0.25,0.185,55,G3
+Verse 2,male_topline,chair,68,0.5,0.185,58,Bb3
+Verse 2,male_topline,scrape,68,0.75,0.31,62,D4
+Verse 2,male_topline,back,68,1.125,0.31,58,Bb3
+Verse 2,male_topline,then,68,1.5,0.31,55,G3
+Verse 2,male_topline,you,68,1.875,0.185,58,Bb3
+Verse 2,male_topline,start-,68,2.125,0.31,62,D4
+Verse 2,male_topline,ed,68,2.5,0.31,58,Bb3
+Verse 2,male_topline,to,68,2.875,0.435,55,G3
+Verse 2,male_topline,speak,68,3.375,0.39999999999999986,58,Bb3
+Verse 2,male_topline,Ket-,69,0,0.185,55,G3
+Verse 2,male_topline,tle,69,0.25,0.31,55,G3
+Verse 2,male_topline,clicked,69,0.625,0.31,59,B3
+Verse 2,male_topline,we,69,1,0.31,60,C4
+Verse 2,male_topline,were,69,1.375,0.435,59,B3
+Verse 2,male_topline,both,69,1.875,0.31,55,G3
+Verse 2,male_topline,talk-,69,2.25,0.435,59,B3
+Verse 2,male_topline,in',69,2.75,0.435,60,C4
+Verse 2,male_topline,soft,69,3.25,0.5249999999999999,62,D4
+Verse 2,male_topline,Stayed,70,0,0.185,59,B3
+Verse 2,male_topline,till,70,0.25,0.185,59,B3
+Verse 2,male_topline,your,70,0.5,0.31,60,C4
+Verse 2,male_topline,five,70,0.875,0.31,62,D4
+Verse 2,male_topline,a,70,1.25,0.31,60,C4
+Verse 2,male_topline,m,70,1.625,0.31,59,B3
+Verse 2,male_topline,a-,70,2,0.31,60,C4
+Verse 2,male_topline,larm,70,2.375,0.31,62,D4
+Verse 2,male_topline,went,70,2.75,0.435,60,C4
+Verse 2,male_topline,off,70,3.25,0.5249999999999999,62,D4
+Verse 2,male_topline,Noth-,71,0,0.185,59,B3
+Verse 2,male_topline,in',71,0.25,0.31,59,B3
+Verse 2,male_topline,got,71,0.625,0.31,60,C4
+Verse 2,male_topline,solved,71,1,0.31,62,D4
+Verse 2,male_topline,we,71,1.375,0.435,60,C4
+Verse 2,male_topline,still,71,1.875,0.31,59,B3
+Verse 2,male_topline,said,71,2.25,0.435,60,C4
+Verse 2,male_topline,good-,71,2.75,0.435,62,D4
+Verse 2,male_topline,night,71,3.25,0.5249999999999999,59,B3
+Verse 2,male_topline,I,72,0,0.185,55,G3
+Verse 2,male_topline,slept,72,0.25,0.185,55,G3
+Verse 2,male_topline,with,72,0.5,0.185,59,B3
+Verse 2,male_topline,the,72,0.75,0.31,60,C4
+Verse 2,male_topline,T-,72,1.125,0.31,59,B3
+Verse 2,male_topline,V,72,1.5,0.31,55,G3
+Verse 2,male_topline,off,72,1.875,0.185,59,B3
+Verse 2,male_topline,for,72,2.125,0.31,60,C4
+Verse 2,male_topline,the,72,2.5,0.31,59,B3
+Verse 2,male_topline,first,72,2.875,0.435,59,B3
+Verse 2,male_topline,time,72,3.375,0.39999999999999986,60,C4
+Bridge,male_topline,Call,77,0,0.685,55,G3
+Bridge,male_topline,me,77,0.75,1.185,58,Bb3
+Bridge,male_topline,to-,77,2,0.435,60,C4
+Bridge,male_topline,mor-,77,2.5,0.685,62,D4
+Bridge,male_topline,row,77,3.25,2.525,60,C4
+Bridge,male_topline,E-,79,0,0.435,55,G3
+Bridge,male_topline,ven,79,0.5,0.935,58,Bb3
+Bridge,male_topline,if,79,1.5,0.685,60,C4
+Bridge,male_topline,you're,79,2.25,0.685,58,Bb3
+Bridge,male_topline,al-,79,3,0.935,55,G3
+Bridge,male_topline,right,80,0,1.775,55,G3
+Final Hook,male_topline,I,81,0,0.2,55,G3
+Final Hook,male_topline,won't,81,0.25,0.6,55,G3
+Final Hook,male_topline,hang,81,1.0,0.4,60,C4
+Final Hook,male_topline,up,81,1.5,2,63,Eb4
+Final Hook,male_topline,won't,82,0,0.8,55,G3
+Final Hook,male_topline,hang,82,1.0,0.4,58,Bb3
+Final Hook,male_topline,up,82,1.5,1.5,60,C4
+Final Hook,male_topline,Let,83,0,0.41000000000000003,60,C4
+Final Hook,male_topline,me,83,0.5,0.41000000000000003,60,C4
+Final Hook,male_topline,hear,83,1.0,0.41000000000000003,63,Eb4
+Final Hook,male_topline,you,83,1.5,0.41000000000000003,65,F4
+Final Hook,male_topline,breathe,83,2,1.41,67,G4
+Final Hook,male_topline,when,83,3.5,0.41000000000000003,65,F4
+Final Hook,male_topline,the,84,0,0.41000000000000003,63,Eb4
+Final Hook,male_topline,words,84,0.5,0.91,62,D4
+Final Hook,male_topline,get,84,1.5,0.41000000000000003,58,Bb3
+Final Hook,male_topline,stuck,84,2,1.7499999999999998,60,C4
+Final Hook,male_topline,Got,85,0,0.41000000000000003,60,C4
+Final Hook,male_topline,a,85,0.5,0.41000000000000003,60,C4
+Final Hook,male_topline,room,85,1.0,0.41000000000000003,63,Eb4
+Final Hook,male_topline,with,85,1.5,0.41000000000000003,62,D4
+Final Hook,male_topline,a,85,2,0.41000000000000003,60,C4
+Final Hook,male_topline,view,85,2.5,1.41,58,Bb3
+Final Hook,male_topline,let,86,0,0.41000000000000003,60,C4
+Final Hook,male_topline,the,86,0.5,0.41000000000000003,63,Eb4
+Final Hook,male_topline,blinds,86,1.0,0.91,65,F4
+Final Hook,male_topline,come,86,2,0.41000000000000003,63,Eb4
+Final Hook,male_topline,up,86,2.5,1.2499999999999998,60,C4
+Final Hook,male_topline,You,87,0,0.41000000000000003,55,G3
+Final Hook,male_topline,don't,87,0.5,0.41000000000000003,58,Bb3
+Final Hook,male_topline,need,87,1.0,0.41000000000000003,60,C4
+Final Hook,male_topline,the,87,1.5,0.91,63,Eb4
+Final Hook,male_topline,right,87,2.5,0.41000000000000003,65,F4
+Final Hook,male_topline,words,87,3.0,0.91,63,Eb4
+Final Hook,male_topline,I,88,0,0.91,62,D4
+Final Hook,male_topline,won't,88,1.0,0.41000000000000003,55,G3
+Final Hook,male_topline,hang,88,1.5,0.41000000000000003,58,Bb3
+Final Hook,male_topline,up,88,2,1.7499999999999998,60,C4
+Final Hook,male_topline,I,89,0,0.2,58,Bb3
+Final Hook,male_topline,won't,89,0.25,0.6,58,Bb3
+Final Hook,male_topline,hang,89,1.0,0.4,63,Eb4
+Final Hook,male_topline,up,89,1.5,2,67,G4
+Final Hook,male_topline,won't,90,0,0.8,58,Bb3
+Final Hook,male_topline,hang,90,1.0,0.4,65,F4
+Final Hook,male_topline,up,90,1.5,1.5,63,Eb4
+Final Hook,male_topline,We,91,0,0.41000000000000003,63,Eb4
+Final Hook,male_topline,don't,91,0.5,0.41000000000000003,63,Eb4
+Final Hook,male_topline,got-,91,1.0,0.41000000000000003,65,F4
+Final Hook,male_topline,ta,91,1.5,0.41000000000000003,67,G4
+Final Hook,male_topline,fix,91,2,0.41000000000000003,67,G4
+Final Hook,male_topline,it,91,2.5,0.41000000000000003,65,F4
+Final Hook,male_topline,all,91,3.0,0.41000000000000003,63,Eb4
+Final Hook,male_topline,be-,91,3.5,0.41000000000000003,62,D4
+Final Hook,male_topline,fore,92,0,0.41000000000000003,60,C4
+Final Hook,male_topline,the,92,0.5,0.91,58,Bb3
+Final Hook,male_topline,sun's,92,1.5,0.91,62,D4
+Final Hook,male_topline,up,92,2.5,1.2499999999999998,63,Eb4
+Final Hook,male_topline,We,93,0,0.41000000000000003,62,D4
+Final Hook,male_topline,can,93,0.5,0.41000000000000003,62,D4
+Final Hook,male_topline,let,93,1.0,0.41000000000000003,65,F4
+Final Hook,male_topline,the,93,1.5,0.41000000000000003,67,G4
+Final Hook,male_topline,clock,93,2,0.91,65,F4
+Final Hook,male_topline,run,93,3.0,0.91,62,D4
+Final Hook,male_topline,we,94,0,0.41000000000000003,60,C4
+Final Hook,male_topline,ain't,94,0.5,0.41000000000000003,62,D4
+Final Hook,male_topline,got-,94,1.0,0.41000000000000003,60,C4
+Final Hook,male_topline,ta,94,1.5,0.41000000000000003,59,B3
+Final Hook,male_topline,rush,94,2,1.7499999999999998,62,D4
+Final Hook,male_topline,Stay,95,0,0.41000000000000003,62,D4
+Final Hook,male_topline,a,95,0.5,0.41000000000000003,60,C4
+Final Hook,male_topline,lit-,95,1.0,0.41000000000000003,59,B3
+Final Hook,male_topline,tle,95,1.5,1.41,55,G3
+Final Hook,male_topline,stay,95,3.0,0.41000000000000003,62,D4
+Final Hook,male_topline,a,95,3.5,0.41000000000000003,60,C4
+Final Hook,male_topline,lit-,96,0,0.41000000000000003,59,B3
+Final Hook,male_topline,tle,96,0.5,0.66,55,G3
+Final Hook,male_topline,I,96,1.25,0.41000000000000003,55,G3
+Final Hook,male_topline,won't,96,1.75,0.41000000000000003,55,G3
+Final Hook,male_topline,hang,96,2.25,0.41000000000000003,59,B3
+Final Hook,male_topline,up,96,2.75,0.9999999999999999,60,C4
+Outro,male_topline,Yeah,99,0,0.585,55,G3
+Outro,male_topline,I'm,99,0.65,0.7849999999999999,58,Bb3
+Outro,male_topline,here,99,1.5,2.275,60,C4
+Intro,female_sample_guide,If,1,0,0.4,67,G4
+Intro,female_sample_guide,your,1,0.5,0.4,70,Bb4
+Intro,female_sample_guide,words,1,1.0,1.3,72,C5
+Intro,female_sample_guide,run,1,2.5,0.4,70,Bb4
+Intro,female_sample_guide,out,1,3.0,3.0,67,G4
+Intro,female_sample_guide,I'll,3,0,0.8,67,G4
+Intro,female_sample_guide,be,3,1.0,0.8,70,Bb4
+Intro,female_sample_guide,lis-,3,2,1.3,75,Eb5
+Intro,female_sample_guide,ten-,3,3.5,0.4,74,D5
+Intro,female_sample_guide,ing,4,0,3.0,72,C5
+Hook 1,female_sample_guide,out [tail],6,3.35,0.4,67,G4
+Hook 1,female_sample_guide,out [tail],14,3.35,0.4,67,G4
+Hook 2,female_sample_guide,out [tail],42,3.35,0.4,67,G4
+Hook 2,female_sample_guide,out [tail],50,3.35,0.4,67,G4
+Bridge,female_sample_guide,If,73,0,0.4,67,G4
+Bridge,female_sample_guide,your,73,0.5,0.4,70,Bb4
+Bridge,female_sample_guide,words,73,1.0,1.3,72,C5
+Bridge,female_sample_guide,run,73,2.5,0.4,70,Bb4
+Bridge,female_sample_guide,out,73,3.0,3.0,67,G4
+Bridge,female_sample_guide,I'll,75,0,0.8,67,G4
+Bridge,female_sample_guide,be,75,1.0,0.8,70,Bb4
+Bridge,female_sample_guide,lis-,75,2,1.3,75,Eb5
+Bridge,female_sample_guide,ten-,75,3.5,0.4,74,D5
+Bridge,female_sample_guide,ing,76,0,3.0,72,C5
+Final Hook,female_sample_guide,out [tail],82,3.35,0.4,67,G4
+Final Hook,female_sample_guide,out [tail],90,3.35,0.4,67,G4
+Outro,female_sample_guide,lis-,97,0,1.3,75,Eb5
+Outro,female_sample_guide,ten-,97,1.5,0.4,74,D5
+Outro,female_sample_guide,ing,97,2,5.0,72,C5
